@@ -239,7 +239,7 @@ def _process_city(city, w_values, lam_values, root: Path, out_dir: Path):
         return None
 
     out_dir.mkdir(parents=True, exist_ok=True)
-    csv_file = out_dir / f"similarities_{city}.csv"
+    csv_file = out_dir / f"{city}.csv"
 
     current, older = _find_city_versions(city_dir)
     text_cur = read_input_file(str(current)).lower()
