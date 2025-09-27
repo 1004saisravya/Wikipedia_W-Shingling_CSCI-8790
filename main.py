@@ -1,6 +1,7 @@
 import hashlib
 import re
 import time
+import matplotlib.pyplot as plt
 from pathlib import Path
 
 def read_input_file(file_name):
@@ -333,6 +334,95 @@ def _timing(cities, w_values, lam_values, root: Path, out_dir: Path, runs=3):
     print(f"[timing] results → {csv_file}")
     return csv_file
 
+# ---- simple plotting (uses only matplotlib) ----
+def _try_import_matplotlib():
+    try:
+        import matplotlib.pyplot as plt
+        return plt
+    except Exception:
+        return None
+
+def _plot_city_from_csv(city, csv_path: Path, out_dir: Path):
+    """
+    Read similarities_<city>.csv and plot Jaccard vs version
+    for each (w, λ). One PNG per (w, λ).
+    """
+    plt = _try_import_matplotlib()
+    if plt is None:
+        print("[plot] matplotlib not available; skipping city plots")
+        return
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    lines = csv_path.read_text(encoding="utf-8").strip().splitlines()
+    if len(lines) <= 1:
+        return
+    header = lines[0].split(",")
+    rows = [ln.split(",") for ln in lines[1:] if ln.strip()]
+
+    # group by (w, lambda)
+    from collections import defaultdict
+    groups = defaultdict(list)   # (w, lam) -> [(version, jaccard_float)]
+    for city_, version, w, lam, jac in rows:
+        if city_ != city:
+            continue
+        groups[(int(w), lam)].append((version, float(jac)))
+
+    # sort by numeric lag in the version name (e.g., C-3, VC_T-6, ...)
+    import re
+    for (w, lam), pairs in groups.items():
+        pairs.sort(key=lambda x: int(re.search(r"(\d+)$", x[0]).group(1)) if re.search(r"(\d+)$", x[0]) else 0)
+        xs = [v for v, _ in pairs]
+        ys = [s for _, s in pairs]
+        plt.figure()
+        plt.plot(xs, ys, marker="o")
+        plt.title(f"{city} — Jaccard vs Version (w={w}, λ={lam})")
+        plt.xlabel("Older version (C-3, C-6, ...)")
+        plt.ylabel("Jaccard similarity")
+        plt.xticks(rotation=45, ha="right")
+        plt.grid(True, linestyle="--", alpha=0.5)
+        plt.tight_layout()
+        out_png = out_dir / f"{city}_w{w}_lam{lam}.png"
+        plt.savefig(out_png, dpi=150)
+        plt.close()
+        print(f"[plot] {out_png}")
+
+def _plot_timing_from_csv(csv_path: Path, out_png: Path):
+    """
+    Read timing.csv and plot avg_seconds vs λ, one line per w.
+    """
+    plt = _try_import_matplotlib()
+    if plt is None:
+        print("[plot] matplotlib not available; skipping timing plot")
+        return
+
+    lines = csv_path.read_text(encoding="utf-8").strip().splitlines()
+    if len(lines) <= 1:
+        return
+    rows = [ln.split(",") for ln in lines[1:] if ln.strip()]
+
+    # organize into series per w with λ on x-axis in file order
+    from collections import defaultdict
+    by_w = defaultdict(list)
+    lam_axis = []
+    for w, lam, secs in rows:
+        if lam not in lam_axis:
+            lam_axis.append(lam)           # preserves file order: 8,16,32,64,inf
+        by_w[int(w)].append(float(secs))
+
+    plt.figure()
+    for w in sorted(by_w.keys()):
+        plt.plot(lam_axis, by_w[w], marker="o", label=f"w={w}")
+    plt.title("Shingling time over corpus vs λ")
+    plt.xlabel("λ (inf = all hashes)")
+    plt.ylabel("Average seconds")
+    plt.legend()
+    plt.grid(True, linestyle="--", alpha=0.5)
+    plt.tight_layout()
+    out_png.parent.mkdir(parents=True, exist_ok=True)
+    plt.savefig(out_png, dpi=150)
+    plt.close()
+    print(f"[plot] {out_png}")
+
 def main():
     root = Path("data")
     if not root.exists():
@@ -340,15 +430,23 @@ def main():
         root = alt if alt.exists() else root
 
     out_results = Path("output/results")
+    out_plots   = Path("output/plots")
     cities = ["Jacksonville_FL", "Berkeley_CA", "Edinburg_TX", "Winter Graden_FL"]
 
     w_values   = [25, 50]
     lam_values = [8, 16, 32, 64, float("inf")]
 
+    city_csv_paths = []
     for city in cities:
-        _process_city(city, w_values, lam_values, root=root, out_dir=out_results)
+        csv_path = _process_city(city, w_values, lam_values, root=root, out_dir=out_results)
+        if csv_path:
+            city_csv_paths.append((city, csv_path))
+    
+    t_csv = _timing(cities, w_values, lam_values, root=root, out_dir=out_results, runs=3)
 
-    _timing(cities, w_values, lam_values, root=root, out_dir=out_results, runs=3)
+    for city, csv_path in city_csv_paths:
+        _plot_city_from_csv(city, csv_path, out_dir=out_plots)
+    _plot_timing_from_csv(t_csv, out_png=out_plots / "timing.png")
 
 if __name__ == "__main__":
     main()
