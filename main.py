@@ -208,13 +208,6 @@ def _process_city(city, w_values, lam_values, root: Path, out_dir: Path):
     """
     Compute Jaccard(current, older) for all (w, λ) and save CSV.
 
-    Steps for each city:
-      1) Read the current version and each older version.
-      2) For each w in {25, 50}, build shingles with stride=1 and hash them.
-      3) For each λ in {8,16,32,64,∞}, do λ-min selection on the hashes.
-      4) Compute Jaccard similarity (current vs each older).
-      5) Append one row per comparison to similarities_<city>.csv.
-
     Parameters
     ----------
     city : str
@@ -341,16 +334,6 @@ def _timing(cities, w_values, lam_values, root: Path, out_dir: Path, runs=3):
     return csv_file
 
 def main():
-    """
-    Entry point.
-
-    - Auto-detect data root (prefer ./data, else ./Data).
-    - Process four cities:
-        Jacksonville_FL, Berkeley_CA, Edinburg_TX, Winter Graden_FL
-    - Use w ∈ {25, 50} and λ ∈ {8,16,32,64,∞}.
-    - Write per-city CSVs to output/results/.
-    - Write timing.csv to output/results/.
-    """
     root = Path("data")
     if not root.exists():
         alt = Path("Data")
