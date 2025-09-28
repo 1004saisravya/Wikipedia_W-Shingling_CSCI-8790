@@ -423,6 +423,65 @@ def _plot_timing_from_csv(csv_path: Path, out_png: Path):
     plt.close()
     print(f"[plot] {out_png}")
 
+from statistics import mean
+from collections import defaultdict
+
+def _closest_lambda_to_inf(csv_path: Path, summary_out_dir: Path):
+    """
+    For a city's results CSV: for each w, find the finite λ whose
+    mean Jaccard across versions is closest to the λ=∞ mean.
+
+    Writes: output/results/closest_lambda/closest_lambda_<city>.csv
+    Columns: w,best_lambda,abs_gap_vs_inf,inf_mean,lambda_mean
+    """
+    lines = csv_path.read_text(encoding="utf-8").strip().splitlines()
+    if len(lines) <= 1:
+        return None
+
+    # rows: city,version,w,lambda,jaccard
+    rows = [ln.split(",") for ln in lines[1:] if ln.strip()]
+    by_w_lam = defaultdict(list)  # (int(w), lam_str) -> [jaccard floats]
+    for _city, _ver, w, lam, jac in rows:
+        by_w_lam[(int(w), lam)].append(float(jac))
+
+    results = []
+    ws = sorted({w for (w, _lam) in by_w_lam.keys()})
+    for w in ws:
+        key_inf = (w, "inf")
+        if key_inf not in by_w_lam:
+            # No ∞ line in this file → skip this w
+            continue
+        inf_mean = mean(by_w_lam[key_inf])
+
+        best = None
+        for (ww, lam) in by_w_lam:
+            if ww != w or lam == "inf":
+                continue
+            lam_mean = mean(by_w_lam[(w, lam)])
+            gap = abs(lam_mean - inf_mean)
+            if best is None or gap < best[2]:
+                best = (lam, lam_mean, gap)
+
+        if best:
+            results.append((w, best[0], best[2], inf_mean, best[1]))
+
+    if not results:
+        return None
+
+    summary_out_dir.mkdir(parents=True, exist_ok=True)
+    out_csv = summary_out_dir / f"closest_lambda_{csv_path.stem}.csv"
+    with open(out_csv, "w", encoding="utf-8") as f:
+        f.write("w,best_lambda,abs_gap_vs_inf,inf_mean,lambda_mean\n")
+        for w, lam, gap, inf_mean, lam_mean in results:
+            f.write(f"{w},{lam},{gap:.6f},{inf_mean:.6f},{lam_mean:.6f}\n")
+
+    # Also print a one-liner for quick inspection
+    for w, lam, gap, inf_mean, lam_mean in results:
+        print(f"[closest-λ] {csv_path.stem}: w={w} → λ={lam} (|{lam_mean:.4f}−{inf_mean:.4f}|={gap:.4f})")
+
+    return out_csv
+
+
 def main():
     root = Path("data")
     if not root.exists():
@@ -438,10 +497,12 @@ def main():
     lam_values = [8, 16, 32, 64, float("inf")]
 
     city_csv_paths = []
+    summary_dir = out_results / "closest_lambda"
     for city in cities:
         csv_path = _process_city(city, w_values, lam_values, root=root, out_dir=out_results)
         if csv_path:
             city_csv_paths.append((city, csv_path))
+            _closest_lambda_to_inf(csv_path, summary_out_dir=summary_dir) #compute “closest λ to ∞” per w for this city
     
     t_csv = _timing(cities, w_values, lam_values, root=root, out_dir=out_results, runs=3)
 

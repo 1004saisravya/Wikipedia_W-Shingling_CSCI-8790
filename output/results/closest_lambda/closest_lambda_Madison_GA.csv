@@ -1,0 +1,3 @@
+w,best_lambda,abs_gap_vs_inf,inf_mean,lambda_mean
+25,64,0.028386,0.355911,0.327525
+50,64,0.015692,0.275865,0.260173
