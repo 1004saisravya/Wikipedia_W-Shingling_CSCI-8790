@@ -431,7 +431,8 @@ def main():
 
     out_results = Path("output/results")
     out_plots   = Path("output/plots")
-    cities = ["Jacksonville_FL", "Berkeley_CA", "Edinburg_TX", "Winter Graden_FL"]
+    cities = [d.name for d in root.iterdir() if d.is_dir()]
+
 
     w_values   = [25, 50]
     lam_values = [8, 16, 32, 64, float("inf")]

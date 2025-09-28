@@ -1,0 +1,397 @@
+# Revision ID: 958338962
+# Timestamp: 2020-05-23T07:18:11Z
+
+{{short description|City in Los Angeles County, California, United States}}
+{{Use mdy dates|date=January 2015}}
+{{Infobox settlement
+|name = Rosemead, California
+|official_name            = City of Rosemead
+|settlement_type          = [[City (California)|City]]
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|motto                    = 
+| image_skyline                   = {{Photomontage
+| photo1a                 = Dinsmoor Heritage House and Museum Rosemead California.jpg
+| photo2a                 = Garvey, Rosemead, CA, USA - panoramio (220).jpg
+| photo2b                 = Garvey, Rosemead, CA, USA - panoramio (60).jpg
+| spacing                 = 2
+| position                = center
+| color_border            = white
+| color                   = white
+| size                    = 260
+| foot_montage            = Top: Dinsmoor Heritage House; Bottom: Garvey Ave.
+}}
+|image_flag               = 
+|flag_size                = 
+|image_seal               = Rosemead_seal.jpg
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = 
+|blank_emblem_size        = 
+|image_map                = LA County Incorporated Areas Rosemead highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Rosemead in [[Los Angeles County, California|Los Angeles County]], [[California]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States|size=23px}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|California|size=23px}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Los Angeles County, California.svg|size=23px}} [[Los Angeles County, California|Los Angeles]]
+|subdivision_type3        = 
+|subdivision_name3        = 
+|subdivision_type4        = 
+|subdivision_name4        = 
+|government_type          = 
+|leader_title             = [[City council]]<ref name=cc>{{cite web
+ |url        = http://www.cityofrosemead.org/index.aspx?page=232
+ |archive-url = https://web.archive.org/web/20081025082213/http://www.cityofrosemead.org/index.aspx?page=232
+ |url-status   = dead
+ |archive-date = October 25, 2008
+ |title      = City Officials and Staff Roster
+ |publisher  = City of Rosemead
+ |accessdate = December 14, 2014
+}}</ref>
+|leader_name              = [[Mayor]] Steven Ly, <br/> Mayor Pro Tem Margaret Clark, Councilmembers <br/> Sandra Armenta, <br/> Polly Low, and Sean Dang
+|established_title        = <!-- Settled -->
+|established_date         = 
+|established_title2       = <!-- Incorporated (town) -->
+|established_date2        = 
+|established_title3       = [[Municipal corporation|Incorporated]]
+|established_date3        = August 4, 1959<ref>{{cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |accessdate  = August 25, 2014
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20131017052413/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archivedate = October 17, 2013
+ |df          = mdy-all
+}}</ref>
+<!-- Area------------------>
+|area_magnitude           = 
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_06.txt|publisher=United States Census Bureau|accessdate=Jun 28, 2017}}</ref>
+| area_total_sq_mi        = 5.18
+| area_land_sq_mi         = 5.16
+| area_water_sq_mi        = 0.01
+| area_total_km2          = 13.41
+| area_land_km2           = 13.37
+| area_water_km2          = 0.04
+| area_water_percent      = 0.26
+| area_note               = 
+|area_urban_km2           = 
+|area_urban_sq_mi         = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|elevation_footnotes      = <ref>{{Cite GNIS|1656611|Rosemead|accessdate=October 22, 2014}}</ref>
+|elevation_m              = 97
+|elevation_ft             = 318
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0662896.html|title=Rosemead (city) QuickFacts|publisher=[[United States Census Bureau]]|accessdate=March 10, 2015}}</ref>
+|population_total         = 53764
+|pop_est_as_of            = 2018
+|pop_est_footnotes        = <ref name="USCensusEst2018"/>
+|population_est           = 54412
+|population_density_km2   = 4076.25
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = 
+|timezone                 = [[Pacific Time Zone|PST]]
+|utc_offset               = −8
+|timezone_DST             = PDT
+|utc_offset_DST           = −7
+|coordinates              = {{coord|34|4|N|118|5|W|region:US-CA|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]s
+|postal_code              = 91770–91772<ref>{{cite web | url = http://zip4.usps.com/zip4/zcl_1_results.jsp?visited=1&pagenumber=0&state=ca&city=Rosemead | title = USPS - ZIP Code Lookup - Find a ZIP+ 4 Code By City Results | accessdate = 2007-01-18}}</ref>
+|area_code                = [[Area code 323|323]]/[[Area code 626|626]]<ref>{{cite web | url = http://www.nanpa.com/nas/public/npa_city_query_step2.do?method=displayData&cityToNpaModel.stateAbbr=CA&cityToNpaModel.city=Rosemead | title = Number Administration System - NPA and City/Town Search Results | accessdate = 2007-01-18 | url-status = dead | archiveurl = https://web.archive.org/web/20070926212432/http://www.nanpa.com/nas/public/npa_city_query_step2.do?method=displayData&cityToNpaModel.stateAbbr=CA&cityToNpaModel.city=Rosemead | archivedate = September 26, 2007 | df = mdy-all }}</ref>
+|website                  = {{URL|www.cityofrosemead.org}}
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|06|62896}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1656611}}, {{GNIS 4|2410998}}
+|footnotes                = 
+|population_density_sq_mi = 10557.92
+}}
+{{Chinese|c=柔似蜜市|p=Róushìmì Shì|y=Yàuhchíhmaht Síh|s2=罗斯密市|t2=羅斯密市|p2=Luósīmì Shì|y2=Lòhsīmaht Síh}}
+
+'''Rosemead''' is a city in [[Los Angeles County, California|Los Angeles County]], [[California]], [[United States]].  As of the 2010 census, it had a population of 53,764.  Rosemead is part of a cluster of cities, along with [[Arcadia, California|Arcadia]], [[Temple City, California|Temple City]], [[Monterey Park, California|Monterey Park]], [[San Marino, California|San Marino]], and [[San Gabriel, California|San Gabriel]], in the west [[San Gabriel Valley]] with a growing Asian population.<ref>[http://www.pacsla.org/API_demographics.html PACS | Asian Pacific Family Center | Asian Youth Center | Chinatown Service Center | Korean Youth and Community Center | Search to Involve Pilipino Americans<!-- Bot generated title -->] {{webarchive|url=https://web.archive.org/web/20100705124443/http://www.pacsla.org/API_demographics.html |date=July 5, 2010 }}</ref>
+
+==History==
+Prior to the arrival of the Spanish, the area around Rosemead was populated by [[Indigenous peoples of the Americas|Native Americans]] known as the people of the willow houses or better known as the [[kichirenos people|Kizh]] (pronounced Keech), or as the Spaniards renamed them, the [[Gabrielino|Gabrieleños]].  In 1771, the Spanish founded the first [[Mission San Gabriel Arcángel]] in the area that was formally known as the village of Shevaangna or Siba what is [first Angeleno William McCawley 1996] now known as [[La Mision Veija or Whittier Narrows]] on the border between [[Montebello, California|Montebello]] and Rosemead. In 1775, the mission  moved to avoid the spring floods that ruined the first crops, to its present location in [[San Gabriel, California|San Gabriel]] formally known as the village of Tovisvanga .<ref>{{cite web|url=http://www.californiamissionsonline.com/missions/mission_san_gabriel_arcangel.html|title=Mission San Gabriel Arcangel - History, Photos & Models<!-- Bot generated title -->|access-date=January 10, 2019|archive-url=https://web.archive.org/web/20150812021744/http://californiamissionsonline.com/missions/mission_san_gabriel_arcangel.html|archive-date=August 12, 2015|url-status=dead|df=mdy-all}}</ref>
+
+During the [[Spanish Colonial]] era, the area that is now the City of Rosemead was part of the land administered by the [[San Gabriel Mission]].  As part of the Mexican government's [[Mexican secularization act of 1833|Secularization]] Act of 1833, the land, formerly held by the Mission, was distributed to private citizens, requiring only that they build a house and graze cattle, bringing to an end the Mission Era <ref>[http://www.artfact.com/auction-lot/autographs:-the-revolutionary-secularization-act-1-c-u5zxjrqcbj Lot 40: Autographs: The Revolutionary Secularization Act of 1833 Broadside Signed in Type by President Antonio Lopez de Santa Anna (CALIFORNIA) Rare Early - Early American | A...<!-- Bot generated title -->]</ref>  Following the [[Mexican–American War]] and the 1848 signing of the [[Treaty of Guadalupe]] which transferred sovereignty over the territory now known as the State of [[California]] to the United States, Anglo-American immigration began to flow to the area.  The southern part of Rosemead was part of [[Rancho Potrero Grande]] (Large Pasture) which was originally granted to a Native American man named Manuel Antonio,<ref>Ogden Hoffman, 1862, ''Reports of Land Cases Determined in the United States District Court for the Northern District of California'', Numa Hubert, San Francisco</ref> who was a "mayordomo" (overseer) at the San Gabriel Mission.  The {{convert|4431|acre|km2|0|adj=on}} ranch was later transferred to Juan Matias Sánchez.<ref>{{cite web|url=http://www.juanmatiassanchez.com/|title=Juan Matias Sanchez Southern California Ranchero|website=www.juanmatiassanchez.com}}</ref>
+
+In 1852, John and Harriet Guess  moved cross-country in an ox drawn wagon, to the [[San Gabriel Valley]] from Conway County, Arkansas.<ref name="city">[http://www.cityofrosemead.org/index.aspx?page=196 City of Rosemead : Rosemead History<!-- Bot generated title -->]</ref>  In 1855, the couple camped where present-day Savannah Elementary School is located on Rio Hondo Avenue. They rented the land until 1867, when John Guess purchased {{convert|100|acre|km2|1}} of a {{convert|1164|acre|km2|0|adj=on}} ranch and named it Savannah. The land stretched from [[Valley Boulevard]] to Marshall Street, and from [[Rosemead Boulevard]] to the [[Eaton Wash]].
+
+Other pioneers, Frank Forst and [[Leonard John Rose]], also settled in this valley. Rose and his wife Amanda bought about {{convert|600|acre|km2|1}} of land between what is now Rosemead Boulevard and Walnut Grove Avenue. Rose bred and trained horses for a living. He named his ranch "Rose's Meadow" which was eventually shortened to   Rosemeade and gave the city its name.<ref name="city" /> Rosemeade  was once again shortened to Rosemead. The  peaceful, pastoral community  flourished with small truck farms and rabbit and chicken farms. Settlers moved in and also raised vegetables, fruits, grain and feed for the animals. It wasn't until August 4, 1959, the citizens elected to incorporate Rosemead into a city.<ref name="city"/>
+[[File:Rio Hondo at Garvey Avenue.JPG|thumb|250px|left|Entrance to Rosemead on Garvey Avenue over Rio Hondo Bridge]]
+
+===Rosemead Airport===
+Rosemead Airport is one of the [[vanished former airports]]  which once were spread all throughout the Los Angeles metropolitan area.  [[Western Air College]] operated the airport.  The airport at this location in Rosemead was apparently built at some point between 1940–42, as it was not depicted on  a 1940 LA street map. The earliest depiction of this airport was on a 1942 street map, which labeled the field as the Western Air College Airport. At some point between 1942-44 the airport was renamed Rosemead, as that is how it was labeled on the 1944 LA Sectional Aeronautical Chart (courtesy of John Voss). A flying school was also operated at Rosemead Airport.<ref>{{cite web|url=http://www.airfields-freeman.com/CA/Airfields_CA_LA_E.htm#rosemead|title=Abandoned & Little-Known Airfields: California, East Los Angeles area|website=www.airfields-freeman.com}}</ref>
+
+[[Fletcher Aviation]] acquired the airport from the Heasley brothers during the [[Korean War]] 
+and later sold to AJ Industries in the 1960s, AJ immediately sold the portion of the land from Rio Hondo Avenue almost to Rosemead Boulevard to AeroJet Corporation and they built a large facility there.  It was named Flair Park and the roadway that parallels [[Interstate 10|I-10]] was named Flair Drive.
+<ref>{{cite web|url=https://www.google.com/search?q=Sargent+Fletcher+Aviation,+Rosemead&oe=utf-8|title=Sargent Fletcher Aviation, Rosemead - Google Search|website=www.google.com}}</ref>
+
+==Demographics==
+Rosemead is part of a cluster of cities (along with [[Arcadia, California|Arcadia]], [[Temple City]], [[Monterey Park, California|Monterey Park]], [[San Marino, California|San Marino]], and [[San Gabriel, California|San Gabriel]]) in the west [[San Gabriel Valley]] with a growing Asian population. Rosemead  has a significant  population from [[Mexico]], among other [[Hispanic and Latino Americans|Latino]] nationalities. Less than 1% of the population is [[African-American]] or [[Indigenous peoples of the Americas|Native American]].
+{{US Census population
+|1960= 15476
+|1970= 40972
+|1980= 42604
+|1990= 51638
+|2000= 53505
+|2010= 53764
+|estyear=2018
+|estimate=54412
+|estref=<ref name="USCensusEst2018">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2018.html|title=Population and Housing Unit Estimates|accessdate=July 18, 2019}}</ref>
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|accessdate=June 4, 2015}}</ref>
+}}
+
+===2010===
+The [[2010 United States Census]]<ref>{{cite web|url=https://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0662896|archive-url=https://archive.today/20140715032819/http://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0662896|url-status=dead|archive-date=July 15, 2014|title=2010 Census Interactive Population Search: CA - Rosemead city|publisher=U.S. Census Bureau|accessdate=July 12, 2014}}</ref> reported that Rosemead had a population of 53,764. The [[population density]] was 10,387 people per square mile (4,011/km²). The racial makeup of Rosemead was 11,348 (21.1%) [[White (U.S. Census)|White]] (4.7% Non-Hispanic White),<ref name="quickfacts.census.gov">{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0662896.html|title=Census data}}</ref> 273 (0.5%) [[African American (U.S. Census)|African American]], 396 (0.7%) [[Native American (U.S. Census)|Native American]], 32,617 (60.7%) [[Asian (U.S. Census)|Asian]], 32 (0.1%) [[Pacific Islander (U.S. Census)|Pacific Islander]], 7,940 (14.8%) from [[Race (United States Census)|other races]], and 1,158 (2.2%) from two or more races.  [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 18,147 persons (33.8%).
+
+The Census reported that 53,351 people (99.2% of the population) lived in households, 135 (0.3%) lived in non-institutionalized group quarters, and 278 (0.5%) were institutionalized.
+
+There were 14,247 households, out of which 6,267 (44.0%) had children under the age of 18 living in them, 8,028 (56.3%) were [[marriage|opposite-sex married couples]] living together, 2,502 (17.6%) had a female householder with no husband present, 1,373 (9.6%) had a male householder with no wife present.  There were 571 (4.0%) [[POSSLQ|unmarried opposite-sex partnerships]], and 74 (0.5%) [[same-sex partnerships|same-sex married couples or partnerships]]. 1,739 households (12.2%) were made up of individuals and 844 (5.9%) had someone living alone who was 65 years of age or older. The average household size was 3.74.  There were 11,903 [[family (U.S. Census)|families]] (83.5% of all households); the average family size was 3.99.
+
+The population was spread out with 12,231 people (22.7%) under the age of 18, 5,225 people (9.7%) aged 18 to 24, 14,952 people (27.8%) aged 25 to 44, 14,392 people (26.8%) aged 45 to 64, and 6,964 people (13.0%) who were 65 years of age or older.  The median age was 38.1 years. For every 100 females, there were 97.3 males.  For every 100 females age 18 and over, there were 94.9 males.
+
+There were 14,805 housing units at an average density of 2,860 per square mile (1,104/km²), of which 6,972 (48.9%) were owner-occupied, and 7,275 (51.1%) were occupied by renters. The homeowner vacancy rate was 0.9%; the rental vacancy rate was 3.2%.  26,324 people (49.0% of the population) lived in owner-occupied housing units and 27,027 people (50.3%) lived in rental housing units.
+
+According to the 2010 United States Census, Rosemead had a median household income of $45,760, with 18.8% of the population living below the federal poverty line.<ref name="quickfacts.census.gov"/>
+
+===2000===
+As of the [[census]]<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|accessdate=2008-01-31|title=U.S. Census website}}</ref> of 2000, there were 53,505 people, 13,913 households, and 11,632 families residing in the city.  The [[population density]] was 10,398.3 inhabitants per square mile (4,011.3/km²).  There were 14,345 housing units at an average density of 2,787.8 per square mile (1,075.5/km²).  The racial makeup of the city was 26.57% [[White (U.S. Census)|White]], 0.68% [[African American (U.S. Census)|African American]], 0.85% [[Native American (U.S. Census)|Native American]], 48.76% [[Asian (U.S. Census)|Asian]], 0.06% [[Pacific Islander (U.S. Census)|Pacific Islander]], 19.69% from [[Race (United States Census)|other races]], and 3.38% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 41.30% of the population.
+
+There were 14,110 households out of which 40.3% had children under the age of 18 living with them, 59.7% were [[Marriage|married couples]] living together, 13.6% had a female householder with no husband present, and 19.1% were non-families. 16.0% of all households were made up of individuals and 5.7% had someone living alone who was 65 years of age or older.  The average household size was 3.70 and the average family size was 4.19.
+
+In the city, the population was spread out with 6.5% under the age of 5, 76.9% over the age of 18, and 15.2% over the age of 65.  The median age was 39 years. For every 100 females, there were 102.2 males.  For every 100 females age 18 and over, there were 99.7 males.
+
+The median income for a household in the city was $44,115, and the median income for a family was $46,327. Males working full-time had a median income of $31,599 versus $28,456 for females. The [[per capita income]] for the city was $17,072.  About 11.6% of families and 12.9% of the population were below the [[poverty line]], including 16.6% of those under age 18 and 8.3% of those age 65 or over.
+
+{{10 Asian neighborhoods in Los Angeles County}}
+
+==Emergency services==
+
+Fire protection in Rosemead is provided by the [[Los Angeles County Fire Department]]<ref>{{cite web|url=http://www.code2high.com/#4|title=Code2high Website|website=www.code2high.com}}</ref> with ambulance transport by American Medical Response.<ref>per Los Angeles County EMS Agency Ambulance 911 contractors</ref> The [[Los Angeles County Sheriff's Department]] provides law enforcement, operating out of the Temple City Station.<ref>[https://web.archive.org/web/20100725063413/http://www.lasdhq.org/stations/for1/temple/index.html Los Angeles County Sheriff's Dept. - Temple Station<!-- Bot generated title -->]</ref>
+
+==Economy==
+[[Edison International]], the international family of companies providing electric services, is headquartered in the city.<ref>{{cite web|url=http://www.uspages.com/companyID187.htm|title=USPages - Edison International - the best of US business<!-- Bot generated title -->|publisher=}}</ref> [[Southern California Edison]] serves Rosemead, as well as much of Southern California.<ref>{{cite web|url=http://www.sce.com/_search/?advancedSearch=&recPerPage=10&as_q=&q1=Rosemead|title=SCE - Search Results<!-- Bot generated title -->|publisher=}}</ref>  The [[University of the West]] moved from its location from [[Hsi Lai Temple]] in [[Hacienda Heights, California|Hacienda Heights]] to its current location in Rosemead in 1996 and is one of the very first Buddhist funded universities in the United States. The Rosemead School of Psychology, which is now located with [[Biola University]] in [[La Mirada, California|La Mirada]], was named after its original location in Rosemead and was the first independent professional school of psychology in the nation to be accredited by regional accrediting association.<ref>{{cite web|url=http://www.biola.edu/academics/|title=Academics|website=Biola University}}</ref> The Chinese cuisine fast food chain [[Panda Restaurant Group]] is headquartered in Rosemead.<ref>"[http://www.pandarg.com/aboutPRG/corpFact.asp Corporate Fact Sheet] {{webarchive|url=https://web.archive.org/web/20090901194407/http://www.pandarg.com/aboutPRG/corpFact.asp |date=September 1, 2009 }}." [[Panda Restaurant Group]]. Retrieved on February 26, 2010.</ref> The Chinese-Vietnamese [[Sriracha sauce|Sriracha]] red chili sauce (known to many as Rooster sauce) manufacturer [[Huy Fong Foods]], Inc. (匯豐食品公司) is also based in the city.<ref>"[http://www.huyfong.com/no_frames/contact.htm Contact Us] {{webarchive|url=https://web.archive.org/web/20100125230447/http://www.huyfong.com/no_frames/contact.htm |date=January 25, 2010 }}." [[Huy Fong Foods]]. Retrieved on February 26, 2010.</ref>  The sauce is now being made at Huy Fong's plant in neighboring [[Irwindale]].
+
+===Top employers===
+According to the City's 2014 Comprehensive Annual Financial Report,<ref name="cafr">{{cite web|url=http://www.cityofrosemead.org/Modules/ShowDocument.aspx?documentid=3068|title=City of Rosemead CAFR|publisher=}}</ref> the top employers in the city are:
+
+{| class="wikitable"
+|-
+! #
+! Employer
+! # of Employees
+|-
+| 1
+|[[Edison International]] ([[Southern California Edison]])
+|4,100
+|-
+| 2
+|[[Garvey School District]]
+|804
+|-
+| 3
+|[[Panda Restaurant Group]]
+|400
+|-
+| 4
+|[[Wal-Mart]]
+|389
+|-
+| 5
+|[[Rosemead Elementary School District|Rosemead School District]]
+|337
+|-
+| 6
+|[[Target Corporation|Target]]
+|200
+|-
+| 7
+|[[Ametek|Hermetic Seal]]
+|189
+|-
+| 8
+|[[Olive Garden]]
+|115
+|-
+| 9
+|[[Doubletree]]
+|100
+|-
+| 10
+|[[Don Bosco Technical Institute]]
+|90
+|}
+
+===Politics and Wal-Mart===
+Controversies over the development of a [[Wal-Mart]] Super-center, in a residential section in the southern portion of the city, had been bitterly longstanding.  After some political maneuvering, it opened on September 13, 2006. A recall election to remove two council members that supported the Wal-Mart, Jay Imperial and Gary Taylor, was held on September 19, 2006. The voters defeated the recall in a 60 to 40 percent majority vote.  However, in the general elections that followed shortly thereafter on March 6, 2007,  Polly Low defeated incumbent and former recall target,  Jay Imperial, garnering the highest vote count among the five candidates vying for the two open seats on the council.
+
+==Government==
+
+===Municipal government===
+Elections for the four year terms are held every two years in the odd-numbered years. The Council elects from its membership a Mayor to serve as its presiding officer for a one-year term.   [[Margaret Clark (politician)|Margaret Clark]], Steven Ly, and Sandra Armenta, swept the election in March 2009.  In March 2011,  Gary Taylor, who sat on the City Council for 37 years,<ref>{{cite web|url=http://www.rosemead-info.4t.com/|title=Articles regarding the City of Rosemead, California<!-- Bot generated title -->|publisher=}}</ref>  retired after serving his fourth term as mayor,<ref>{{Cite web |url=http://www.mercurynews.com/california/ci_17570639 |title=Archived copy |access-date=December 8, 2018 |archive-url=https://web.archive.org/web/20160303224954/http://www.mercurynews.com/california/ci_17570639 |archive-date=March 3, 2016 |url-status=dead |df=mdy-all }}</ref> At That time, Steven Ly then became mayor and Sandra Armenta, mayor pro tem. Polly Low was re-elected and William Alarcon, formerly of the Rosemead Planning Commission, came on board as for a second term as city councilman. In 2013 [[Margaret Clark (politician)|Margaret Clark]], Steven Ly, and Sandra Armenta, again swept the election on March 5, 2013.<ref>{{Cite web |url=http://www.sgvtribune.com/news/ci_22726741/rosemead-city-council-incumbents-path-reelection |title=Archived copy |access-date=December 8, 2018 |archive-url=https://web.archive.org/web/20130610003537/http://www.sgvtribune.com/news/ci_22726741/rosemead-city-council-incumbents-path-reelection |archive-date=June 10, 2013 |url-status=dead |df=mdy-all }}</ref> Rosemead's City Council elections take place on a first Tuesday after the first Monday in March of odd-numbered years. The city recently cancelled its March 2017 City Council election due to the fact that there were not enough challengers to compete against the incumbents.
+
+City Council 2018:<ref>{{cite web|title=City Officials and Staff Roster|url=http://www.cityofrosemead.org/index.aspx?page=202|website=City of Rosemead|accessdate=31 July 2017}}</ref>
+* Mayor Margaret Clark
+* Mayor Pro Tem Sandra Armenta
+* Councilmember Sean Dang 
+* Councilmember Polly Low
+* Councilmember Steven Ly
+
+Administration:
+* Gloria Molleda, City Manager
+* Assistant City Manager<ref>http://www.cityofrosemead.org/index.aspx?page=232{{dead link|date=April 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+* Ericka Hernandez, City Clerk
+* Ben Kim, Director of Community Development
+* Peal Lieu, Director of Finance
+* Thomas Boecking, Director of Parks and Recreation
+* Chris Daste, Director of Public Works
+
+Salary Schedule [http://www.cityofrosemead.org/index.aspx?page=376]
+
+===Federal and state representation===
+Before December 2012, Rosemead was located in [[California's 32nd congressional district]], which had a [[Cook Partisan Voting Index]] of D +17.<ref>{{cite web | title = Will Gerrymandered Districts Stem the Wave of Voter Unrest? | publisher = Campaign Legal Center Blog | url = http://www.clcblog.org/blog_item-85.html | accessdate = 2008-02-10 | archive-url = https://web.archive.org/web/20080219030633/http://www.clcblog.org/blog_item-85.html | archive-date = February 19, 2008 | url-status = dead | df = mdy-all }}</ref>  Currently, Rosemead is in {{Representative|cacd|27|fmt=district}}.<ref>{{Cite GovTrack|CA|27}}</ref>
+
+In the [[California State Legislature]], Rosemead is in {{Representative|casd|22|fmt=sdistrict}}, and in {{Representative|caad|49|fmt=adistrict}}.<ref>{{cite web
+ | url = http://statewidedatabase.org/gis/gis2011/index_2011.html
+ | title = Statewide Database
+ | publisher = UC Regents
+ | accessdate = December 14, 2014
+ | archive-url = https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html
+ | archive-date = February 1, 2015
+ | url-status = dead
+ }}</ref>
+
+==Geography==
+Rosemead is located at {{Coord|34|4|N|118|5|W|type:city}} (34.070, -118.082).<ref name="GR1">{{cite web|url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html|publisher=[[United States Census Bureau]]|accessdate=2011-04-23|date=2011-02-12|title=US Gazetteer files: 2010, 2000, and 1990}}</ref>
+
+According to the [[United States Census Bureau]], the city has a total area of {{convert|5.2|sqmi|km2}}.  {{convert|5.2|sqmi|km2}} of it is land and 0.19% is water.
+
+The city is bordered to the north by [[San Gabriel, California|San Gabriel]] and [[Temple City, California|Temple City]], to the east by [[El Monte, California|El Monte]], and [[South El Monte, California|South El Monte]], to the south by the unincorporated area of [[South San Gabriel, California|South San Gabriel]] and [[Montebello, California|Montebello]] and to the west by [[San Gabriel, California|San Gabriel]] and [[Monterey Park, California|Monterey Park]].
+
+==Infrastructure==
+The [[Los Angeles County Sheriff's Department]] (LASD) operates the Temple Station in [[Temple City, California|Temple City]], serving Rosemead.<ref>"[http://www.lasd.org/stations/for1/temple/index.html Temple Station] {{webarchive|url=https://web.archive.org/web/20100130081607/http://www.lasd.org/stations/for1/temple/index.html |date=January 30, 2010 }}." [[Los Angeles County Sheriff's Department]]. Retrieved on January 21, 2010.</ref>
+
+The [[Los Angeles County Department of Health Services]] operates the Monrovia Health Center in [[Monrovia, California|Monrovia]], serving Rosemead.<ref>"[http://publichealth.lacounty.gov/phn/docs/HealthCenter/monrovia.pdf Monrovia Health Center]." [[Los Angeles County Department of Health Services]]. Retrieved on March 27, 2010.</ref>
+
+==Education==
+Rosemead is served by two elementary school districts: [[Garvey School District]] and [[Rosemead School District]]. Each of these districts overlaps with a high school district; the former overlaps with the [[Alhambra Unified School District]] and the latter overlaps with a portion of the [[El Monte Union High School District]].
+
+There is one public high school--[[Rosemead High School]] (of El Monte UHS)—in the city and three public middle schools: [[Muscatel Middle School]], [[Richard Garvey Intermediate School]] and [[Roger W. Temple Intermediate School]]. The portion in Garvey SD with Alhambra USD high school zoning is zoned to [[San Gabriel High School]].<ref name=AUSDHSMap>{{cite web|url=http://www.ausd.us/enrollment/maps/2015%20AUSD%20HS%20Map%20Revise.pdf|title=High School Zoning Map|publisher=[[Alhambra Unified School District]]|accessdate=2020-04-13}}<!--Older URL is at http://www.alhambra.k12.ca.us/documents/hsboundary.jpg--></ref><ref name=Rosemeadmap>{{cite web|url=https://www.cityofrosemead.org/UserFiles/Servers/Server_10034989/File/Gov/City%20Departments/Community%20Development/Planning/Zoning_Map_ZC_October_2013.pdf|title=Zoning Map|publisher=City of Rosemead|date=October 2013|accessdate=2020-04-14}}</ref> A portion is also zoned to the [[Montebello Unified School District]].<ref>"[http://montebellousd-ca.schoolloop.com/file/1294471603772/1295706265378/6585536690319575483.pdf District Map]." [[Montebello Unified School District]]. Retrieved on January 3, 2017.</ref>
+
+[[Don Bosco Technical Institute]], a private high school, is also in Rosemead.
+
+[[University of the West]] has been located in Rosemead since 1996. The Buddhist-founded campus is located at 1409 N. Walnut Grove Ave. UWest is Rosemead's only [[Western Association of Schools and Colleges]] accredited campus.
+
+==Places of interest==
+The Dinsmoor Heritage House is a bijou [[museum]] that houses, preserves and displays a showcase of the colorful and rich history of the City of Rosemead.  Once a private home, it was built in the late 1920s by Adelberrt Dinsmoor, son of one of Rosemead's pioneers, Raphael Dinsmoor. Currently closed to undergoing refurbishing,  it will again conduct monthly tours and host a variety of special events when completed. It is located at 9642 Steele Street.<ref name="cityofrosemead.org">[http://www.cityofrosemead.org/index.aspx?page=78 City of Rosemead : City Facilities<!-- Bot generated title -->]</ref>
+
+The Marinelli Stadium, named in memory of [[Rod Marinelli]], formerly the head coach of the Detroit Lions, is located at Rosemead High School.  "Rod Marinelli Stadium" appears in lights above the scoreboard and an encrypted bronze marker is placed at the southern edge of the field on a large  stone.<ref>{{cite web|url=http://www.placesonline.com/north_america/united_states/california/rosemead/landmarks_and_historic_sites/marinelli_stadium.asp|title=Marinelli Stadium Rosemead - Monuments and Historic Buildings|website=www.placesonline.com}}</ref>
+
+There are two community centers in Rosemead that offer multi-purpose facilities for a large variety of occasions as well as  senior activities, adult education programs, youth and adult classes, as well as two preschools.<ref name="cityofrosemead.org"/>
+
+The city has completed a complete renovation, from the ground up, at both city aquatic centers.  Rosemead Aquatic Center, located in Rosemead Park, features swim, water polo and diving facilities as well as swim classes and recreation areas. Garvey Aquatic Center is now a state of the art recreational aquatic facility featuring water slides, interactive play areas and a lesson pool. Showers at both pools have been updated for resource efficiency. The city completed these plans on schedule for the summer of 2011.<ref>[http://www.cityofrosemead.org/index.aspx?page=13&recordid=429&returnURL=%2findex.aspx City of Rosemead : City News : Rosemead and Garvey Pool Bid Packets<!-- Bot generated title -->]</ref>  Garvey Aquatic Center was funded entirely through a grant from the State of California. Rosemead Aquatic Center was funded by bond proceeds.<ref>{{Cite web | url=http://www.cityofrosemead.org/index.aspx?page=396 | title=City of Rosemead : Aquatic Centers| archive-url=https://web.archive.org/web/20110508231938/http://www.cityofrosemead.org/index.aspx?page=396| archive-date=May 8, 2011}}</ref>
+
+===City parks===
+*Garvey Park, located at 7933 Emerson Place.
+*Rosemead Park and 1/2-Mile Fitness Trail located at 4343 Encinita Avenue. 
+* Klingerman Park, located at 8800 Klingerman Avenue.
+*Sally Tanner Park, at 8343 E Mission Drive.
+*Zapopan Park, at 3018 N. Charlotte Avenue.
+* Jay Imperial Park, near Garvalia Avenue and San Gabriel Boulevard, construction planned as of 2012.<ref>{{Cite web |url=http://www.sgvtribune.com/news/ci_18555138 |title=Archived copy |access-date=December 8, 2018 |archive-url=https://web.archive.org/web/20120324085408/http://www.sgvtribune.com/news/ci_18555138 |archive-date=March 24, 2012 |url-status=dead |df=mdy-all }}</ref>
+
+===Savannah Pioneer Cemetery===
+{{Main|Savannah Memorial Park}}
+Before the Civil War, many Southern families settled in [[El Monte, California|El Monte]], then called Lexington. The community of Rosemead, then called Savannah, {{Citation needed|date=March 2011}} is located adjacent to El Monte and is situated above the water table. The slightly elevated land made it the logical alternative as the burial site for residents of swampy Lexington. The first known burial was in 1846, five years before most of the settlers arrived. Today the 41/2 acre cemetery, with 200 plots remaining of its original 3,000, is  privately owned by the El Monte Cemetery Association.  When the City of Rosemead started to widen [[Valley Boulevard]] in the 1920s, construction crews unearthed dozens of corpses outside the fence of the cemetery. The majority of the skeletons were reburied in a mass grave inside the cemetery proper, but some were so deteriorated that the workers left them undisturbed and simply paved over them so that there are more graves scattered under Valley Boulevard and beneath adjacent area businesses. The area also was a Native American burial ground before the bodies of settlers filled the cemetery.<ref name="usgennet.org">{{cite web|url=http://www.usgennet.org/usa/ca/state/El_Monte_Cemetery_Rpt.htm|title=California Saving Graves<!-- Bot generated title -->|access-date=August 5, 2010|archive-url=https://web.archive.org/web/20100804005733/http://www.usgennet.org/usa/ca/state/El_Monte_Cemetery_Rpt.htm|archive-date=August 4, 2010|url-status=dead|df=mdy-all}}</ref>
+Savannah Pioneer Cemetery is located at the intersection of Mission Dr. and Valley Blvd.<ref>{{cite web|url=http://savannahpioneercem.blogspot.com/ |title=Savannah Pioneer Cemetery |publisher=Savannahpioneercem.blogspot.com |date= |accessdate=2018-10-04}}</ref> It is reputed to be the oldest Protestant cemetery in [[Los Angeles County]].<ref>{{Cite web |url=http://www.scgsgenealogy.com/savannah-cem.htm |title=Archived copy |access-date=December 8, 2018 |archive-url=https://web.archive.org/web/20121016052647/http://scgsgenealogy.com/savannah-cem.htm |archive-date=October 16, 2012 |url-status=dead |df=mdy-all }}</ref> The El Monte Cemetery Association, incorporated in 1920, is responsible for the maintenance and upkeep of the cemetery. The association's funding comes from private donations and fundraising activities.<ref name="usgennet.org"/>
+
+==Shopping==
+A small portion of the [[Montebello Town Center]] is actually located within Rosemead city limits. It features major department stores, smaller shops and a small food court. The boundary line between Montebello and Rosemead runs through the eastern end of the [[shopping mall]].<ref>{{cite web|url=http://www.yelp.com/biz/the-shops-at-montebello-montebello#query:Rosemead%20Mall%20Macy%27s |title=The Shops at Montebello - 165 Photos & 221 Reviews - Shopping Centers - 2134 Montebello Town Ctr, Montebello, CA - Phone Number |publisher=Yelp |date= |accessdate=2018-10-04}}</ref> Policing is provided by the City of [[Montebello, California|Montebello]].
+
+There is an Asian shopping center on Garvey Avenue in Rosemead, formerly The Diamond Square Shopping Center, featuring many restaurants and many Chinese shops. Nearby is The Square Supermarket featuring Korean and Vietnamese foods.<ref>{{cite web|url=http://www.yelp.com/biz/the-square-shopping-center-rosemead|title=The Square Shopping Center - CLOSED - Rosemead, CA|website=Yelp}}</ref>  Rosemead Square Shopping Center is located on [[Rosemead Boulevard]] near the South El Monte and [[El Monte, California|El Monte]] city limits.<ref>{{Cite web |url=http://www.beachcalifornia.com/shopmall.html |title=Department Stores & Malls in California |access-date=December 8, 2018 |archive-url=https://web.archive.org/web/20170311032329/http://www.beachcalifornia.com/shopmall.html |archive-date=March 11, 2017 |url-status=dead |df=mdy-all }}</ref>
+
+===Salary schedule, City officials===
+In light of the recent scandals involving neighboring towns, Rosemead has publicly posted its salary schedule for the city officials.
+
+==Media==
+Rosemead community news are covered on the ''[[San Gabriel Valley Tribune]]'' which is a paid daily newspaper and ''Mid-Valley News'' and ''Rosemead Reader'', which are community weeklies.
+
+== Notable people ==
+*[[Audio Karate]]{{citation needed|date=December 2011}} 
+*[[Isaias Hellman]], German-Jewish banker and philanthropist, and a founding father of the University of Southern California
+*[[Taboo (rapper)]] (of the Black Eye Peas)<ref>{{cite web|url=http://www.insidesocal.com/sgvgov/2008/05/15/taboo-visits-rosemead/|accessdate=February 29, 2016|title=Taboo visits Rosemead|website=www.insidesocal.com|date=2008-05-15}}</ref>
+*[[Toscha Seidel]], violinist
+*[[Vikki Carr]], singer<ref>{{cite web|url=http://www.worldentertainment.net/artist-information/vikki-carr/|accessdate=February 29, 2016|title=Artist info|website=www.worldentertainment.net|archive-url=https://web.archive.org/web/20160307075201/http://www.worldentertainment.net/artist-information/vikki-carr/|archive-date=March 7, 2016|url-status=dead|df=mdy-all}}</ref>
+*[[Bob Mackie]], fashion designer
+*[[Rod Marinelli]], defensive coordinator, [[Dallas Cowboys]], born in Rosemead<ref>{{cite web|url=https://www.pro-football-reference.com/coaches/MariRo0.htm|title=Rod Marinelli Record, Statistics, and Category Rank|website=Pro-Football-Reference.com|accessdate=March 22, 2015}}</ref>
+*[[Prima J]], musical group<ref name="Latina">{{Cite magazine |date=2008-06-01  |title=118 Reasons to Love Being Latina |magazine=Latina |publisher=Latina Publications}}</ref>
+*[[Jose Flores (infielder)|Jose Flores]], MLB baseball player
+*[[Audie Desbrow]], (drummer rock band "Great White") born and raised in Rosemead.
+
+==Sister cities==
+*{{flagicon|Taiwan}} [[Keelung]], [[Republic of China|Taiwan]]
+*{{flagicon|Mexico}} [[Zapopan, Jalisco|Zapopan]], [[Jalisco]], [[Mexico]]
+
+==See also==
+{{Portal|Greater Los Angeles}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category|Rosemead, California}}
+*[http://www.cityofrosemead.org/ official City of Rosemead website]
+*[https://web.archive.org/web/20081119160203/http://www.cleanrosemead.org/ Committee for a Clean and Beautiful Rosemead]
+*[https://archive.today/20121216102130/http://lacdcs.com/station-end-page-5.html LA County Disaster Communications Service ( DCS ) Temple Station]
+*[http://www.rosemeadchamber.org/ Rosemead Chamber of Commerce]
+*[http://www.rosemeadkiwanis.org/ Rosemead Kiwanis Club] Community information resource including links to schools, spiritual organizations etc. for service club active in promoting after school, community health and similar programs.
+*[http://www.rosemeadpride.org/ Rosemead PRIDE] a group that promotes business and community development; leads the pro-Wal-Mart camp
+*[https://web.archive.org/web/20180223175001/http://saveourcommunity.us/ Save Our Community] a community group fighting Wal-Mart in Rosemead
+*[http://www.rosemeadrebels.com/ Rosemead Rebels Youth Football]
+*[http://www.rosemead.k12.ca.us/ Rosemead School District]
+*[http://www.garvey.k12.ca.us/ Garvey School District]
+*[http://rhs.schoolloop.com/ Rosemead High School]
+*[http://www.uwest.edu/ University of the West]
+*[http://www.savannahcemetery.org/ El Monte Cemetery]
+*[http://www.rylc.org/ Rosemead Youth Leadership Center]
+
+{{Cities of Los Angeles County, California}}
+{{Greater Los Angeles Area}}
+{{Chinatowns in the United States}}
+
+{{Geographic Location 
+ | title = '''Destinations from Rosemead'''
+ | Centre =Rosemead
+ | North =[[Temple City, California|Temple City]]
+ | Northeast =[[El Monte, California|El Monte]] 
+ | East =[[South El Monte, California|South El Monte]]
+ | Southeast = [[Whittier Narrows]]
+ | South = [[South San Gabriel, California|South San Gabriel]]<br>[[Montebello, California|Montebello]]
+ | Southwest =[[Monterey Park, California|Monterey Park]]
+ | West = [[San Gabriel, California|San Gabriel]]<br>[[Alhambra, California|Alhambra]]<br>[[Monterey Park, California|Monterey Park]]
+ | Northwest =[[Alhambra, California|Alhambra]]
+ | image =
+}}
+
+{{authority control}}
+
+[[Category:Rosemead, California| ]]
+[[Category:Cities in Los Angeles County, California]]
+[[Category:Communities in the San Gabriel Valley]]
+[[Category:Incorporated cities and towns in California]]

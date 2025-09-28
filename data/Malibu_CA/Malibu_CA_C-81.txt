@@ -1,0 +1,541 @@
+# Revision ID: 1249489015
+# Timestamp: 2024-10-05T05:29:47Z
+
+{{Redirect|Malibu, CA|the TV series|Malibu, CA (TV series){{!}}''Malibu, CA'' (TV series)}}
+{{redirect|Malibu Beach|the film|Malibu Beach (film){{!}}''Malibu Beach'' (film)}}
+{{Use mdy dates|date=May 2024}}
+{{Infobox settlement
+ | name                     = Malibu, California
+ | settlement_type          = [[List of municipalities in California|City]]
+ | image_skyline            = MalibuAir.jpg
+ | image_caption            = Aerial view of Downtown Malibu and surrounding neighborhoods
+ | image_flag               = Flag of Malibu, California.gif
+ | image_seal               = Seal of Malibu, California.jpg
+ | seal_size                = 94px
+ | image_shield             = 
+ | nickname                 = The 'Bu<ref name="Poole" /><ref name="Taylor" /><ref name="Partridge" />
+ | motto                    = 
+ | image_map                = LA County Incorporated Areas Malibu highlighted.svg
+ | mapsize                  = 250x200px
+ | map_caption              = Location of Malibu in [[Los Angeles County, California]]
+ | pushpin_map              = Los Angeles##USA California#USA#North America
+ | pushpin_map_caption      = Location in the [[Los Angeles Metropolitan Area]]##Location in [[California]]##Location in the United States##Location in North America
+ | pushpin_relief           = yes
+ | pushpin_label            = Malibu
+ | coordinates              = {{coord|34|02|06|N|118|41|42|W|region:US-CA|display=inline,title}}
+ | subdivision_type         = Country
+ | subdivision_name         = United States
+ | subdivision_type1        = [[U.S. state|State]]
+ | subdivision_name1        = [[California]]
+ | subdivision_type2        = [[List of counties in California|County]]
+ | subdivision_name2        = [[Los Angeles County, California|Los Angeles]]
+ | established_title3       = [[Municipal corporation|Incorporated (city)]]
+ | established_date3        = {{start date|1991|3|28}}<ref name="incorporated" />
+ | named_for                = [[Chumashan languages|Chumash]]: ''Humaliwo'', "The Surf Sounds Loudly"<ref name="named for" />{{Undue weight inline|date=July 2023}}
+ | government_type          = [[Council–manager]]
+ | leader_title             = Mayor
+ | leader_name              = Bruce Silverstein<ref name="malibucity.org">"Staff Directory: Malibu, CA" https://www.malibucity.org/Directory.aspx?did=4 {{Webarchive|url=https://web.archive.org/web/20240908082726/https://www.malibucity.org/Directory.aspx?did=4 |date=September 8, 2024 }}</ref>
+ | leader_title1            = [[Mayor pro tem]]
+ | leader_name1             = Steve Uhring<ref name="malibucity.org"/>
+ | leader_title2            = City council
+ | leader_name2             = Paul Grisanti<ref name="malibucity.org"/> <br> Marianne Riggins<ref name="malibucity.org"/> <br> Doug Stewart<ref name="malibucity.org"/>
+<!-- Area------------------>
+ | unit_pref                = Imperial
+ | area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020|archive-date=January 16, 2020|archive-url=https://web.archive.org/web/20200116044541/https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|url-status=live}}</ref>
+ | area_total_km2           = 51.54
+ | area_total_sq_mi         = 19.90
+ | area_land_km2            = 51.45
+ | area_land_sq_mi          = 19.86
+ | area_water_km2           = 0.09
+ | area_water_sq_mi         = 0.03
+ | area_water_percent       = 0.22
+ | area_note                = 
+ | elevation_footnotes      = <ref>{{Cite GNIS|1668257|Malibu|access-date=December 20, 2014}}</ref>
+ | elevation_m              = 32
+ | elevation_ft             = 105
+<!-- Population ----------->
+ | population_total         = 10654
+ | population_as_of         = [[2020 United States Census|2020]]
+ | population_footnotes     = <ref name=quif />
+ | population_density_sq_mi = auto
+ | population_est           = 
+ | pop_est_as_of            = 
+ | pop_est_footnotes        = 
+ | population_metro         = 
+ | population_density_metro_sq_mi = 
+<!-- Time zones ----------->
+ | postal_code_type         = [[ZIP Code]]s
+ | postal_code              = 90263–90265<ref>{{cite web | url = http://zip4.usps.com/zip4/zcl_1_results.jsp?visited=1&pagenumber=0&state=ca&city=Malibu | title = USPS – ZIP Code Lookup – Find a ZIP+ 4 Code By City Results | access-date = January 18, 2007 | archive-date = July 13, 2014 | archive-url = https://web.archive.org/web/20140713021528/http://zip4.usps.com/zip4/zcl_1_results.jsp?visited=1&pagenumber=0&state=ca&city=Malibu | url-status = live }}</ref>
+ | area_code                = [[Area codes 310 and 424|310/424]]
+ | website                  = {{URL|www.malibucity.org/}}
+ | timezone                 = [[Pacific Time Zone|Pacific]]
+ | utc_offset               = −8
+ | timezone_DST             = PDT
+ | utc_offset_DST           = −7
+ | blank_name               = [[Federal Information Processing Standard|FIPS code]]
+ | blank_info               = {{FIPS|06|45246}}
+ | blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+ | blank1_info              = {{GNIS 4|1668257}}, {{GNIS 4|2410913}}
+ | population_density_km2   = auto
+ | native_name_lang         = veo
+}}
+
+'''Malibu''' ({{IPAc-en|ˈ|m|æ|l|ᵻ|b|uː}} {{respell|MAL|ih|boo}}) is a beach city in the [[Santa Monica Mountains]] region of [[Los Angeles County, California]],<ref>{{Cite web|title=Santa Monica Mountains|url=http://maps.latimes.com/neighborhoods/region/santa-monica-mountains/|access-date=May 20, 2021|website=Mapping L.A.|archive-date=June 27, 2021|archive-url=https://web.archive.org/web/20210627041511/http://maps.latimes.com/neighborhoods/region/santa-monica-mountains/|url-status=live}}</ref> about {{convert|30|mi|km}} west of [[Downtown Los Angeles]]. It is known for its [[Mediterranean climate]], its strip of beaches stretching 21 miles (34 km) along the [[Pacific Ocean]] coast, and for its longtime status as the home of numerous affluent [[Cinema of the United States|Hollywood]] celebrities and executives. Although a high proportion of its residents are entertainment industry figures with million-dollar mansions, Malibu also features several [[middle-class|middle]]- and [[upper-middle class|upper-middle-class]] neighborhoods.<ref>{{Cite web|url=https://variety.com/2018/biz/news/woolsey-fires-malibu-community-1203033096/|title=How a Tight-Knit Malibu Community Banded Together in the Face of Wildfires|last=MADDAUS|first=GENE|date=November 20, 2018|website=Variety|access-date=February 2, 2020|archive-date=November 20, 2018|archive-url=https://web.archive.org/web/20181120201433/https://variety.com/2018/biz/news/woolsey-fires-malibu-community-1203033096/|url-status=live}}</ref> The Pacific Coast Highway ([[California State Route 1|State Route 1]]) traverses the city and has led most residents to settle anywhere from half a mile (0.8 km) to within a few hundred yards of it, with some residents living up to one mile (1.6 km) away from the beach in areas featuring narrow canyons. As of the [[2020 US Census|2020 census]], the city's population was 10,654.
+
+Nicknamed "The 'Bu" by surfers and locals,<ref name="Poole" /><ref name="Taylor" /><ref name="Partridge" /> Malibu is noted for its beaches. The many parks within the [[Santa Monica Mountains National Recreation Area]] lie along the ridges above the city.
+
+The city is bounded by the Santa Monica Mountains to the north, [[Topanga, California|Topanga]] to the east, [[Solromar, California|Solromar]] to the west, and the ocean to the south. Signs around the city boast of its "21 miles of scenic beauty" in reference to the incorporated city limits. In 2017, the signs were updated from the historical {{convert|adj=on|27|mi|km}} length of the Malibu coast spanning from Tuna Canyon on the southeast to Point Mugu in [[Ventura County, California|Ventura County]] on the northwest.<ref>{{cite news |url=http://www.malibutimes.com/news/article_83e8b77c-3041-11e7-990c-bbd70adba12f.html |title=City Unveils '21 Miles of Scenic Beauty' Signs |first=Emily |last=Sawicki |newspaper=[[Malibu Times]] |date=May 3, 2017 |access-date=May 7, 2017 |archive-date=May 4, 2017 |archive-url=https://web.archive.org/web/20170504021948/http://www.malibutimes.com/news/article_83e8b77c-3041-11e7-990c-bbd70adba12f.html |url-status=dead }}</ref> The Malibu ZIP code includes residents of the unincorporated canyon areas as it was assigned before the city incorporated. The city also has the closest commercial centers.
+
+==History==
+[[File:Adamson House.JPG|thumb|[[Adamson House]], a historic house and gardens, listed on the [[National Register of Historic Places in California|National Register of Historic Places]]]]
+[[File:Granville Redmond Malibu Coast Spring.jpg|thumb|"Malibu Coast, Spring" by [[Granville Redmond]], {{Circa|1929}}]]
+
+The area is within the [[Ventureño language|Ventureño]] [[Chumash people|Chumash]] territory, which extended from the [[San Joaquin Valley]] to [[San Luis Obispo, California|San Luis Obispo]] to Malibu, as well as several islands off the southern coast of California. The Chumash called the settlement ''[[Humaliwo]]''<ref>{{cite web |url=http://www.parks.ca.gov/default.asp?page_id=24435 |title=Humaliwo: An Ethnographic Overview of the Chumash in Malibu |publisher=Parks.ca.gov |access-date=November 2, 2007 |archive-date=October 22, 2008 |archive-url=https://web.archive.org/web/20081022174723/http://www.parks.ca.gov/default.asp?page_id=24435 |url-status=live }}</ref> or "the surf sounds loudly". The city's name derives from this, as the "Hu" syllable is not stressed.
+
+Humaliwo was an important regional center in prehistoric times. The village, which is identified as CA-LAN-264, was occupied from approximately 2500 BCE. It was the second-largest Chumash coastal settlement by the [[Santa Monica Mountains]], after Muwu ([[Point Mugu]]). This pre-colonial village was next to [[Malibu Lagoon State Beach|Malibu Lagoon]] and is now part of the State Park.<ref>McCall, Lynne & Rosalind, Perry, red. (1991): ''The Chumash People: Materials for Teachers and Students''. Santa Barbara Museum of Natural History. San Luis Obispo, CA: EZ Nature Books. {{ISBN|0-945092-23-7}}. Page 29.</ref><ref>Marcus, Ben and Marc Wanamaker (2011). ''Malibu''. Arcadia Publishing. Page 7. {{ISBN|9780738576145}}.</ref>
+
+Humaliwo was considered an important political center, but there were additional minor settlements in the area. One village, Ta'lopop, was a few miles up [[Malibu Canyon]] from Malibu Lagoon. Research shows that Humaliwo had ties to other pre-colonial villages, including Hipuk (in [[Westlake Village, California|Westlake Village]]), Lalimanux (by [[Conejo Grade]]) and Huwam (in [[Bell Canyon, California|Bell Canyon]]).<ref>{{cite web|url=https://www.parks.ca.gov/?page_id=24435|title=Humaliwo: An Ethnographic Overview of the Chumash in Malibu|website=CA State Parks|access-date=November 9, 2017|archive-date=November 10, 2017|archive-url=https://web.archive.org/web/20171110061833/https://www.parks.ca.gov/?page_id=24435|url-status=live}}</ref><ref>Gamble, Lynn H. (2008). ''The Chumash World at European Contact: Power, Trade, and Feasting Among Complex Hunter-Gatherers''. University of California Press. Page 108. {{ISBN|9780520942684}}.</ref>
+
+Conquistador [[Juan Rodríguez Cabrillo]] is believed to have moored at Malibu Lagoon, at the mouth of Malibu Creek, to obtain fresh water in 1542. The Spanish presence returned with the [[Spanish missions in California|California mission]] system, and the area was part of [[Rancho Topanga Malibu Sequit]]—a {{convert|13000|acre|km2|adj=on}} [[land grant]]—in 1802. Baptismal records list 118 individuals from Humaliwo. That ranch passed intact to [[Frederick Hastings Rindge]] in 1891. He and his wife, [[Rhoda May Knight Rindge]], staunchly protected their land. After his death, May guarded their property zealously by hiring guards to evict all trespassers and fighting a lengthy court battle to prevent the building of a [[Southern Pacific Railroad|Southern Pacific railroad]] line through the ranch. Interstate Commerce Commission regulations would not support a railroad condemning property in order to build tracks that paralleled an existing line, so Frederick Rindge built his own railroad through his property first. He died, and May followed through with the plans, building the [[Hueneme, Malibu and Port Los Angeles Railway]]. The line started at Carbon Canyon, just inside the ranch's property eastern boundary, and ran 15 miles westward, past Pt. Dume.<ref>Doyle, Thomas W. et al. ''The Malibu Story,'' pp. 25–27, Malibu Lagoon Museum, Malibu, CA, 1985.</ref><ref>Doyle, Thomas W. and Rindge, Ronald L. ''Malibu Rails and Roads,'' pp. 6, 14–15, 17–19, 22–27, 30–45, 52–61, 70, 74–9, 85, Malibu Lagoon Museum, Malibu, CA, 2012.</ref><ref>Hemenez, Jane Sullivan. ''Malibu: A Good Way of Life,'' p. 37, Ocean Park Press, Santa Monica, CA. {{ISBN|978-0-9899458-0-6}}.</ref><ref name="Myrick, David F. pp. 1-53" />
+
+Few roads even entered the area before 1929, when the state won another court case and built what is now known as the [[California State Route 1|Pacific Coast Highway]]. By then May Rindge was forced to divide her property and begin selling and leasing lots. The Rindge house, known as the [[Adamson House]]<ref>{{cite web |url=http://www.parks.ca.gov/default.asp?page_id=672 |title=Adamson House |publisher=Parks.ca.gov |access-date=November 2, 2007 |archive-date=December 27, 2007 |archive-url=https://web.archive.org/web/20071227182626/http://www.parks.ca.gov/default.asp?page_id=672 |url-status=live }}</ref> (a [[National Register of Historic Places]] site and [[California Historical Landmark]]), is now part of Malibu Creek State Park, between [[Malibu Lagoon State Beach]]<ref>{{cite web |url=http://www.parks.ca.gov/default.asp?page_id=835 |title=Malibu Lagoon State Beach |publisher=Parks.ca.gov |date=January 19, 2005 |access-date=November 2, 2007 |archive-date=October 18, 2007 |archive-url=https://web.archive.org/web/20071018151421/http://parks.ca.gov/default.asp?page_id=835 |url-status=live }}</ref> and Surfrider Beach, beside the Malibu Pier<ref>{{cite web |url=http://www.parks.ca.gov/default.asp?page_id=24409 |title=Malibu Pier |publisher=Parks.ca.gov |access-date=November 2, 2007 |archive-date=March 14, 2008 |archive-url=https://web.archive.org/web/20080314071649/http://www.parks.ca.gov/default.asp?page_id=24409 |url-status=live }}</ref> that was used to provide transportation to/from the ranch, including construction materials for the Rindge railroad, and to tie up the family's yacht.<ref name="Myrick, David F. pp. 1-53"/><ref>Doyle, Thomas W. and Rindge, Ronald L. ''Malibu Rails and Roads,'' pp. 74, Malibu Lagoon Museum, Malibu, CA, 2012.</ref>
+
+In 1926, in an effort to avoid selling land to stave off insolvency, May Rindge created a small ceramic tile factory. At its height, [[Malibu Potteries]] employed over 100 workers, and produced decorative tiles that furnish many Los Angeles-area public buildings and [[Beverly Hills]] residences. The factory, half a mile east of the pier, was ravaged by a fire in 1931.<ref>Doyle, Thomas W and Rindge, Ronald L. ''Malibu Rails and Roads: A Photographic Journey Across Rancho Topanga-Malibu-Sequit,'' pp. 78–9, Malibu Adamson House Foundation, Malibu, CA, 2012.</ref> It partially reopened in 1932, but could not recover from the effects of the [[Great Depression]] and a steep downturn in Southern California construction projects. A distinct hybrid of [[Moorish architecture|Moorish]] and [[Arts and Crafts movement|Arts and crafts]] designs, Malibu tile is considered highly collectible. Fine examples of the tiles may be seen at the Adamson House and Serra Retreat, a 50-room mansion that was started in the 1920s as the main Rindge home on a hill overlooking the lagoon. The unfinished building was sold to the [[Franciscans|Franciscan]] Order in 1942<ref>[http://www.serraretreat.com/about/index.htm Rindge House sold to Franciscans] {{webarchive|url=https://web.archive.org/web/20140701172942/http://www.serraretreat.com/about/index.htm |date=July 1, 2014 }} from serraretreat.com</ref> and is operated as a [[Retreat (spiritual)|retreat]] facility,<ref>{{cite web |url=http://www.serraretreat.com/ |title=Serra Retreat |publisher=Serra Retreat |access-date=November 5, 2007 |archive-url=https://web.archive.org/web/20110202203447/http://www.serraretreat.com/ |archive-date=February 2, 2011 |url-status=dead }}</ref> Serra Retreat. It burned in the 1970 fire and was rebuilt using many of the original tiles.
+
+Most of the Big Rock Drive area was bought in 1936 by [[William Randolph Hearst]], who considered building an estate on the property. In 1944, he sold the lower half of his holdings there to Art Jones, one of Malibu's prominent early realtors, starting with the initial leases of Rindge land in Malibu Colony. He also owned or partly owned the Malibu Inn, Malibu Trading Post, and the Big Rock Beach Cafe (now Moonshadows restaurant). Philiip McAnany owned {{convert|80|acres}} in the upper Big Rock area, which he purchased in 1919, and had two cabins there, one of which burned in a brush fire that swept through the area in 1959, and the other in the 1993 Malibu fire. McAnany Way is named after him.<ref>Map Books of the Los Angeles County Assessor</ref><ref>Lummis, Jr., Dayton.  ''Captain Midnight and the California Dream: 50 Years Adrift in the Golden State,'' pp. 13–26, iUniverse, Inc., Lincoln, NE, 2005.</ref><ref>Lummis, Jr., Dayton.  ''Dust Devils,'' pp. 15–32, SunstonePress.com, Santa Fe, NM, 2007.</ref><ref>Larson, Louise. "Colorful Pioneer of Malibu Inured," ''Evening Outlook,'' December 15, 1970, Santa Monica, CA.</ref>
+
+=== Malibu Colony ===
+Malibu Colony was one of the first areas with private homes after May Rindge opened Malibu to development in 1926. Frederick Rindge paid $10 an acre in 1890.<ref>cite web May K. Rindge, a Fighter to the End https://patch.com/california/malibu/may-k-rindge-a-fighter-to-the-end {{Webarchive|url=https://web.archive.org/web/20230612220317/https://patch.com/california/malibu/may-k-rindge-a-fighter-to-the-end |date=June 12, 2023 }}</ref> One of Malibu's most famous districts,<ref>{{cite web |url=http://malibuca.org/ |title=MalibuCa.org |publisher=MalibuCa.org |access-date=February 6, 2016 |archive-url=https://web.archive.org/web/20160117081148/http://malibuca.org/ |archive-date=January 17, 2016 |url-status=dead  }}</ref> it is south of Malibu Road and the Pacific Coast Highway, west of Malibu Lagoon State Beach, east of Malibu Bluffs Park (formerly a state park), and across from the Malibu Civic Center. May Rindge allowed prominent Hollywood movie stars to build vacation homes in the Colony as a defensive public relations wedge against the [[Southern Pacific Transportation Company|Southern Pacific]] from taking her property under eminent domain for a coastal train route. The action forced the Southern Pacific to route its [[Coast Line (Union Pacific Railroad)|northbound line inland]] then return to the coast in Ventura. But her long legal battle to protect the Malibu coast had been costly, and she died penniless.<ref name="LAT 20160313">{{cite news |url=https://www.latimes.com/opinion/op-ed/la-oe-0313-randall-malibu-20160314-story.html |title=The long and complicated fight to preserve paradise in Malibu |newspaper=[[Los Angeles Times]] |first=David K. |last=Randall |date=March 13, 2016 |access-date=July 8, 2016 |archive-date=June 11, 2016 |archive-url=https://web.archive.org/web/20160611215955/http://www.latimes.com/opinion/op-ed/la-oe-0313-randall-malibu-20160314-story.html |url-status=live }}</ref> Long known as a popular private enclave for wealthy celebrities,<ref>[http://www.seeing-stars.com/Live/Malibu.shtml Celebrities living in Malibu Colony] {{Webarchive|url=https://web.archive.org/web/20060329041425/http://www.seeing-stars.com/Live/Malibu.shtml |date=March 29, 2006 }} from seeing-stars.com</ref> the Malibu Colony is a [[gated community]], with multi-million-dollar homes on small lots. It has views of the Pacific, with coastline views stretching from [[Santa Monica, California|Santa Monica]] to [[Rancho Palos Verdes, California|Rancho Palos Verdes]] to the south (known locally as the ''Queen's Necklace''<ref>[http://www.trails.com/rentals/propertyna.asp?vacation=01044_Thousand+Oaks_California Malibu to RPV: Queen's Necklace] from trails.com</ref>) and the bluffs of [[Point Dume]] to the north.
+
+=== High technology in Malibu ===
+The first working model of a [[laser]] was demonstrated by [[Theodore Harold Maiman|Theodore Maiman]] in 1960 in Malibu at the [[Hughes Research Laboratories|Hughes Research Laboratory]]<ref>[http://www.seattlepi.com/local/6420AP_WA_Obit_Maiman.html Dr. Maiman's laser, the world's first]{{Dead link|date=March 2022 |bot=InternetArchiveBot |fix-attempted=yes }} from seattlepi.nwsource.com</ref> (now known as HRL Laboratories LLC). In the 1990s HRL Laboratories developed the FastScat computer code.<ref>[http://hrl.com/media/anlRprts/05_AR.pdf HRL's FastScat] {{webarchive|url=https://web.archive.org/web/20090326223120/http://hrl.com/media/anlRprts/05_AR.pdf |date=March 26, 2009 }} from the HRL Laboratories website</ref> [[TRW Inc.|TRW]] built a laboratory in Solstice Canyon without any structural steel to test magnetic detectors for satellites and medical devices.<ref>{{cite news|title=Historic Buildings in Solstice Canyon Are Burned: Park Is Closed: Matthew Keller House and TRW Aerospace Research Buildings Destroyed by Corral Fire|work=Malibu Surfside News|first=ANNE|last=SOBLE|date=November 29, 2007|url=http://www.malibusurfsidenews.com/stories/200711/20071129001.html|access-date=December 1, 2009|archive-url=https://web.archive.org/web/20101206222017/http://malibusurfsidenews.com/stories/200711/20071129001.html|archive-date=December 6, 2010|url-status=usurped}}</ref>
+
+=== Incorporation ===
+In 1991 most of the Malibu land grant was incorporated as a city to allow local control of the area (as cities under California law, they are not subject to the same level of county government oversight). Prior to achieving municipal status, the local residents had fought several county-proposed developments, including an offshore freeway,<ref>{{cite news|title=The freeway that never was|work=Malibu Times|date=July 31, 2013|url=http://www.malibutimes.com/malibu_life/image_7a26bbac-fa13-11e2-bd99-0019bb2963f4.html|access-date=April 26, 2012|archive-date=August 6, 2013|archive-url=https://web.archive.org/web/20130806055601/http://www.malibutimes.com/malibu_life/image_7a26bbac-fa13-11e2-bd99-0019bb2963f4.html|url-status=dead}}</ref> a [[nuclear power plant]],<ref>{{cite news|title=Still Generating Controversy|newspaper=LA Times|first=Bob|last=Pool|date=June 14, 2005|url=https://www.latimes.com/archives/la-xpm-2005-jun-14-me-malibunuke14-story.html|access-date=April 26, 2015|archive-date=November 27, 2020|archive-url=https://web.archive.org/web/20201127063256/https://www.latimes.com/archives/la-xpm-2005-jun-14-me-malibunuke14-story.html|url-status=live}}</ref> and several plans to replace septic tanks with [[sanitary sewer|sewer]] lines to protect the ocean from seepage that pollutes the marine environment. The incorporation drive gained impetus in 1986, when the Los Angeles County Board of Supervisors approved plans for a regional sewer that would have been large enough to serve 400,000 people in the western Santa Monica Mountains. Residents were incensed that they would be assessed taxes and fees to pay for the sewer project, and feared that the Pacific Coast Highway would need to be widened into a freeway to accommodate growth that they did not want. The supervisors fought the incorporation drive and prevented the residents from voting, a decision that was overturned in the courts.
+
+The city councils in the 1990s were unable to write a Local Coastal Plan (LCP) that preserved enough public access to satisfy the [[California Coastal Commission]], as required by the California Coastal Act. The state Legislature eventually passed a Malibu-specific law that allowed the Coastal Commission to write an LCP for Malibu, thus limiting the city's ability to control many aspects of land use. Because of the failure to adequately address [[sewage disposal]] problems in the heart of the city, the local water board ordered Malibu in November 2009 to build a [[sewage plant]] for the Civic Center area. The city council has objected to that solution.<ref>{{cite news |url=http://www.malibutimes.com/news/article_4e823718-43af-11e6-a39e-c36a34ab0860.html |title=Construction Begins on Civic Center Sewer |newspaper=[[Malibu Times]] |first=Arthur |last=Augustyn |date=July 7, 2016 |access-date=July 9, 2016 |archive-date=July 9, 2016 |archive-url=https://web.archive.org/web/20160709225633/http://www.malibutimes.com/news/article_4e823718-43af-11e6-a39e-c36a34ab0860.html |url-status=dead }}</ref> On February 2, 2007, Civic Center Stormwater Treatment Facility opened.<ref>{{cite web |title=Civic Center Stormwater Treatment Facility |url=https://www.malibucity.org/429/Civic-Center-Stormwater-Treatment-Facili |website=Malibu, CA |access-date=September 21, 2022 |archive-date=September 21, 2022 |archive-url=https://web.archive.org/web/20220921205839/https://www.malibucity.org/429/Civic-Center-Stormwater-Treatment-Facili |url-status=live }}</ref><ref>{{cite news |title=Malibu's Civic Center Wastewater Treatment Facility Advances with Approvals of Construction Contracts & Land Purchase Agreement |url=https://westsidetoday.com/2016/05/25/malibus-civic-center-wastewater-treatment-facility-advances-approvals-construction-contracts-land-purchase-agreement/ |access-date=September 21, 2022 |work=WestsideToday |date=May 25, 2016 |archive-date=September 21, 2022 |archive-url=https://web.archive.org/web/20220921205839/https://westsidetoday.com/2016/05/25/malibus-civic-center-wastewater-treatment-facility-advances-approvals-construction-contracts-land-purchase-agreement/ |url-status=live }}</ref> On June 29, 2016, City of Malibu ''Civic Center Wasterwater Treatment Facility'', Phase 1, broke ground.<ref name="youtube=yxJ1h2X8txM">{{cite web |author1=City of Malibu |title=Civic Center Water Treatment Facility Groundbreaking Ceremony |url=https://www.youtube.com/watch?v=yxJ1h2X8txM |website=youtube |date=June 29, 2016 |access-date=September 21, 2022 |language=en |quote=MalibuCity.org/CCWTF |archive-date=September 21, 2022 |archive-url=https://web.archive.org/web/20220921205838/https://www.youtube.com/watch?v=yxJ1h2X8txM&gl=US&hl=en |url-status=live }}</ref><ref>{{cite web |title=Malibu, City of- Civic Center Wastewater & Recycling Facility Phase I |url=https://bondaccountability.resources.ca.gov/Project.aspx?ProjectPK=16356&PropositionPK=48 |website=bondaccountability.resources.ca.gov |access-date=September 21, 2022 |quote=Actual Completion: 8/1/2019 |archive-date=September 21, 2022 |archive-url=https://web.archive.org/web/20220921205839/https://bondaccountability.resources.ca.gov/Project.aspx?ProjectPK=16356&PropositionPK=48 |url-status=live }}</ref><ref>{{cite web |title=Groundbreaking Ceremony for Malibu's Civic Center Wastewater Treatment Facility Set for June 29 |url=https://centurycity-westwoodnews.com/groundbreaking-ceremony-for-malibus-civic-center-wastewater-treatment-facility-set-for-june-29/ |website=Century City News |date=June 22, 2016 |access-date=September 21, 2022 |archive-date=September 21, 2022 |archive-url=https://web.archive.org/web/20220921205839/https://centurycity-westwoodnews.com/groundbreaking-ceremony-for-malibus-civic-center-wastewater-treatment-facility-set-for-june-29/ |url-status=live }}</ref><ref>{{cite web |title=Civic Center Water Treatment Facility |url=https://www.malibucity.org/837/Civic-Center-Water-Treatment-Facility |website=malibucity.org |access-date=September 21, 2022 |archive-date=September 8, 2024 |archive-url=https://web.archive.org/web/20240908082731/https://www.malibucity.org/837/Civic-Center-Water-Treatment-Facility |url-status=live }}</ref><ref>{{cite web |title=Malibu's Civic Center Wastewater Treatment Facility Advances with Approvals of Construction Contracts & Land Purchase Agreement |url=https://westsidetoday.com/2016/05/25/malibus-civic-center-wastewater-treatment-facility-advances-approvals-construction-contracts-land-purchase-agreement/ |website=WestsideToday |access-date=September 21, 2022 |date=May 25, 2016 |archive-date=September 21, 2022 |archive-url=https://web.archive.org/web/20220921205839/https://westsidetoday.com/2016/05/25/malibus-civic-center-wastewater-treatment-facility-advances-approvals-construction-contracts-land-purchase-agreement/ |url-status=live }}</ref>
+
+== Geography ==
+[[File:Malibupacificcoasthighway.jpg|thumb|The Pacific Coast Highway (PCH) in central Malibu]]
+[[File:Paradise cove.JPG|thumb|The Paradise Cove pier in Malibu]]
+[[File:Malibu, California aerial view in July 2021.jpg|thumb|Residential developments in the mountains above Malibu coast]]
+Malibu's eastern end borders the [[Topanga, California|community of Topanga]], which separates it from the city of Los Angeles.
+
+According to the [[United States Census Bureau]], the city has an area of {{convert|19.8|sqmi|km2}}, over 99% of it is land.
+
+Malibu's dry brush [[chaparral]] and steep clay slopes make it prone to fires, floods, and mudslides.
+
+Beaches on the Malibu coast include Big Rock Beach, Broad Beach, [[County Line Beach]], Dan Blocker Beach, La Costa Beach,<ref>[https://www.californiabeaches.com/beach/la-costa-beach/ La Costa Beach]</ref> Las Flores Beach,<ref>{{Cite web |url=https://www.californiabeaches.com/beach/las-flores-beach/ |title=Las Flores Beach |access-date=August 14, 2020 |archive-date=October 3, 2021 |archive-url=https://web.archive.org/web/20211003210337/https://www.californiabeaches.com/beach/las-flores-beach/ |url-status=live }}</ref> Malibu Beach, [[Point Dume|Point Dume Beach]], [[Surfrider Beach]], [[Topanga, California|Topanga Beach]], and [[Zuma Beach]]. State parks and beaches on the Malibu coast include [[Leo Carrillo State Park|Leo Carrillo State Beach and Park]],<ref>{{cite web |url=http://www.parks.ca.gov/?page_id=616 |title=Leo Carrillo SB |publisher=Parks.ca.gov |access-date=November 3, 2007 |archive-date=October 4, 2023 |archive-url=https://web.archive.org/web/20231004234415/https://www.parks.ca.gov/?page_id=616 |url-status=live }}</ref> [[Malibu Creek State Park]], [[Point Mugu State Park]],<ref>{{cite web |url=http://www.parks.ca.gov/default.asp?page_id=630 |title=Pt. Mugu SP |publisher=Parks.ca.gov |access-date=November 3, 2007 |archive-date=November 2, 2007 |archive-url=https://web.archive.org/web/20071102010900/http://www.parks.ca.gov/default.asp?page_id=630 |url-status=live }}</ref> and [[Robert H. Meyer Memorial State Beach]],<ref>{{cite web |url=http://www.parks.ca.gov/default.asp?page_id=633 |title=Robert H. Meyer Memorial SB |publisher=Parks.ca.gov |access-date=November 5, 2007 |archive-date=October 18, 2007 |archive-url=https://web.archive.org/web/20071018082433/http://parks.ca.gov/default.asp?page_id=633 |url-status=live }}</ref> along with individual beaches such as El Matador Beach, El Pescador Beach, La Piedra Beach, Carbon Beach, Surfrider Beach, Westward Beach, and Escondido Beach.<ref>{{Cite web |last=Valentino |first=Silas |date=June 12, 2023 |title=Wealthy homeowners penalized for blocking Calif. beach access |url=https://www.sfgate.com/travel/article/malibu-beach-access-blocking-penalized-18145060.php |access-date=June 12, 2023 |website=SFGATE |language=en-US |archive-date=June 12, 2023 |archive-url=https://web.archive.org/web/20230612112326/https://www.sfgate.com/travel/article/malibu-beach-access-blocking-penalized-18145060.php |url-status=live }}</ref> Paradise Cove, Pirates Cove, Trancas, and Encinal Bluffs are along the coast in Malibu. [[Point Dume]] forms the northern end of the [[Santa Monica Bay]], and Point Dume Headlands Park affords a vista stretching to the [[Palos Verdes Peninsula]] and [[Santa Catalina Island, California|Santa Catalina Island]].
+
+Like all California beaches, Malibu beaches are public below the mean high tide line. Many large public beaches are easily accessible, but such access is sometimes limited for some of the smaller and more remote beaches.<ref>{{Cite news |last=Carlson |first=Cheri |date=July 13, 2023 |title=Malibu city officials remove signs for publicly owned, hard-to-spot beach |url=https://www.vcstar.com/story/news/2023/07/13/malibu-removes-signs-for-publicly-owned-hard-to-spot-beach/70407706007/ |access-date=July 16, 2023 |newspaper=Ventura County Star |language=en-US |archive-date=September 8, 2024 |archive-url=https://web.archive.org/web/20240908082727/https://www.vcstar.com/story/news/2023/07/13/malibu-removes-signs-for-publicly-owned-hard-to-spot-beach/70407706007/ |url-status=live }}</ref>
+
+[[File:Malibu Bluffs State Park IMG 0986 060826 140616.jpg|thumb|View from Malibu Bluffs Park, facing west toward Point Dume]]
+The Malibu Coast lies on the fringe of an extensive [[California chaparral and woodlands|chaparral and woodland]] wilderness area, the Santa Monica Mountains National Recreation Area.<ref>[http://www.nps.gov/samo Santa Monica Mountains National Recreation Area] {{Webarchive|url=https://web.archive.org/web/20240908082727/https://www.nps.gov/samo/index.htm |date=September 8, 2024 }} from the [[National Park Service]] website</ref> Various environmental elements collectively create a recipe for natural disasters: the mountainous and geologically unstable terrain; seasonal rainstorms that result in dense vegetation growth; seasonal dry [[Santa Ana winds]]; and a naturally dry topography and climate.
+
+===Wildfires===
+{{See also|2007 California wildfires}}
+[[File:Looking down on the Corral Canyon brush fire from Latigo Cyn Rd Malibu CA.jpg|thumb|left|Looking down on the Corral Canyon brush fire from Latigo Canyon Road]]
+[[File:Woolsey_Fire_evacuation_from_Malibu_on_November_9,_2018.jpg|thumb|left|The smoke plume from the [[Woolsey Fire]], seen from the [[California State Route 1|Pacific Coast Highway]]]]
+
+The Malibu coast has seen dozens of wildfires:<ref>{{cite web |url=http://www.malibutimes.com/articles/2007/11/24/news/news2.prt |title=Malibu Times Article |publisher=Malibu Times Article |date=November 21, 2007 |access-date=February 6, 2016 |archive-url=https://archive.today/20120906215925/http://www.malibutimes.com/articles/2007/11/24/news/news2.prt |archive-date=September 6, 2012 |url-status=dead  }}</ref><ref>{{Cite report|author=Citygate Associates, Inc.|date=October 23, 2019|title=DRAFT: Woolsey Fire After Action Report|section=Exhibit A|pages=1–6|url=https://www.documentcloud.org/documents/6509012-Citygate-Working-Draft-Woolsey-Fire-Incident-AAR.html|access-date=November 7, 2020|publisher=County of Los Angeles|language=en|archive-date=September 19, 2020|archive-url=https://web.archive.org/web/20200919015946/https://www.documentcloud.org/documents/6509012-Citygate-Working-Draft-Woolsey-Fire-Incident-AAR.html|url-status=live}}</ref>
+* October 26, 1929 – Malibu Colony, 13 homes burned.<ref name="hazards" />
+* 1930 – "Potrero," Decker Canyon Road Corridor, {{convert|15000|acre|km2}}, accidental blaze caused by walnut pickers in Thousand Oaks area.<ref name="hazards" />
+* October 23, 1935 – "Malibu" or "Latigo/Sherwood," Kanan/Decker Corridor, {{convert|30000|acre|km2}}.<ref name="hazards" />
+* November 23, 1938 – "Topanga," Topanga Canyon, {{convert|14500|acre|km2}}.<ref name="hazards" />
+* October 20, 1943 – "Las Flores," Malibu Canyon, {{convert|5800|acre|km2}}.<ref name="hazards" />
+* November 6, 1943 – "Woodland Hills (Las Virgenes)," Kanan/Decker Corridor, {{convert|15000|acre|km2}}.<ref name="hazards" />
+* December 26, 1956 – "Newton," Kanan/Decker Corridor, {{convert|26000|acre|km2}}, 100 homes, one death, Frank Dickover.<ref name="hazards" />
+* December 2, 1958 – "Liberty," Malibu Canyon, {{convert|18000|acre|km2}}, eight firefighters injured, 74 homes destroyed (17 in Corral Canyon).<ref name="hazards" />
+* November 6, 1961 – "Topanga," Topanga Canyon, {{convert|8000|acre|km2}}.<ref name="hazards" />
+* September 25, 1970 – "Wright," Malibu Canyon, {{convert|28000|acre|km2}}, 10 deaths, 403 homes destroyed.<ref name="la208946" />
+* October 30, 1973 – "Topanga," Topanga Canyon, {{convert|2800|acre|km2}}.<ref name="hazards" />
+* October 23, 1978 – "Kanan," Kanan/Decker Corridor, {{convert|25000|acre|km2}}, 2 deaths, 230 homes.<ref name="la208946" />
+* October 9, 1982 – "Dayton," Malibu Canyon Corridor, {{convert|44000|acre|km2}}, 15 homes in Paradise Cove destroyed.<ref>{{cite web |url=http://www.malibucomplete.com/mc_history_dev_1970s-91_disasters.php |title=MALIBU HISTORY: 1970 TO CITYHOOD IN 1991 |publisher=Malibucomplete.com |access-date=July 25, 2009 |archive-date=August 20, 2008 |archive-url=https://web.archive.org/web/20080820061105/http://www.malibucomplete.com/mc_history_dev_1970s-91_disasters.php |url-status=live }}</ref>
+* October 14, 1985 – "Piuma," Las Flores area, Topanga Canyon, {{convert|4700|acre|km2}}.<ref name="hazards" />
+* October 14, 1985 – "Decker," Kanan/Decker Corridor, {{convert|6600|acre|km2}}. Both arson-caused; six homes destroyed; $1&nbsp;million damage.<ref name="hazards" />
+* November 2, 1993 – "Old Topanga/North Malibu." One of the largest fires in Malibu history, which burned more than {{convert|16516|acre|km2|0}} from November 2 to 11.<ref>[http://www.lafire.com/famous_fires/931102_OldTopangaFire/110293_official_report_old_topanga_inci.htm 1993 Fire] {{webarchive|url=https://web.archive.org/web/20101106023234/http://lafire.com/famous_fires/931102_OldTopangaFire/110293_official_report_old_topanga_inci.htm |date=November 6, 2010 }}, LACFD official report</ref> The 1993 firestorm was composed of two separate fires, one ravaging most of central Malibu/Old Topanga, and another, larger fire affecting areas north of Encinal Canyon. Three people died and 739 homes destroyed in the central Malibu/Old Topanga blaze. {{convert|18949|acre|km2|0}} were torched in the north Malibu fire, with no deaths and few homes destroyed in the less densely-populated region. Los Angeles County Fire Department officials announced suspicions that the fire was started by arson.<ref>[http://www.coastal.ca.gov/fire/firerept.html Malibu: Public Safety] {{Webarchive|url=https://web.archive.org/web/20071012235708/http://www.coastal.ca.gov/fire/firerept.html |date=October 12, 2007 }} from coastal.ca.gov</ref> The fire and widespread damage to properties and infrastructure resulted in the City of Malibu adopting the strictest fire codes in the country.<ref>{{cite news|url=https://www.npr.org/templates/story/story.php?storyId=1145994|title=Malibu Lessons|website=npr.org|access-date=April 2, 2018|archive-date=July 3, 2018|archive-url=https://web.archive.org/web/20180703190824/https://www.npr.org/templates/story/story.php?storyId=1145994|url-status=live}}</ref>
+* October 21, 1996 – "Calabasas," Malibu Canyon Corridor, Brush fire ignited by arcing power line, {{convert|13000|acre|km2}}.
+* January 6, 2003 – "Trancas", Trancas Canyon, {{convert|759|acre|km2}}.<ref>{{cite web |url=http://www.malibutimes.com/news/article_7cd59e64-ed97-55a0-9a98-dc53856bb857.html |title=Malibu burns again; fire contained, damage limited |work=The Malibu Times |date=January 10, 2003 |access-date=September 28, 2016 |archive-date=May 10, 2017 |archive-url=https://web.archive.org/web/20170510104502/http://www.malibutimes.com/news/article_7cd59e64-ed97-55a0-9a98-dc53856bb857.html |url-status=dead }}</ref>
+* January 8, 2007 – At approximately 5:00&nbsp;pm a fire started in the vicinity of Bluffs Park, south of [[Pacific Coast Highway (California)|Pacific Coast Highway]] in Malibu. The fire hit near the Colony area, burning down four houses on Malibu Road, including the oceanfront home of ''[[Step by Step (TV series)|Step By Step]]'' star [[Suzanne Somers]]. [[Los Angeles County Fire Department]] officials announced that a discarded cigarette stub started the blaze.
+* October 21, 2007 – At approximately 5:00&nbsp;am a fire started off of [[Malibu Canyon Road]]. As of 1:00&nbsp;pm there were 500+ personnel on scene. {{convert|1200|acre|km2}} burned with no containment. 200+ homes were evacuated. Five homes were confirmed to have been destroyed, with at least nine others damaged. Two commercial structures were completely destroyed. Castle Kashan and the Malibu Presbyterian Church were both destroyed.
+* November 24, 2007 – The "Corral Fire" destroyed 53 homes, damaged 35, and burned over {{convert|4720|acre|km2}}, forcing as many as 14,000 people to evacuate. Damages from the fire were expected to reach more than $100&nbsp;million. The blaze originated at the top of Corral Canyon, where a group of young people who were in closed parkland after dusk had started a bonfire despite the presence of high Santa Ana winds. The individuals responsible for starting the fire were later identified, and are the subject of ongoing civil and criminal litigation.<ref>{{Cite news|title=MHS Newspaper Wins National Awards|url=http://www.malibutimes.com/news/article_65a12e1c-893c-54ab-8312-287113705392.html|first=Judy-Anne|last=Goldman|publisher=The Malibu Times|work=MalibuTimes.com|date=June 4, 2003|access-date=October 1, 2014|archive-date=June 25, 2015|archive-url=https://web.archive.org/web/20150625090903/http://www.malibutimes.com/news/article_65a12e1c-893c-54ab-8312-287113705392.html|url-status=dead}}</ref><ref>[http://news.monstersandcritics.com/usa/news/article_1376494.php/Malibu_Thanksgiving_weekend_blaze_claims_53_homes Malibu gossip] {{webarchive|url=https://web.archive.org/web/20130220023334/http://news.monstersandcritics.com/usa/news/article_1376494.php/Malibu_Thanksgiving_weekend_blaze_claims_53_homes |date=February 20, 2013 }} from monstersandcritics.com</ref>
+* November 8, 2018 – The [[Woolsey Fire]], a wildfire that burned from November 8–21 that burned {{convert|96,949|acres|km2|sigfig=3}} and destroyed 1,500 structures and left 341 buildings damaged. The fire also resulted in 3 firefighter injuries and 3 civilian fatalities. In 2020, authorities blamed faulty [[Southern California Edison]] equipment for the blaze.<ref>{{cite web |title=Woolsey Fire Incident Update |url=https://www.fire.lacounty.gov/woolsey-fire-incident/ |website=County of Los Angeles Fire Department |access-date=December 6, 2018 |archive-date=November 12, 2018 |archive-url=https://web.archive.org/web/20181112231819/https://www.fire.lacounty.gov/woolsey-fire-incident/ |url-status=dead }}</ref><ref>{{Cite web|url=https://www.latimes.com/california/story/2019-08-04/malibu-scraps-anti-mansionization-plan-woolsey-fire-future|title=Malibu wanted to crack down on huge mansions. But fire losses could bring even bigger homes|last=Sharp|first=Sonja|date=August 5, 2019|website=[[Los Angeles Times]]|language=en-US|access-date=August 5, 2019|archive-date=August 5, 2019|archive-url=https://web.archive.org/web/20190805142952/https://www.latimes.com/california/story/2019-08-04/malibu-scraps-anti-mansionization-plan-woolsey-fire-future|url-status=live}}</ref><ref>{{Cite web|url=https://eu.vcstar.com/story/news/local/communities/simi-valley/2020/10/29/redacted-2018-woolsey-fire-report-authorities-blame-edison-equipment/6057616002/|title=In redacted Woolsey Fire report, authorities blame Edison equipment for blaze|access-date=March 13, 2023|archive-date=September 8, 2024|archive-url=https://web.archive.org/web/20240908082736/https://www.vcstar.com/story/news/local/communities/simi-valley/2020/10/29/redacted-2018-woolsey-fire-report-authorities-blame-edison-equipment/6057616002/|url-status=live}}</ref>
+
+===Mudslides===
+One of the most problematic side effects of the fires that periodically rage through Malibu is the destruction of vegetation, which normally provides some degree of topographical stability to the loosely packed shale and sandstone hills during periods of heavy precipitation. Rainstorms following large wildfires can thus cause mudslides, in which water-saturated earth and rock moves quickly down mountainsides, or entire slices of mountainside abruptly detach and fall downward.
+
+After the 1993 wildfire stripped the surrounding mountains of their earth-hugging [[chaparral]], torrential rainstorms in early 1994 caused a massive mudslide near Las Flores Canyon that closed down the Pacific Coast Highway for months. Thousands of tons of mud, rocks, and water rained down on the highway. The destruction to property and infrastructure was exacerbated by the road's narrowness at that point, with beachside houses abutting the highway with little or no frontage land as a buffer to the mudslide.<ref>{{cite web |url=http://www.colorado.edu/hazards/research/qr/qr107.html |title=Mudslides in Malibu, etc |publisher=Colorado.edu |access-date=November 3, 2007 |archive-url=https://web.archive.org/web/20070713111554/http://www.colorado.edu/hazards/research/qr/qr107.html |archive-date=July 13, 2007 |url-status=dead  }}</ref> Another large mudslide occurred on [[Malibu Canyon Road]], between the [[Pepperdine University]] campus and HRL Laboratories LLC, closing down Malibu Canyon for two months.<ref>[http://www.wrh.noaa.gov/sgx/document/weatherhistory.pdf Malibu Mudslides] {{Webarchive|url=https://web.archive.org/web/20160120153201/http://www.wrh.noaa.gov/sgx/document/weatherhistory.pdf |date=January 20, 2016 }} from noaa.gov</ref> Yet another behemoth slide occurred on [[Kanan Road/Kanan Dume Road|Kanan Dume Road]], about one mile (1.6&nbsp;km) up the canyon from the Pacific Coast Highway. This closure lasted many months, with Kanan finally fixed by the California Department of Transportation (Cal-Trans)<ref>{{cite web |url=http://www.dot.ca.gov/ |title=Cal-Trans official web site |publisher=Dot.ca.gov |access-date=November 3, 2007 |archive-date=February 4, 2016 |archive-url=https://web.archive.org/web/20160204232255/http://dot.ca.gov/ |url-status=live }}</ref> over a year after the road collapsed.
+
+Mudslides can occur at any time in Malibu, whether a recent fire or rainstorm has occurred or not. [[California State Route 1|Pacific Coast Highway]], [[Kanan Dume Road]], and [[Malibu Canyon Road]] (as well as many other local roads) have all been prone to many subsequent mudslide-related closures. During any period of prolonged or intense rain, Caltrans snowplows patrol most canyon roads in the area, clearing mud, rocks, and other debris from the roads. Such efforts keep most roads passable, but it is nevertheless typical for one or more of the major roads leading into and out of Malibu to be temporarily closed during the rainy season.
+
+===Storms===
+Malibu is periodically subject to intense coastal storms. Occasionally, these unearth remnants of the [[Hueneme, Malibu and Port Los Angeles Railway|Rindge railroad]] that was built through Malibu in the early 20th century.
+
+On January 25, 2008, during an unusually large storm for Southern California, a tornado came ashore and struck a naval base's hangar, ripping off the roof. It was the first tornado to strike Malibu's shoreline in recorded history.<ref>{{cite news|title=Small Tornado Strikes Point Mugu|url=http://www.vcstar.com/news/2008/jan/25/small-tornado-strikes-point-mugu/|access-date=September 28, 2012|newspaper=Ventura County Star|date=January 25, 2008|archive-date=July 29, 2013|archive-url=https://web.archive.org/web/20130729082431/http://www.vcstar.com/news/2008/jan/25/small-tornado-strikes-point-mugu/|url-status=live}}</ref>
+
+===Earthquakes===
+Malibu is within {{convert|50|mi|km}} of the [[San Andreas Fault]], a fault over {{convert|800|mi|km}} long that can produce an earthquake over magnitude 8. Several faults are in the region, making the area prone to earthquakes.
+
+The 1994 [[Northridge earthquake]] and the [[1971 Sylmar earthquake]] (magnitudes 6.7 and 6.6, respectively) shook the area. Smaller earthquakes happen more often.
+
+===Climate===
+This region experiences warm and dry summers, with no average monthly temperatures above {{convert|71.6|°F|°C|abbr=on}}. According to the [[Köppen Climate Classification]] system, Malibu has a [[Mediterranean climate#Warm-summer Mediterranean climate|warm-summer Mediterranean climate]], abbreviated "Csb" on climate maps.<ref>{{cite web|url=http://www.weatherbase.com/weather/weather-summary.php3?s=941640&cityname=Malibu,+California,+United+States+of+America&units=|title=Malibu, California Köppen Climate Classification (Weatherbase)|website=Weatherbase|access-date=July 3, 2018|archive-date=September 21, 2017|archive-url=https://web.archive.org/web/20170921173043/http://www.weatherbase.com/weather/weather-summary.php3?s=941640&cityname=Malibu%2C+California%2C+United+States+of+America&units=|url-status=live}}</ref> The city's climate is influenced by the Pacific Ocean, resulting in far more moderate temperatures than locations further inland experience. Snow in Malibu is extremely rare, but flurries with higher accumulations in the nearby mountains occurred on January 17, 2007. More recently, snow fell in the city on January 25, 2021.<ref>{{Cite web|url=https://www.9news.com/article/weather/accuweather/malibu-snow-snowfall-photos-weather-forecast/507-c4f6e6a1-ce70-4153-859c-273beb266ad7|title=Snow in Malibu? Weather provides surprise in Southern California|date=January 25, 2021|access-date=January 28, 2021|archive-date=May 9, 2022|archive-url=https://web.archive.org/web/20220509050503/https://www.9news.com/article/weather/accuweather/malibu-snow-snowfall-photos-weather-forecast/507-c4f6e6a1-ce70-4153-859c-273beb266ad7|url-status=live}}</ref> The record high temperature of 104&nbsp;°F (40&nbsp;°C) was observed on September 27, 2010, while the record low temperature of 26&nbsp;°F (–3&nbsp;°C) was observed on January 14, 2007.<ref name="MSN" />
+
+{{Weather box
+| location    = Malibu, California ([[Point Mugu State Park]], 1991–2020 normals)
+| single line = Y
+| width       = 50%
+| Jan record high F = 88
+| Feb record high F = 91
+| Mar record high F = 94
+| Apr record high F = 100
+| May record high F = 98
+| Jun record high F = 102
+| Jul record high F = 101
+| Aug record high F = 98
+| Sep record high F = 104
+| Oct record high F = 103
+| Nov record high F = 98
+| Dec record high F = 96
+| year record high F = 104
+| Jan high F = 66.2
+| Feb high F = 64.7
+| Mar high F = 65.5
+| Apr high F = 66.6
+| May high F = 67.5
+| Jun high F = 69.9
+| Jul high F = 72.8
+| Aug high F = 73.7
+| Sep high F = 73.1
+| Oct high F = 73.1
+| Nov high F = 70.6
+| Dec high F = 66.0
+| year high F = 69.1
+| Jan low F = 45.6
+| Feb low F = 45.8
+| Mar low F = 47.7
+| Apr low F = 48.3
+| May low F = 51.8
+| Jun low F = 55.5
+| Jul low F = 58.4
+| Aug low F = 58.3
+| Sep low F = 57.0
+| Oct low F = 54.2
+| Nov low F = 48.1
+| Dec low F = 44.0
+| year low F = 51.2
+| Jan record low F = 26
+| Feb record low F = 28
+| Mar record low F = 31
+| Apr record low F = 31
+| May record low F = 34
+| Jun record low F = 37
+| Jul record low F = 42
+| Aug record low F = 43
+| Sep record low F = 40
+| Oct record low F = 35
+| Nov record low F = 28
+| Dec record low F = 28
+| year record low F = 26
+| Jan precipitation inch = 2.36
+| Feb precipitation inch = 3.93
+| Mar precipitation inch = 2.17
+| Apr precipitation inch = 0.48
+| May precipitation inch = 0.38
+| Jun precipitation inch = 0.11
+| Jul precipitation inch = 0.02
+| Aug precipitation inch = 0.01
+| Sep precipitation inch = 0.08
+| Oct precipitation inch = 0.40
+| Nov precipitation inch = 0.88
+| Dec precipitation inch = 1.71
+| year precipitation inch = 12.53
+| precipitation colour = green
+| source 1 = Averages: [[NOAA]]<ref name= NOAA>{{cite web|url = https://www.ncei.noaa.gov/access/us-climate-normals/#dataset=normals-monthly&timeframe=30&station=USW00093111|title = NOAA NCEI U.S. Climate Normals Quick Access|publisher = [[National Oceanic and Atmospheric Administration]]|access-date = July 16, 2021|archive-date = May 5, 2021|archive-url = https://web.archive.org/web/20210505115421/https://www.ncei.noaa.gov/access/us-climate-normals/#dataset=normals-monthly&timeframe=30&station=USW00093111|url-status = live}}</ref>
+| source 2 = Records: [[MSN]]<ref name="MSN">{{cite web|url=https://www.msn.com/en-us/Weather/records/malibucaliforniaunited-states/we-city?q=malibu-california&form=PRWLAS&iso=US&el=AzFcxcq7nMa6FfBsvUknAw%3d%3d|title=Records and Averages for Malibu, CA|website=www.msn.com|access-date=April 7, 2021|archive-date=June 12, 2023|archive-url=https://web.archive.org/web/20230612220315/https://www.msn.com/en-us/Weather/records/malibucaliforniaunited-states/we-city?q=malibu-california&form=PRWLAS&iso=US&el=AzFcxcq7nMa6FfBsvUknAw==|url-status=live}}</ref>
+}}
+
+==Demographics==
+{{US Census population
+|2000= 12575
+|2010= 12645
+|2020= 10654
+|footnote=U.S. Decennial Census<ref name="DecennialCensus" />
+}}
+
+=== 2020 ===
+The [[2020 United States census]] reported that Malibu had a population of 10,654, a 15.7% decrease from the 2010 census.<ref>{{Cite web |last=U.S. Census Bureau |date=April 1, 2020 |title=QuickFacts, Malibu city, California |url=https://www.census.gov/quickfacts/fact/table/malibucitycalifornia/POP010220 |access-date=April 4, 2023 |website=U.S. Census Bureau QuickFacts |archive-date=September 8, 2024 |archive-url=https://web.archive.org/web/20240908082739/https://www.census.gov/quickfacts/fact/table/malibucitycalifornia/POP010220 |url-status=live }}</ref>
+
+===2010===
+The [[2010 United States census]] reported that Malibu had a population of 12,645.<ref>{{cite web|url=https://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0645246|archive-url=https://archive.today/20140715031123/http://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0645246|url-status=dead|archive-date=July 15, 2014|title=2010 Census Interactive Population Search: CA – Malibu city|publisher=U.S. Census Bureau|access-date=July 12, 2014}}</ref> The population density was {{convert|637.7|PD/sqmi|PD/km2|sp=us|adj=off}}. The racial makeup of Malibu was 11,565 (91.5%) [[White (U.S. Census)|White]] (87.4% Non-Hispanic White),<ref name="quickfacts.census.gov" /> 148 (1.2%) [[African American (U.S. Census)|African American]], 20 (0.2%) [[Native American (U.S. Census)|Native American]], 328 (2.6%) [[Asian (U.S. Census)|Asian]], 15 (0.1%) [[Pacific Islander (U.S. Census)|Pacific Islander]], 182 (1.4%) from [[Race (United States Census)|other races]], and 387 (3.1%) from two or more races. There were 769 people of [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] origin, of any race (6.1%).
+
+The Census reported that 12,504 people (98.9% of the population) lived in households, 126 (1.0%) lived in non-institutionalized group quarters, and 15 (0.1%) were institutionalized.
+
+There were 5,267 households, out of which 1,379 (26.2%) had children under the age of 18 living in them, 2,571 (48.8%) were [[marriage|opposite-sex married couples]] living together, 403 (7.7%) had a female householder with no husband present, 222 (4.2%) had a male householder with no wife present. There were 269 (5.1%) [[POSSLQ|unmarried opposite-sex partnerships]], and 49 (0.9%) [[same-sex partnerships|same-sex married couples or partnerships]]. 1,498 households (28.4%) were made up of individuals, and 501 (9.5%) had someone living alone who was 65 years of age or older. The average household size was 2.37. There were 3,196 [[family (U.S. Census)|families]] (60.7% of all households); the average family size was 2.87.
+
+There were 2,366 people (18.7%) under the age of 18, 1,060 people (8.4%) aged 18 to 24, 2,291 people (18.1%) aged 25 to 44, 4,606 people (36.4%) aged 45 to 64, and 2,322 people (18.4%) who were 65 years of age or older. The median age was 47.8 years. For every 100 females, there were 100.6 males. For every 100 females age 18 and over, there were 97.0 males.
+
+There were 6,864 housing units at an average density of {{convert|346.2|/mi2|/km2|disp=preunit|units&nbsp;|units|}}, of which 3,716 (70.6%) were owner-occupied, and 1,551 (29.4%) were occupied by renters. The homeowner vacancy rate was 2.8%; the rental vacancy rate was 11.9%. 9,141 people (72.3% of the population) lived in owner-occupied housing units and 3,363 people (26.6%) lived in rental housing units.
+
+According to the 2010 United States Census, Malibu had a median household income of $133,869, with 10.6% of the population living below the federal poverty line.<ref name="quickfacts.census.gov" />
+
+===2000===
+As of the [[census]]<ref>[http://factfinder.census.gov/servlet/SAFFFacts?_event=Search&geo_id=&_geoContext=&_street=&_county=&_cityTown=Malibu%20city&_state=04000US06&_zip=&_lang=en&_sse=on&pctxt=fph&pgsl=010&show_2003_tab=&redirect=Y U.S. Census, Malibu, CA] {{Webarchive|url=https://archive.today/20200210223718/http://factfinder.census.gov/servlet/SAFFFacts?_event=Search&geo_id=&_geoContext=&_street=&_county=&_cityTown=Malibu%20city&_state=04000US06&_zip=&_lang=en&_sse=on&pctxt=fph&pgsl=010&show_2003_tab=&redirect=Y |date=February 10, 2020 }} from the U.S. Census website</ref> of 2000, there were 12,575 people, 5,137 households, and 3,164 families residing in the city. The population density was {{convert|632.9|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 6,126 housing units at an average density of {{convert|308.3|/mi2|/km2|disp=preunit|units&nbsp;|units|}}. The racial makeup of the city was 91.91% [[White (U.S. Census)|White]], 8.49% [[Asian (U.S. Census)|Asian]], 0.90% [[African American (U.S. Census)|African American]], 0.21% [[Native American (U.S. Census)|Native American]], 0.10% [[Pacific Islander (U.S. Census)|Pacific Islander]], 1.67% from [[Race (United States Census)|other races]], and 2.72% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 1.48% of the population.
+
+There were 5,137 households, out of which 25.3% had children under the age of 18 living with them, 51.5% were [[Marriage|married couples]] living together, 6.7% had a female householder with no husband present, and 38.4% were non-families. 27.3% of all households were made up of individuals, and 6.7% had someone living alone who was 65 years of age or older. The average household size was 2.39 and the average family size was 2.86.
+
+In the city, 19.6% of the population was under the age of 18, 7.9% from 18 to 24, 26.4% from 25 to 44, 32.0% from 45 to 64, and 14.0% was 65 years of age or older. The median age was 43 years. For every 100 females, there were 97.8 males. For every 100 females age 18 and over, there were 95.6 males.
+
+The [[median income]] for a household in the city was $102,031, and the median income for a family was $123,293. Males had a median income of $100,000 versus $46,919 for females. The [[per capita income]] for the city was $74,336. About 3.2% of families and 7.6% of the population were below the [[poverty line]], including 6.8% of those under age 18 and 1.1% of those age 65 or over.
+
+[[German Americans|German]] and [[English Americans|English]] were the most common ancestries. [[Canada]] and the [[United Kingdom]] were the most common foreign places of birth.<ref>{{cite web|url=https://maps.latimes.com/neighborhoods/neighborhood/malibu/index.html#:~:text=Ancestry%20and%20immigration,but%20low%20for%20the%20county.|title=Malibu Profile - Mapping L.A. - Los Angeles Times|website=Los Angeles Times|access-date=August 24, 2023|archive-date=February 3, 2022|archive-url=https://web.archive.org/web/20220203033305/https://maps.latimes.com/neighborhoods/neighborhood/malibu/index.html#:~:text=Ancestry%20and%20immigration,but%20low%20for%20the%20county.|url-status=live}}</ref>
+
+==Economy==
+[[File:Pepperdine University 2011.jpg|thumb|[[Pepperdine University]] campus, view to the coast]]
+The Malibu Chamber of Commerce was formed in 1949 to provide support to local Malibu business, and has over 500 members.<ref>{{cite web |url=http://www.malibu.org/ |title=Malibu Chamber of Commerce |publisher=Malibu.org |access-date=October 31, 2007 |archive-date=August 20, 2010 |archive-url=https://web.archive.org/web/20100820064828/http://www.malibu.org/ |url-status=live }}</ref>
+
+[[HRL Laboratories]], the research arm of the former [[Hughes Aircraft Company]], was established in 1960 in Malibu. Among its research accomplishments was the first working [[laser]]. Despite the aerospace industry's downsizing in the 1990s, HRL is the largest employer in Malibu.
+
+[[Jakks Pacific]] is based in Malibu.
+
+Established in 1937 in south-central Los Angeles, Pepperdine University moved to its Malibu campus in 1972. But when Malibu incorporated as a city, the boundaries were drawn to exclude Pepperdine, at the college's insistence.<ref>{{cite news |url=https://www.latimes.com/archives/la-xpm-1988-08-22-me-615-story.html |title=Aloof Pepperdine? : Many Dislike Its Decision Not to Join Proposed City of Malibu |newspaper=Los Angeles Times |date=August 22, 1988 |last1=Garcia |first1=Kenneth J. |access-date=August 15, 2024 |archive-date=June 12, 2023 |archive-url=https://web.archive.org/web/20230612220317/https://www.latimes.com/archives/la-xpm-1988-08-22-me-615-story.html |url-status=live }}</ref>
+
+The [[Surfrider Foundation]] was formed in 1984 by a group of surfers gathered to protect {{convert|31|mi|km}} of coastal waters from Marina Del Rey through Malibu to Ventura County, and represent the surfing community.<ref>[http://www.surfrider.org/malibu/history.htm History] {{webarchive|url=https://web.archive.org/web/20120926095903/http://www.surfrider.org/malibu/history.htm |date=September 26, 2012 }} from the Surfrider Foundation website</ref>
+
+[[Heal the Bay]], a nonprofit organization for environmental advocacy, was formed in 1985 to protect [[Santa Monica Bay]], which extends from Malibu's [[Point Dume]] along the entire coastline of Malibu past [[Santa Monica]] to the Palos Verdes Peninsula.
+
+Following the opening of [[Passages Malibu]] in 2001, the city has become home to numerous residential drug-abuse treatment centers. As of 2013, there are 35 state-licensed drug and alcohol rehabilitation facilities in Malibu, in addition to a multiplying number of unlicensed sober-living homes.<ref>Peter Haldeman (September 13, 2013), [https://www.nytimes.com/2013/09/15/fashion/an-intervention-for-malibu.html An Intervention for Malibu] {{Webarchive|url=https://web.archive.org/web/20230815123951/http://www.nytimes.com/2013/09/15/fashion/an-intervention-for-malibu.html |date=August 15, 2023 }} ''[[New York Times]]''.</ref>
+
+{{wide image|Malibu Beach Panorama.jpg|780px|alt=Panorama of Malibu Beach from Malibu Pier|align-cap=center|A view of Malibu Beach}}
+
+There are several shopping centers in the Malibu Civic Center area including the [[Malibu Country Mart]]. The Malibu Civic Center is known for being frequented by paparazzi and tourists looking to catch a glimpse of local celebrities.
+
+==Arts and culture==
+[[Getty Villa]], an art museum that is part of the [[J. Paul Getty Museum]], is just outside the city limits in the [[Pacific Palisades, Los Angeles|Pacific Palisades]] neighborhood of Los Angeles.<ref>[http://www.getty.edu/visit/events/villa.html Getty Villa.] {{Webarchive|url=https://web.archive.org/web/20071011060935/http://getty.edu/visit/events/villa.html |date=October 11, 2007 }} Retrieved August 28, 2008.</ref> It is owned and operated by the [[J. Paul Getty Trust]], which also oversees the [[Getty Center]] in West Los Angeles.<ref>[http://www.getty.edu/museum/about.html About the J. Paul Getty Museum.] {{Webarchive|url=https://web.archive.org/web/20190303131135/http://www.getty.edu/museum/about.html |date=March 3, 2019 }} Retrieved August 28, 2008.</ref> The Museum at the Getty Villa houses Getty's collections of antiquities, sculptures, art pieces and cultural artifacts of ancient Greece, Rome, and Etruria.
+
+[[Adamson House]], the historic house and gardens of the 19th-century original owners of Malibu, the Rindge Family, is a state museum.
+
+The Malibu Art Association, a nonprofit organization to foster the arts in Malibu, produces shows, demonstrations and workshops for its members, and offers art for public display throughout the community.<ref>{{cite web |url=http://www.malibuart.org/ |title=Malibu Art Association website |publisher=Malibuart.org |access-date=November 6, 2007 |archive-date=December 8, 2007 |archive-url=https://web.archive.org/web/20071208130754/http://www.malibuart.org/ |url-status=live }}</ref>
+
+The Malibu Garden Club holds an annual garden tour of private, residential gardens.<ref>[http://www.malibugardenclub.com/tour-info.htm Malibu Garden Club, Tour] {{webarchive|url=https://web.archive.org/web/20091029113030/http://www.malibugardenclub.com/tour-info.htm |date=October 29, 2009 }}</ref>
+
+[[Malibu High School]] offers musicals every spring and instrumental and vocal musical concerts every winter and spring.<ref>{{Cite web |url=http://malibuhigh.org/arts_theatre |title=Arts – Malibu High – Theatre Arts Program |access-date=January 24, 2019 |archive-url=https://web.archive.org/web/20180327080546/http://www.malibuhigh.org/arts_theatre |archive-date=March 27, 2018 |url-status=dead  }}</ref>
+
+Smothers Theatre of [[Pepperdine University]]'s Theatrical Drama Department offers concerts, plays, musicals, opera, and dance.<ref>{{cite web |url=http://www.pepperdine.edu/arts/performances/ |title=Smothers Theatre, Pepperdine |publisher=Pepperdine.edu |access-date=November 6, 2007 |archive-date=November 21, 2007 |archive-url=https://web.archive.org/web/20071121210628/http://www.pepperdine.edu/arts/performances/ |url-status=live }}</ref>
+
+===Annual events===
+
+The Malibu Arts Festival is held annually on the last weekend in July by the Malibu Chamber of Commerce.<ref>{{cite web |url=http://www.malibuartsfestival.com/ |title=Malibu Arts Festival |publisher=Malibu Arts Festival |access-date=November 6, 2007 |archive-date=September 7, 2007 |archive-url=https://web.archive.org/web/20070907033337/http://www.malibuartsfestival.com/ |url-status=live }}</ref>
+
+The [[Malibu Film Festival|Malibu International Film Festival]] is held every year showcasing new films and filmmakers from around the world.<ref>{{cite web |url=http://www.malibufilmfestival.com |title=Malibu Film Festival 2011 |publisher=Malibufilmfestival.com |access-date=January 1, 2019 |archive-url=https://web.archive.org/web/20140628234422/http://www.malibufilmfestival.com/ |archive-date=June 28, 2014 |url-status=dead  }}</ref>
+
+The Malibu Chili Cookoff, held every [[Labor Day]] weekend, is sponsored by the Kiwanis Club of Malibu. Proceeds benefit children and youth organizations.<ref>[http://www.malibukiwanis.com/ChiliCookOff.html Malibu Chili Cookoff] {{Webarchive|url=https://web.archive.org/web/20091103142731/http://malibukiwanis.com/ChiliCookOff.html |date=November 3, 2009 }} from malibukiwanis.com</ref>
+
+The Malibu Nautica Triathlon is held every September. In 2007, it raised $718,000 to benefit [[Children's Hospital Los Angeles]].<ref>[http://www.nauticamalibutri.com/ Malibu Nautica Press Release] {{Webarchive|url=https://web.archive.org/web/20071213085928/http://www.nauticamalibutri.com/ |date=December 13, 2007 }} from nauticamalibutri.com</ref>
+
+The Polar Plunge (Los Angeles) is held each year in February at [[Zuma Beach]] to help raise funds for the [[Special Olympics]] in Southern California.<ref>[https://archive.today/20120727084253/http://sosc.kintera.org/laplunge Polar Plunge (Los Angeles)] from sosc.kintera.org</ref>
+
+== Parks and recreation ==
+[[File:Malibu pier.JPG|thumb|right|The Malibu pier near [[Surfrider Beach]]]]
+
+California State Parkland in the hills behind Malibu provides extensive horseback-riding, hiking, running, and mountain-biking options, affording many different views of the [[Santa Monica Mountains]], the curve of the [[Santa Monica Bay]], [[Santa Catalina Island, California|Santa Catalina Island]], and the [[San Fernando Valley]]. There are many points of access to the [[Backbone Trail System]] throughout the local canyons, as well as a variety of smaller, local trailheads.
+
+[[Pacific Coast Highway (California)|Pacific Coast Highway]] is popular with road cycling enthusiasts for its vistas. The route also has a reputation for being quite dangerous for cyclists, which inspired the creation of the Dolphin Run, an annual community event commemorating local victims of reckless driving. The Dolphin Run was held each Autumn from 1990 to 2004.
+
+In late June 2008, the Malibu Pier reopened after $10&nbsp;million in renovations.<ref>{{cite news |last=Groves |first=Martha |title=Reopening marks new chapter in Malibu Pier's history book |date=June 28, 2008 |work=The Los Angeles Times |url=https://www.latimes.com/news/local/la-me-pier29-2008jun29,0,1691155.story |access-date=June 29, 2008 |archive-date=July 2, 2008 |archive-url=https://web.archive.org/web/20080702051826/http://www.latimes.com/news/local/la-me-pier29-2008jun29,0,1691155.story |url-status=live }}</ref>
+
+=== Malibu Bluffs Community Park and Malibu Bluffs Recreation Area ===
+
+The former Malibu Bluffs State Park ownership changed hands in 2006 after the California Department of Parks and Recreation transferred the park's {{convert|93|acre|ha}} control to the Santa Monica Mountains Conservancy,<ref>{{cite web |url=http://smmc.ca.gov/ |title=Santa Monica Mountains Conservancy website |publisher=Smmc.ca.gov |date=December 1, 2002 |access-date=November 5, 2007 |archive-date=April 20, 2018 |archive-url=https://web.archive.org/web/20180420113103/http://www.smmc.ca.gov/ |url-status=live }}</ref> They established the '''Malibu Bluffs Recreation Area''', an Open Space Preserve of {{convert|90|acre|ha}} on the bluffs between the Pacific Coast Highway and Malibu Road, directly opposite Pepperdine University and [[Malibu Canyon Road]]. The {{convert|100|ft|m|adj=on}} bluffs rise above Amarillo Beach and Puerco Beach across Malibu Road. Five public stairways (which adjoin private property) lead down to the shoreline from the base of the bluffs. The trails begin from the spacious lawns in Malibu Bluffs Community Park
+
+The Malibu Bluffs Recreation Area surrounds the {{convert|6|acre|ha|adj=on}} '''Malibu Bluffs Community Park''', whose {{convert|10|acre|ha|adj=on}} parcel the Santa Monica Mountains Conservancy sold to the city.<ref>[https://archive.today/20130128082727/http://www.malibutimes.com/articles/2005/03/04/news/news4.txt MLL's 50th year] from the ''Malibu Times''</ref> It consists of the Michael Landon Community Center, baseball diamonds, and soccer fields.<ref>[http://www.ci.malibu.ca.us/index.cfm?fuseaction=detailgroup&navid=174&cid=3826 Malibu Bluffs Park (local)] {{Webarchive|url=https://web.archive.org/web/20090111163955/http://www.ci.malibu.ca.us/index.cfm?fuseaction=detailgroup&navid=174&cid=3826 |date=January 11, 2009 |publisher =City of Malibu}}</ref> Home of the Malibu Little League<ref>{{cite web |url=http://www.malibulittleleague.org/ |title=Malibu Little League's official website |publisher=Malibulittleleague.org |access-date=July 19, 2009 |archive-date=May 5, 2009 |archive-url=https://web.archive.org/web/20090505171002/http://www.malibulittleleague.org/ |url-status=live }}</ref> (MLL), Malibu AYSO,<ref>{{cite web |url=http://www.malibuayso.org/ |title=Malibu AYSO official website |publisher=Malibuayso.org |access-date=July 19, 2009 |archive-date=September 8, 2008 |archive-url=https://web.archive.org/web/20080908054536/http://www.malibuayso.org/ |url-status=live }}</ref> are youth soccer organizations that share practice fields. For over 20 years, the State Parks planned to return the land to its native wetlands and vegetation.<ref>[https://archive.today/20120905091804/http://www.malibutimes.com/articles/2006/09/21/news/news3.txt Bluffs Park under local control] from the ''Malibu Times''</ref> A rider to a California state law was written specifically in the 1950s to allow baseball, with its attendant field accoutrements, to continue being played in the state park.<ref>[https://archive.today/20130128065120/http://www.malibutimes.com/articles/2005/01/27/news/news2.txt 20-yr conflict over Malibu Bluffs Park] from the ''Malibu Times''</ref> Other city parks include Las Flores Creek Park, Malibu Bluffs Park, and Trancas Canyon Park.
+
+=== Malibu Legacy Park Project ===
+Malibu Legacy Park is a restoration project undertaken by the city with broad community support.<ref>{{cite web |url=http://www.malibulegacy.org/ |title=Malibu Legacy Park (local) |publisher=Malibulegacy.org |access-date=February 6, 2016 |archive-url=https://web.archive.org/web/20160207143810/http://www.malibulegacy.org/ |archive-date=February 7, 2016 |url-status=dead }}</ref> A vacant, {{convert|20|acre|ha|adj=on}} plot of land owned by [[Jerry Perenchio]] was sold to the City of Malibu in 2005 with strict deed restrictions prohibiting any further commercial use.<ref>{{cite web |url=http://www.malibucomplete.com/mc_people_wealthy_perenchio.php |title=Malibu'S Wealthy: A. Jerrold Perenchio |publisher=Malibucomplete.com |access-date=September 21, 2008 |archive-date=December 3, 2008 |archive-url=https://web.archive.org/web/20081203141236/http://www.malibucomplete.com/mc_people_wealthy_perenchio.php |url-status=live }}</ref><ref>{{cite news | url=https://www.forbes.com/lists/2006/54/biz_06rich400_A-Jerrold-Perenchio_J3C6.html | work=Forbes | title=#85 A Jerrold Perenchio | date=September 21, 2006 | access-date=September 4, 2017 | archive-date=October 17, 2017 | archive-url=https://web.archive.org/web/20171017045742/https://www.forbes.com/lists/2006/54/biz_06rich400_A-Jerrold-Perenchio_J3C6.html | url-status=live }}</ref> It had agricultural land with geraniums, other flowers and vegetables planted by the Takahashi family since 1924.<ref name="malibucomplete1" /> The state-of-the-art water treatment plant takes [[stormwater runoff]] that accumulates in the park to mitigate the stormwater pollution in Malibu Creek, Malibu Lagoon, and Surfrider Beach.<ref>{{cite news |url=http://www.westerncity.com/Western-City/February-2014/CCHelenP-Malibu-Legacy-Park/ |title=Malibu's Legacy Park: A Public Works Approach to Sustainability |magazine=Western City |publisher=The League of California Cities |first=Robert L. |last=Brager |date=February 2014 |access-date=October 1, 2016 |archive-date=October 12, 2016 |archive-url=https://web.archive.org/web/20161012081032/http://www.westerncity.com/Western-City/February-2014/CCHelenP-Malibu-Legacy-Park/ |url-status=live }}</ref> The Malibu Legacy Park Project responds to critical issues, including bacteria reduction by stormwater treatment; nutrient reduction in wastewater management; restoration and development of riparian habitats; and the development of an open space area for passive recreation and environmental education. In addition, the project will be linked by a "linear park" to neighboring Surfrider Beach, Malibu Pier, Malibu Lagoon, and Malibu Bluffs Park.<ref>{{cite web |url=http://www.annenbergfoundation.org/news/news_show.htm?doc_id=635503 |title=Annenberg Foundation &#124; News &#124; City of Malibu Announces $2 Million Matching Grant from |date=June 13, 2023 |publisher=the Annenberg Foundation |access-date=September 21, 2008 |archive-date=January 13, 2009 |archive-url=https://web.archive.org/web/20090113181805/http://www.annenbergfoundation.org/news/news_show.htm?doc_id=635503 |url-status=live }}</ref>
+
+Ball sports are prohibited in the park along with running/jogging and other sports.<ref name="malibucomplete1"/><ref>{{cite news |url=http://www.malibusurfsidenews.com/archives/current_issue121505.pdf |title=Malibu Surfside News |access-date=February 6, 2016 |archive-url=https://web.archive.org/web/20121130224432/http://www.malibusurfsidenews.com/archives/current_issue121505.pdf |archive-date=November 30, 2012 |url-status=usurped }}</ref> The park includes many educational features, an outdoor classroom, and other informative features which explain the different habitats.<ref>{{cite web |url=http://www.malibulegacy.org/aboutus.html |title=Malibu Legacy Park Features |publisher=Malibulegacy.org |access-date=February 6, 2016 |archive-url=https://web.archive.org/web/20171017154020/http://www.malibulegacy.org/aboutus.html |archive-date=October 17, 2017 |url-status=dead }}</ref>
+
+===Surfrider Beach===
+
+On October 9, 2010, Surfrider Beach was dedicated as the first [[World Surfing Reserves|World Surfing Reserve]].<ref>{{cite web| url=http://www.worldsurfingreserves.org/malibu-world-surfing-reserve-dedication| title=Malibu World Surfing Reserve Dedication| publisher=World Surfing Reserves| access-date=March 11, 2012| date=March 10, 2012| url-status=dead| archive-url=https://web.archive.org/web/20120716075819/http://www.worldsurfingreserves.org/malibu-world-surfing-reserve-dedication| archive-date=July 16, 2012| df=mdy-all}}</ref>
+
+Across the street from the civic center of Malibu, Surfrider Beach is adjacent to the Malibu Colony and Malibu Pier. This surfing beach was featured in 1960s surf movies like ''[[Beach party film|Beach Party]]''. The Surfrider point break stems from the Malibu Colony into Santa Monica Bay and carries the nickname "Third Point". Surfing at this spot is popular during the winter.<ref>{{Cite web|url = https://www.surfline.com/surf-news/socal-surfing-seasons-pros-and-cons/1132|title = What is the Best Season to Go Surfing in Southern California?|date = April 19, 2017|access-date = August 15, 2020|archive-date = December 31, 2020|archive-url = https://web.archive.org/web/20201231203333/https://www.surfline.com/surf-news/socal-surfing-seasons-pros-and-cons/1132|url-status = live}}</ref>
+
+==Government==
+
+===Municipal government===
+Malibu is a general law city governed with a five-member City Council including the mayor and mayor pro tem. The City Council hires a city manager to carry out policies and serve as executive officer. Every even-numbered year either two or three members are elected by the people to serve a four-year term. Usually, the City Council meets in April and chooses one of its members as mayor and one as mayor-pro-tem. In 2006, this pattern was deviated from when the council decided to have a cycle of three mayors and mayors pro-tem in the coming two years. Malibu does not have a police force. The Los Angeles County Sheriff's Department provides law enforcement services to Malibu.<ref>{{cite web|url=https://www.malibucity.org/241/Law-Enforcement-Services|title=Law Enforcement – Malibu, CA – Official Website|website=www.malibucity.org|access-date=March 7, 2018|archive-date=March 8, 2018|archive-url=https://web.archive.org/web/20180308041500/https://www.malibucity.org/241/Law-Enforcement-Services|url-status=live}}</ref>
+
+===County, state, and federal representation===
+In the [[California State Legislature|state legislature]], Malibu is in {{Representative|casd|24|fmt=sdistrict}}, but prior to redistricting was in {{Representative|casd|27|fmt=sdistrict}}. It is in {{Representative|caad|42|fmt=adistrict}}.<ref>{{Cite web |url=http://statewidedatabase.org/gis/gis2011/index_2011.html |title=Statewide Database |publisher=UC Regents |access-date=November 22, 2014 |archive-url=https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html |archive-date=February 1, 2015 |url-status=dead }}</ref>
+
+In the [[United States House of Representatives]], Malibu is in [[California's 32nd congressional district]], which is represented by [[Brad Sherman]].
+
+== Education ==
+
+===Schools===
+The [[Santa Monica-Malibu Unified School District]] serves Malibu with two elementary schools: John L. Webster Elementary School (grades K-5, in central Malibu) and Malibu Elementary School (grades K-5, in northwestern Malibu's Pt. Dume district).
+
+Private schools include Calmont,<ref>{{cite web
+ |url         = http://www.calmontschool.org/
+ |title       = Calmont School for preschool through seventh grade
+ |publisher   = CalmontSchool.org
+ |archive-url  = https://web.archive.org/web/19991014015838/http://www.calmontschool.org/
+ |archive-date = October 14, 1999
+|access-date = May 7, 2011
+|url-status     = dead
+ |df          = mdy-all
+}}</ref> Our Lady of Malibu (Catholic),<ref>{{cite web
+|url=http://www.olmalibu.org/
+|title=Our Lady of Malibu
+|publisher=Our Lady of Malibu
+|access-date=May 7, 2011
+|archive-date=April 22, 2001
+|archive-url=https://web.archive.org/web/20010422003934/http://www.olmalibu.org/
+|url-status=live
+}}</ref> Colin McEwen High School, New Roads,<ref>{{cite web
+|url=http://www.newroads.org/
+|title=New Roads School
+|publisher=New Roads School
+|access-date=May 7, 2011
+|archive-date=April 23, 2011
+|archive-url=https://web.archive.org/web/20110423173110/http://newroads.org/
+|url-status=live
+}}</ref> and St. Aidan's School.
+
+[[Malibu High School]] (MHS) provides secondary public education for both middle school (grades 6–8) and high school (grades 9–12). MHS is in northwestern Malibu.
+
+[[Pepperdine University]], a private college affiliated with the [[Churches of Christ|Church of Christ]], is in central Malibu, north of the Malibu Colony at the intersection of the [[California State Route 1|Pacific Coast Highway]] and [[Malibu Canyon Road]]. Malibu is also served by [[Santa Monica College]], a [[community college]] in the nearby city of [[Santa Monica]] to the south.
+
+===Library===
+[[File:Malibu branch LA County Library.jpg|thumb|Exterior of the Malibu branch of the LA County Library]]
+Malibu Public Library, a {{convert|16530|sqft|sqm|adj=on}} branch of the [[County of Los Angeles Public Library]], is in the Malibu Civic Center Complex. The branch has an adult reading area, a children's reading area, a 125-person meeting room, and free parking. The library opened in 1970. Before that, residents were served by a bookmobile.<ref>"[http://www.colapublib.org/libs/malibu/ Maliby Library] {{Webarchive|url=https://web.archive.org/web/20100323085523/http://www.colapublib.org/libs/malibu/ |date=March 23, 2010 }}." [[County of Los Angeles Public Library]]. Retrieved March 17, 2010.</ref>
+
+==Media==
+[[Pepperdine University]]'s TV-32 is fed on [[Distance Learning|Educational-access television]] cable TV channel 32, and was previously on channel 26.<ref>{{cite news | url = http://www.pepperdine-graphic.com/sports/alumn-sports-broadcaster-heads-to-maui-1.2341044 | title = Alumn sports broadcaster heads to Maui | publisher = [[Pepperdine University]] | location = Malibu, California | date = September 23, 2010 | access-date = March 28, 2011 | archive-url = https://web.archive.org/web/20101126192247/http://www.pepperdine-graphic.com/sports/alumn-sports-broadcaster-heads-to-maui-1.2341044 | archive-date = November 26, 2010 | url-status = dead | df = mdy-all }}</ref><ref>{{cite news | url = http://graphic.pepperdine.edu/ane/2005/2005-03-24-redcarpet.htm | title = TV-26 strolls down the red carpet | first = Karin | last = Sabin | work = Graphic | publisher = [[Pepperdine University]] | location = Malibu, California | date = March 24, 2005 | access-date = March 28, 2011 | archive-url = https://web.archive.org/web/20110817112950/http://graphic.pepperdine.edu/ane/2005/2005-03-24-redcarpet.htm | archive-date = August 17, 2011 | url-status = dead | df = mdy-all }}</ref>
+
+Broadcast radio stations licensed for Malibu include FM [[booster station]] KPFK-FM1 for 90.7 [[KPFK]] Los Angeles. 92.7 [[KYRA (FM)|KYRA]], Thousand Oaks, has a booster KLSI-FM1 with a city of license of "Malibu Vista".<ref>{{cite web | url = http://www.fccinfo.com/CMDProFacLookup.php?sCurrentService=FM&sCity=Malibu&sState=CA&tabSearchType=City+State+Search | title = FM Records With Principal Community of Malibu, CA | work = FCCInfo.com | publisher = Cavell Mertz & Associates, Inc. | location = Manassas, Virginia | date = March 23, 2011 | access-date = March 28, 2011 | archive-date = September 26, 2011 | archive-url = https://web.archive.org/web/20110926220650/http://www.fccinfo.com/CMDProFacLookup.php?sCurrentService=FM&sCity=Malibu&sState=CA&tabSearchType=City+State+Search | url-status = live }}</ref>
+
+Malibu has three local newspapers: ''[[The Malibu Times]]'', founded in 1946, the ''Malibu Surfside News'', and Pepperdine University's student newspaper, the ''Graphic''.
+
+There are also three magazines in Malibu: ''Malibu Arts Journal'', ''Malibu Magazine'', and ''Malibu Times Magazine'' and "Malibu Biz".
+
+==Infrastructure==
+Fire protection is served by the [[Los Angeles County Fire Department]].
+
+The [[Los Angeles County Sheriff's Department]] (LASD) operates the Malibu/Lost Hills Station in [[Calabasas, California|Calabasas]], serving Malibu under contract with the city.<ref>"[http://www.lasd.org/stations/for1/malibu_lhill/index.html Malibu/Lost Hills Station] {{webarchive|url=https://web.archive.org/web/20150907224530/http://www.lasd.org/stations/for1/malibu_lhill/index.html |date=September 7, 2015 }}." [[Los Angeles County Sheriff's Department]]. Retrieved January 21, 2010.</ref><ref>"[http://factfinder.census.gov/servlet/MapItDrawServlet?geo_id=16000US0609598&_bucket_id=50&tree_id=420&context=saff&_lang=en&_sse=on Calabasas city, California] {{webarchive|url=https://web.archive.org/web/20110606010052/http://factfinder.census.gov/servlet/MapItDrawServlet?geo_id=16000US0609598&_bucket_id=50&tree_id=420&context=saff&_lang=en&_sse=on |date=June 6, 2011 }}." [[U.S. Census Bureau]]. Retrieved January 21, 2010.</ref>
+
+The [[Los Angeles County Department of Health Services]] SPA 5 West Area Health Office serves Malibu.<ref>"[http://publichealth.lacounty.gov/phcommon/public/aboutus/aboutdisplay.cfm?ou=ph&prog=chs&unit=spa5 About Us] {{Webarchive|url=https://web.archive.org/web/20100527140307/http://publichealth.lacounty.gov/phcommon/public/aboutus/aboutdisplay.cfm?ou=ph&prog=chs&unit=spa5 |date=May 27, 2010 }}." [[Los Angeles County Department of Health Services]]. Retrieved March 18, 2010.</ref> The department operates the Simms/Mann Health and Wellness Center in [[Santa Monica, California|Santa Monica]], serving Malibu.<ref>"[http://publichealth.lacounty.gov/phn/docs/HealthCenter/santamonica.pdf Simms/Mann Health and Wellness Center] {{Webarchive|url=https://web.archive.org/web/20101214084354/http://publichealth.lacounty.gov/phn/docs/HealthCenter/santamonica.pdf |date=December 14, 2010 }}." [[Los Angeles County Department of Health Services]]. Retrieved March 17, 2010.</ref>
+
+Water is provided by LA Waterworks District 29.
+
+The [[United States Postal Service]] operates the Malibu Post Office at 23838 Pacific Coast Highway,<ref>"[http://usps.whitepages.com/service/post_office/7368?p=1&s=CA&service_name=post_office&z=Malibu Post Office Location – MALIBU] {{webarchive|url=https://archive.today/20120717235345/http://usps.whitepages.com/service/post_office/7368?p=1&s=CA&service_name=post_office&z=Malibu |date=July 17, 2012 }}." ''[[United States Postal Service]]''. Retrieved on December 6, 2008.</ref> the Colony Annex at 23648 Pacific Coast Highway, adjacent to the Malibu Post Office,<ref>"[http://usps.whitepages.com/service/post_office/56662?p=1&s=CA&service_name=post_office&z=Malibu Post Office Location – COLONY ANNEX] {{webarchive|url=https://archive.today/20120728154213/http://usps.whitepages.com/service/post_office/56662?p=1&s=CA&service_name=post_office&z=Malibu |date=July 28, 2012 }}." ''[[United States Postal Service]]''. Retrieved on December 6, 2008.</ref> and the La Costa Malibu Post Office at 21229 Pacific Coast Highway.<ref>"[https://archive.today/20120715230626/http://usps.whitepages.com/service/post_office/67263?p=1&s=CA&service_name=post_office&z=Malibu Post Office Location – LA COSTA MALIBU]." ''[[United States Postal Service]]''. Retrieved on December 6, 2008.</ref>
+
+===Transportation===
+The Pacific Coast Highway ([[California State Route 1|State Route 1]]) is the central route through the length of the city. PCH handles approximately 40,500 vehicles per day during peak hours in the summer.<ref>{{Cite web |last=Sternfield |first=Marc |date=December 4, 2023 |title=Driving on PCH in Malibu is about to change |url=https://ktla.com/news/local-news/major-traffic-safety-project-begins-along-pacific-coast-highway/ |access-date=December 5, 2023 |website=KTLA |language=en-US |archive-date=December 5, 2023 |archive-url=https://web.archive.org/web/20231205004035/https://ktla.com/news/local-news/major-traffic-safety-project-begins-along-pacific-coast-highway/ |url-status=live }}</ref> The [[Los Angeles County Metropolitan Transportation Authority|LA Metro]] bus line runs along PCH from Trancas market to Santa Monica.<ref>{{Cite web |title=Line 134 schedule |url=https://cdn.beta.metro.net/wp-content/uploads/2023/12/01153936/134_TT_12-10-23.pdf |access-date=2024-09-06 |website=LA Metro |archive-date=September 8, 2024 |archive-url=https://web.archive.org/web/20240908082729/https://cdn.beta.metro.net/wp-content/uploads/2023/12/01153936/134_TT_12-10-23.pdf |url-status=live }}</ref>
+
+==In popular culture==
+{{more citations needed section|date=June 2017}}
+[[File:POINTDUME CA6.jpg|thumb|[[Point Dume State Beach]], a frequently used film location]]
+[[File:MASH site - Malibu Creek State Park - 30 August 2008.jpg|thumb|Ambulance hulk at ''[[M*A*S*H]]'' filming site, [[Malibu Creek State Park]], 2008]]
+Malibu has been used as a location or setting for many films, television programs, fashion shoots and music videos.
+
+[[Surfrider Beach]] was home to ''[[Gidget]]'', and surfing movies of the 1960s. [[Jill Munroe]] and her sister [[Kris Munroe]]'s ''[[Charlie's Angels]]'' beach house was in Malibu. The residence can also be seen in the first scene after the opening theme song of ''[[Beach Blanket Bingo]]''. Important scenes in the ''[[Planet of the Apes (1968 film)|Planet of the Apes]]'' series were filmed at Point Dume. The hero's trailer in ''[[The Rockford Files]]'' was parked by the Paradise Cove Pier. ''[[Love American Style]]'' and ''[[The Mod Squad]]'' are among many TV series and commercials filmed in Paradise Cove. A 1978 film starring [[Suzanne Somers]] was titled ''Zuma Beach''.<ref>{{URL|http://imdb.com/title/tt0078531/}} ''imdb.com''</ref> In the 1990s and 2000s, it was the setting for ''MTV Beach House'', ''[[Malibu's Most Wanted]]'', and [[Nickelodeon]]'s ''[[Zoey 101]]''. [[Point Dume]] is the location of [[Tony Stark]]'s mansion in the [[Marvel Cinematic Universe]], first appearing in ''[[Iron Man (2008 film)|Iron Man]]''.
+
+Malibu is the setting for the TV series ''[[Two and a Half Men]]''. The TV series ''[[So Little Time]]'' (2001) portrayed two Malibu teens ([[Mary-Kate and Ashley Olsen]]) who attend the fictional West Malibu High. Fictional teen star [[Miley Stewart|Hannah Montana / Miley Stewart]] (portrayed by [[Miley Cyrus]]) and her father [[Robby Stewart|Robby Ray Stewart]] (portrayed by [[Billy Ray Cyrus]]) live in Malibu on the [[Disney Channel]] Original Series ''[[Hannah Montana]]''. In the Fox TV series ''[[The O.C.]]'', both the Cohen house and the Cooper home were actually in Malibu.<ref name="OC" /> ''[[Malibu Shores]]'', a teen drama that aired on NBC, was set in Malibu. Some scenes from ''[[The Even Stevens Movie]]'' were filmed on Westward Beach in Point Dume. The small hit TV show ''[[Summerland (TV series)|Summerland]]'' was also filmed and set in Malibu. The TV series “Good Trouble,” a spinoff of “The Fosters,” and the latest season of the anthology series “American Horror Story,” titled “Delicate,” also featuring scenes shot in Malibu.<ref>{{Cite web |title=Malibu, California: A Star in Its Own Right on the Screen |date=June 7, 2024 |url=https://malibu.house/blog/2024/06/07/malibu-california-a-star-in-its-own-right-on-the-screen/ |access-date=2024-06-07 |archive-date=August 16, 2024 |archive-url=https://web.archive.org/web/20240816000555/https://malibu.house/blog/2024/06/07/malibu-california-a-star-in-its-own-right-on-the-screen/ |url-status=live }}</ref>
+
+In 2006, [[Bravo (US TV channel)|Bravo]] television aired ''[[Million Dollar Listing]]'', a real-estate related show based on million-dollar listings in Malibu, as well as Hollywood, including real-life Malibu agents such as Chris Cortazzo, Scotty Brown, Madison Hildebrand, and Lydia Simon.<ref>{{URL|http://www.bravotv.com/Million_Dollar_Listing//index.shtml}} ''bravotv.com''</ref>
+
+The MTV reality show ''[[Buzzin' (TV series)|Buzzin']]'' starring [[Shwayze]] and [[Cisco Adler]] is mostly filmed in Malibu, at locations including Westward Beach, Malibu Courthouse, Pacific Coast Highway, Point Dume Trailer Park, Malibu Inn, and the outside of PC Greens.
+
+There are also many music videos filmed on Malibu's beaches. In 1998, the alternative rock band [[Hole (band)|Hole]] shot the video for the song "[[Malibu (Hole song)|Malibu]]" at the Matador Beach. [[Mariah Carey]]'s video for her 2009 single [[H.A.T.E.U.]] was filmed there. American singer [[Nick Lachey]]'s video for his 2006 single "[[I Can't Hate You Anymore]]" from the [[What's Left Of Me (album)|What's Left Of Me]] album, was filmed at the place on June 27, 2006, before Lachey's divorce from the American singer-actress [[Jessica Simpson]] became final three days later after its release. [[Selena Gomez]]'s "[[Love You Like a Love Song]]" video was partly filmed in Malibu. Music videos for "[[Survivor (Destiny's Child song)|Survivor]]" by [[Destiny's Child]], "[[If It's Lovin' That You Want]]" by [[Rihanna]], "Sunshine" by [[Lil Flip]], "[[Natural (S Club 7 song)|Natural]]" by [[S Club 7]], "[[Feel It Boy]]" by [[Beenie Man]] featuring [[Janet Jackson]], "[[You're Still the One]]" by [[Shania Twain]], and many others were filmed on Westward Beach. [[Linda Ronstadt]], who lived in the Colony, is photographed in front of her home for her 1976 [[Grammy]] award-winning album ''[[Hasten Down the Wind]]''. [[Girls Aloud]] filmed their video "[[Call the Shots]]" on the beach at Malibu. In 1999, [[Britney Spears]] shot the video for the song "[[Sometimes (Britney Spears song)|Sometimes]]" directed by [[Nigel Dick]] on the pier at Paradise Cove. Also in late 1998, Madonna shot her video for "[[The Power of Good-Bye]]" near Silver Top mansion. The music videos for "[[Lost (Maroon 5 song)|Lost]]" by American band [[Maroon 5]] and "[[Somebody to You]]", from British band [[The Vamps (British band)|The Vamps]] featuring [[Demi Lovato]] were both filmed on Malibu Beach. [[One Direction]]'s video "[[What Makes You Beautiful]]" on July 11, 2011, and [[Watermelon Sugar]] filmed on January 30, 2020, by [[Harry Styles]].
+
+==Notable people==
+{{main|List of people from Malibu, California}}
+
+== Sister cities ==
+* {{flagicon|CHN}} [[Lijiang]], [[Yunnan]], China<ref>{{Cite web | url=http://socalsistercities.org/sister-city-directory/ | title=Sister City Directory – SOCAL Sister Cities | access-date=January 13, 2020 | archive-date=September 10, 2019 | archive-url=https://web.archive.org/web/20190910115442/http://socalsistercities.org/sister-city-directory/ | url-status=live }}</ref>
+
+==See also==
+{{Portal|Greater Los Angeles}}
+* [[Chevrolet Malibu]], named after the coastal community
+* [[Hueneme, Malibu and Port Los Angeles Railway]] (The railroad that the Rindges built through Malibu)
+* [[Malibu Locals Only]]
+* [[MV Malibu|MV ''Malibu'']], a yacht commissioned by May Rindge in 1926
+* ''[[Rindge Co. v. County of Los Angeles]]''
+* [[Streisand effect]]
+
+==References==
+{{reflist|refs=
+<ref name="Poole">{{cite book |last1=Poole |first1=Matthew Richard |title=Frommer's Los Angeles 2011 |url=https://archive.org/details/isbn_9780470626191 |url-access=registration |access-date=March 1, 2012 |year=2010 |publisher=Wiley |location=Hoboken |isbn=978-0-470-91715-2 |page=[https://archive.org/details/isbn_9780470626191/page/49 49] |quote=With plenty of green space and dramatic rocky outcroppings, Malibu's rural beauty is unsurpassed in L.A., and surfers flock to "the 'Bu" for great, if crowded waves}}</ref>
+<ref name="Taylor">{{cite book |last1=Taylor |first1=Jennifer Brandt |title=Vintage L.A.: Eats, Boutiques, Decor, Landmarks, Markets & More |url=https://books.google.com/books?id=HAps5fjPUJAC&q=malibu+%22the+bu%22&pg=PA22 |access-date=March 1, 2012 |year=2008 |publisher=HarperCollins |isbn=978-0-06-112278-1 |quote=About 10 miles north of Santa Monica, Malibu (or "The Bu" as locals and wannabe gangstas like to call it) is where much of Hollywood hangs on the weekends to breathe its clean salt air and catch some rays. |archive-date=June 12, 2023 |archive-url=https://web.archive.org/web/20230612220315/https://books.google.com/books?id=HAps5fjPUJAC&q=malibu+%22the+bu%22&pg=PA22 |url-status=live }}</ref>
+<ref name="incorporated">{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title=California Cities by Incorporation Date
+ |format=Word
+ |publisher=California Association of [[Local Agency Formation Commission]]s
+ |access-date=August 25, 2014 |url-status=dead
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date=November 3, 2014 }}</ref>
+<ref name="named for">{{Cite book
+| edition = Revised
+| publisher = EZ Nature Books
+| isbn = 978-0936784151
+| last1 = McCall
+| first1 = Lynne
+| last2 = Perry
+| first2 = Rosalind
+| title = California's Chumash Indians: a project of the Santa Barbara Museum of Natural History Education Center
+| location = San Luis Obispo, Calif
+| year = 2002
+| url-access = registration
+| url = https://archive.org/details/californiaschuma00mcca
+}}</ref>
+<ref name="Partridge">{{cite book |last1=Partridge |first1=Eric |editor1-first=Tom |editor1-last=Dalzell |others=Victor, Terry |title=The Concise New Partridge Dictionary of Slang and Unconventional English |url=https://books.google.com/books?id=7UIjVGcSe8MC&q=malibu+%22the+bu%22&pg=PA95 |access-date=March 1, 2012 |edition=8th (rev.) |year=2008 |publisher=Routledge |location=Abingdon |isbn=978-0-415-21259-5 |page=95 |quote='''Bu; the Bu; Mother Bu''' ''nickname'' Malibu, California |archive-date=June 12, 2023 |archive-url=https://web.archive.org/web/20230612220315/https://books.google.com/books?id=7UIjVGcSe8MC&q=malibu+%22the+bu%22&pg=PA95 |url-status=live }}</ref>
+<ref name=quif>{{Cite web|url=https://www.census.gov/quickfacts/malibucitycalifornia|title=Malibu (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 17, 2022|archive-date=May 19, 2022|archive-url=https://web.archive.org/web/20220519104801/https://www.census.gov/quickfacts/malibucitycalifornia|url-status=live}}</ref>
+<ref name="Myrick, David F. pp. 1-53">Myrick, David F. ''The Determined Mrs. Rindge and her Legendary Railroad: A History of the Hueneme, Malibu and Port Los Angeles Railway,'' pp. 1–53, Ventura County Historical Society, 1996.</ref>
+
+<!--<ref name="GR1">{{cite web|url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html|publisher=[[United States Census Bureau]]|access-date=April 23, 2011|date=February 12, 2011|title=US Gazetteer files: 2010, 2000, and 1990}}</ref>  -->
+
+<ref name="hazards">[http://www.malibucomplete.com/mc_hazards_fires.php Malibu Fires] {{Webarchive|url=https://web.archive.org/web/20080820061158/http://www.malibucomplete.com/mc_hazards_fires.php |date=August 20, 2008 }}, MalibuComplete.com</ref>
+<ref name="la208946">[http://la.indymedia.org/news/20 October 8946.php Let Malibu Burn: A political history of the Fire Coast Mike Davis]{{Dead link|date=August 2018 |bot=InternetArchiveBot |fix-attempted=yes }}, by repost publish in LA Weekly 1996 Wednesday, October 24, 2007, Los Angeles Independent Media Center</ref>
+<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015|archive-date=July 1, 2021|archive-url=https://web.archive.org/web/20210701194652/https://www.census.gov/programs-surveys/decennial-census.html|url-status=live}}</ref>
+<ref name="quickfacts.census.gov">{{cite web|title=Malibu (city), California|url=http://quickfacts.census.gov/qfd/states/06/0645246.html|publisher=[[United States Census Bureau]]|website=Census.gov|access-date=October 1, 2014|url-status=dead|archive-url=https://web.archive.org/web/20120701223553/http://quickfacts.census.gov/qfd/states/06/0645246.html|archive-date=July 1, 2012}}</ref>
+<ref name="malibucomplete1">{{cite web |url=http://www.malibucomplete.com/mc_history_malibucity_chilicookoffland.php |title=Malibu Chili Cook-Off Land Purchase |publisher=Malibucomplete.com |access-date=September 21, 2008 |archive-date=August 20, 2008 |archive-url=https://web.archive.org/web/20080820053239/http://www.malibucomplete.com/mc_history_malibucity_chilicookoffland.php |url-status=live }}</ref>
+<ref name="OC">[http://www.seeing-stars.com/OC/ByLocation.shtml The O.C. Filming Locations] {{webarchive|url=https://web.archive.org/web/20120630234804/http://www.seeing-stars.com/OC/ByLocation.shtml |date=June 30, 2012 }} from seeing-stars.com</ref>
+}}
+
+== Further reading ==
+* Rindge, Frederick Hastings. ''Happy Days in Southern California'', 222 pgs., Cambridge, MA and Los Angeles, CA, 1898. Reprinted by Nabu Press, 2010. {{ISBN|978-1145362505}}. A description of his Malibu ranch.
+
+==External links==
+{{Commons category|Malibu, California}}
+{{wikivoyage|Malibu}}
+* {{Official website}}
+* [http://www.malibu.org/ Malibu Chamber of Commerce]
+
+{{Geographic location
+| Centre    = Malibu
+| North     = [[Thousand Oaks, California|Thousand Oaks]]<br />{{small|'' [[California State Route 23|SR 23]]''}}
+| Northwest = [[Oxnard, California|Oxnard]]<br />{{small|'' [[California State Route 1|PCH (SR 1)]]''}}
+| East      = [[Pacific Palisades, Los Angeles|Pacific Palisades]]<br />{{small|'' [[California State Route 1|PCH (SR 1)]]''}}
+| South     = [[Pacific Ocean]]
+}}
+{{Malibu, California}}
+{{Los Angeles County, California}}
+{{Los Angeles Westside}}
+{{Greater Los Angeles Area}}
+{{California}}
+{{Southern California megaregion}}
+{{Authority control}}
+
+[[Category:Malibu, California| ]]
+[[Category:1991 establishments in California]]
+[[Category:Beaches of Southern California]]
+[[Category:Cities in Los Angeles County, California]]
+[[Category:Incorporated cities and towns in California]]
+[[Category:Beaches of Los Angeles County, California]]
+[[Category:Populated coastal places in California]]
+[[Category:Populated places established in 1991]]
+[[Category:Populated places in the Santa Monica Mountains]]
+[[Category:Seaside resorts in California]]

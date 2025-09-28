@@ -1,0 +1,432 @@
+{{Use mdy dates|date=May 2023}}
+{{Infobox settlement
+| name                     = Urbana, Illinois
+| named_for                = [[Urbana, Ohio]], U.S.
+| settlement_type          = [[List of municipalities in Illinois|City]]
+| image_skyline            = Snowfall on Carle Park, Urbana, IL, 2004-12-26.jpg
+| image_caption            = A snowy day in Carle Park west of Urbana High School. On the right is ''[[Lincoln the Lawyer]]'', a statue of [[Abraham Lincoln]] by [[Lorado Taft]].
+| coordinates              = {{coord|40|06|38|N|88|11|50|W|display=inline,title}}<ref name=gnis/>
+| pushpin_map = Illinois#USA
+| pushpin_relief             = yes
+| pushpin_label = Urbana
+| subdivision_type         = Country
+| subdivision_name         = United States
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[Illinois]]
+| subdivision_type2        = [[List of counties in Illinois|County]]
+| subdivision_name2        = [[Champaign County, Illinois|Champaign]]
+| established_title        = Founded
+| established_date         = 1833
+| established_title1       = [[Municipal corporation|Incorporated Town]]
+| established_date1        = 
+| established_title2       = [[Municipal charter|City charter]]
+| established_date2        = 
+| government_type          = [[Mayor–council]]
+| leader_party             = D
+| leader_title             = Mayor
+| leader_name              = Diane Wolfe Marlin
+| area_total_sq_mi         = 11.90
+| area_land_sq_mi          = 11.83
+| area_water_sq_mi         = 0.07
+| elevation_footnotes      = <ref name=gnis/>
+| elevation_ft             = 732
+| population_footnotes     = 
+| population_total         = 38336
+| population_as_of         = [[2020 United States Census|2020]]
+| population_density_sq_mi = 3240.57
+| population_metro         = 236,072
+| timezone1                = [[North American Central Time Zone|CST]]
+| utc_offset1 = &minus;6
+| timezone1_DST            = [[North American Central Time Zone|CDT]]
+| utc_offset1_DST = &minus;5
+| postal_code_type         = Postal code
+| postal_code              = 61801–61803
+| area_code                = [[Area codes 217 and 447|217, 447]]
+| area_code_type           = [[North American Numbering Plan|Area codes]]
+| website                  = {{URL|http://urbanaillinois.us/}}
+| pop_est_as_of = 
+| pop_est_footnotes = 
+| population_est = 
+| unit_pref = Imperial
+| blank_name = [[Federal Information Processing Standards|FIPS code]]
+| blank_info = 17-77005
+| blank1_name = [[Geographic Names Information System|GNIS]] ID
+| blank1_info = 2397097<ref name=gnis>{{GNIS|2397097}}</ref>
+| area_footnotes = <ref name="CenPopGazetteer2020">{{cite web|title=2020 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2020_Gazetteer/2020_gaz_place_17.txt|publisher=United States Census Bureau|accessdate=March 15, 2022}}</ref>
+| area_total_km2 = 30.83
+| area_land_km2 = 30.64
+| area_water_km2 = 0.19
+| population_density_km2 = 1251.15
+| map_caption = Interactive map of Urbana
+| image_map  = {{Maplink|frame=yes|plain=y|frame-width=250|frame-height=250|frame-align=center|stroke-width=3|zoom=11|type=shape-inverse|stroke-color=#808080|id=Q462184|title=Urbana}}
+}}
+'''Urbana''' ({{IPAc-en|ɜr|ˈ|b|æ|n|ə}} {{Respell|ur|BAN|ə}}) is a city in and the [[county seat]] of [[Champaign County, Illinois]], United States.<ref name="GR6">{{cite web|url=http://www.naco.org/Counties/Pages/FindACounty.aspx |access-date=2011-06-07 |title=Find a County |publisher=National Association of Counties |url-status=dead |archive-url=https://web.archive.org/web/20120712220218/http://www.naco.org/Counties/Pages/FindACounty.aspx |archive-date=2012-07-12 }}</ref> As of the 2020 census, Urbana had a population of 38,336. It is a principal city of the [[Champaign–Urbana metropolitan area]], which had 236,000 residents in 2020.
+
+Urbana is notable for sharing the main campus of the [[University of Illinois Urbana-Champaign|University of Illinois]] with its twin city of [[Champaign, Illinois|Champaign]].
+
+==History==
+The Urbana area was first settled by Europeans in 1822,<ref name=history>{{Cite web |url=http://history.rays-place.com/il/cham-urbanacity.htm |title=History of the City of Urbana |access-date=2007-10-13 }}{{dead link|date=April 2020|bot=medic}}{{cbignore|bot=medic}}</ref> when it was called "Big Grove".<ref name=story>McGinty, Alice. [http://www.champaign.org/justkids/homework_help/illinois_champaign/champaign_history/story_of_champaign_urbana.html "The Story of Champaign-Urbana"] {{webarchive|url=https://web.archive.org/web/20160214140313/http://www.champaign.org/justkids/homework_help/illinois_champaign/champaign_history/story_of_champaign_urbana.html |date=2016-02-14}} Champaign Public Library</ref> When the county of [[Champaign County, Illinois|Champaign]] was organized in 1833, the county seat was located on 40 acres of land, 20 acres donated by William T. Webber and 20 acres by M.&nbsp;W. Busey, considered to be the city's founder, and the name "Urbana" was adopted<ref name=history /> after [[Urbana, Ohio]], the hometown of State Senator John W. Vance, who authored the Enabling Act creating Champaign County.<ref>{{Cite web|title=John W. Vance: The "Father of Champaign County" {{!}} Urbana Free Library|url=https://urbanafreelibrary.org/blogs/2017/03/17/john-w-vance-%E2%80%9Cfather-champaign-county%E2%80%9D|access-date=2022-02-09|website=urbanafreelibrary.org}}</ref> The creation of the new town was celebrated for the first time on July 4, 1833.<ref name=story />
+
+Stores began opening in 1834. The first mills were founded in {{Circa|1838}}-50. The town's first church, the Methodist Episcopal Church, and the parsonage, was built in 1840 by the Rev. A. Bradshaw, with the Baptist Church following in 1855. The Presbyterian Church was founded in 1856.<ref>{{Cite web|url=http://firstpresurbana.org/about-us/who-we-are/our-history/|title=Our History|date=December 22, 2018}}</ref> The city's first school was built in 1854.<ref name=history />
+
+Urbana suffered a setback when the [[Chicago]] branch of the [[Illinois Central Railroad]], which had been expected to pass through town, was instead laid down two miles west, where the land was flatter. The town of West Urbana grew up around the train depot built there in 1854, and in 1861 its name was changed to [[Champaign, Illinois|Champaign]]. The competition between the two cities provoked Urbana to tear down the ten-year-old County Courthouse and replace it with a much larger and fancier structure, to ensure that the county seat would remain in Urbana.<ref name=story />
+
+Champaign-Urbana was selected as the site for a new state agricultural school, thanks to the efforts of Clark Griggs. Illinois Industrial University, which would evolve into the [[University of Illinois Urbana-Champaign]], opened in 1868 with 77 students.<ref name=story />
+
+A number of efforts to merge Urbana and Champaign have failed at the polls.<ref name=story />
+
+On October 9, 1871, a fire burned much of downtown Urbana.<ref>{{cite web|url=http://urbanabusiness.com/explore/history/ |title=History of Urbana - Urbana Business AssociationUrbana Business Association |access-date=2014-10-26 |url-status=dead |archive-url=https://web.archive.org/web/20141026232709/http://urbanabusiness.com/explore/history/ |archive-date=2014-10-26 }}</ref> Children playing with matches started the fire.<ref>{{Cite web |url=http://www.iafflocal1147.org/?zone=%2Funionactive%2Fview_article.cfm&HomeID=74831&page=About20Us |title=IAFF Local 1147 |access-date=2022-06-30 |archive-date=2012-04-25 |archive-url=https://web.archive.org/web/20120425154714/http://www.iafflocal1147.org/?zone=%2Funionactive%2Fview_article.cfm&HomeID=74831&page=About20Us |url-status=dead }}</ref> (It is unrelated to the [[Great Chicago Fire]] that started the day before, though both fires occurred during severe drought and were spread by high winds.)
+
+==Geography==
+According to the 2021 census gazetteer files, Urbana has a total area of {{convert|11.90|sqmi|km2|2}}, of which {{convert|11.83|sqmi|km2|2}} (or 99.40%) is land and {{convert|0.07|sqmi|km2|2}} (or 0.60%) is water.<ref name="gaz2021">{{Cite web |last=Bureau |first=US Census |title=Gazetteer Files |url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html |access-date=2022-06-29 |website=Census.gov}}</ref>
+
+Urbana borders the city of [[Champaign, Illinois|Champaign]]. The main campus of the [[University of Illinois Urbana-Champaign]] is situated on this border. Together, these two cities are often referred to as ''Urbana-Champaign'' (the designation used by the University) or ''Champaign-Urbana'' (the more common usage, due to the larger size of Champaign). With the nearby village of [[Savoy, Illinois|Savoy]] they form the [[Champaign–Urbana metropolitan area]].
+
+{{Weather box
+|location = Urbana, Illinois (1981–2010 normals)
+|single line = Y
+|Jan record high F =  70
+|Feb record high F =  72
+|Mar record high F =  85
+|Apr record high F =  95
+|May record high F =  97
+|Jun record high F = 103
+|Jul record high F = 109
+|Aug record high F = 102
+|Sep record high F = 102
+|Oct record high F =  93
+|Nov record high F =  80
+|Dec record high F =  71
+|year record high F =109
+|Jan high F = 32.9
+|Feb high F = 37.7
+|Mar high F = 49.9
+|Apr high F = 62.8
+|May high F = 73.4
+|Jun high F = 82.5<!--rounds down to 82-->
+|Jul high F = 85.0
+|Aug high F = 83.7
+|Sep high F = 78.2
+|Oct high F = 65.2
+|Nov high F = 50.6
+|Dec high F = 36.7
+|year high F =61.7
+|Jan low F = 16.7
+|Feb low F = 20.2
+|Mar low F = 30.0
+|Apr low F = 41.1
+|May low F = 51.6
+|Jun low F = 61.9 
+|Jul low F = 64.9
+|Aug low F = 63.1
+|Sep low F = 54.2
+|Oct low F = 42.6
+|Nov low F = 32.0
+|Dec low F = 21.2
+|year low F =41.7
+|Jan record low F = −25
+|Feb record low F = −25
+|Mar record low F =  −5
+|Apr record low F =  15
+|May record low F =  26
+|Jun record low F =  34
+|Jul record low F =  41
+|Aug record low F =  37
+|Sep record low F =  24
+|Oct record low F =  12
+|Nov record low F =  −5
+|Dec record low F = −20
+|year record low F= −25
+|Jan precipitation inch = 2.02
+|Feb precipitation inch = 2.13
+|Mar precipitation inch = 2.85
+|Apr precipitation inch = 3.68
+|May precipitation inch = 4.89
+|Jun precipitation inch = 4.28
+|Jul precipitation inch = 4.70
+|Aug precipitation inch = 3.93
+|Sep precipitation inch = 3.13
+|Oct precipitation inch = 3.26
+|Nov precipitation inch = 3.66
+|Dec precipitation inch = 2.73
+|year precipitation inch=41.25
+|precipitation colour = green
+|Jan snow inch = 7.0
+|Feb snow inch = 6.0
+|Mar snow inch = 2.4
+|Apr snow inch = 0.4
+|May snow inch = 0
+|Jun snow inch = 0
+|Jul snow inch = 0
+|Aug snow inch = 0
+|Sep snow inch = 0
+|Oct snow inch = 0.1
+|Nov snow inch = 0.8
+|Dec snow inch = 6.4
+|year snow inch=23.3
+|unit precipitation days = 0.01 in
+|unit snow days = 0.1 in
+|Jan precipitation days =  9.3
+|Feb precipitation days =  8.9
+|Mar precipitation days = 10.6
+|Apr precipitation days = 11.9
+|May precipitation days = 12.2
+|Jun precipitation days = 10.3
+|Jul precipitation days = 10.0
+|Aug precipitation days =  9.4
+|Sep precipitation days =  7.7
+|Oct precipitation days =  9.5
+|Nov precipitation days = 10.2
+|Dec precipitation days = 10.6
+|Jan snow days = 5.3
+|Feb snow days = 4.1
+|Mar snow days = 2.2
+|Apr snow days = 0.3
+|May snow days = 0
+|Jun snow days = 0
+|Jul snow days = 0
+|Aug snow days = 0
+|Sep snow days = 0
+|Oct snow days = 0.1
+|Nov snow days = 1.0
+|Dec snow days = 5.0
+|year snow days=18.1
+|source 1 = NOAA (extremes 1888–present)<ref name = NOAA >{{cite web |url = https://w2.weather.gov/climate/xmacis.php?wfo=ilx |title = NowData - NOAA Online Weather Data |publisher = [[National Oceanic and Atmospheric Administration]] |access-date = 2012-02-27}}</ref>
+}}
+
+==Demographics==
+{{stack|{{US Census population
+|1850= 210
+|1860= 1370
+|1870= 2277
+|1880= 2942
+|1890= 3511
+|1900= 5728
+|1910= 8245
+|1920= 10244
+|1930= 13060
+|1940= 14064
+|1950= 22834
+|1960= 27294
+|1970= 33976
+|1980= 35978
+|1990= 36344
+|2000= 36395
+|2010= 41250
+|2020= 38336
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>
+}}
+}}As of the [[2020 United States census|2020 census]]<ref>{{Cite web |title=Explore Census Data |url=https://data.census.gov/cedsci/profile?g=1600000US1777005 |access-date=2022-06-28 |website=data.census.gov}}</ref> there were 38,336 people, 17,295 households, and 6,680 families residing in the city. The population density was {{Convert|3,220.97|PD/sqmi|PD/km2}}. There were 18,321 housing units at an average density of {{Convert|1,539.32|/sqmi|/km2}}. The racial makeup of the city was 51.61% [[White (U.S. Census)|White]], 18.86% [[African American (U.S. Census)|African American]], 0.30% [[Native American (U.S. Census)|Native American]], 18.26% [[Asian (U.S. Census)|Asian]], 0.03% [[Pacific Islander (U.S. Census)|Pacific Islander]], 3.57% from [[Race (United States Census)|other races]], and 7.37% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 8.52% of the population.
+
+There were 17,295 households, out of which 17.1% had children under the age of 18 living with them, 25.57% were married couples living together, 8.99% had a female householder with no husband present, and 61.38% were non-families. 44.42% of all households were made up of individuals, and 8.10% had someone living alone who was 65 years of age or older. The average household size was 2.70 and the average family size was 2.06.
+
+The city's age distribution consisted of 11.7% under the age of 18, 38.2% from 18 to 24, 26.1% from 25 to 44, 13.4% from 45 to 64, and 10.5% who were 65 years of age or older. The median age was 25.0 years. For every 100 females, there were 97.8 males. For every 100 females age 18 and over, there were 97.2 males.
+
+The median income for a household in the city was $35,984, and the median income for a family was $66,955. Males had a median income of $27,150 versus $25,511 for females. The [[per capita income]] for the city was $25,365. About 11.4% of families and 29.1% of the population were below the [[poverty line]], including 19.1% of those under age 18 and 5.6% of those age 65 or over.
+
+==Arts and culture==
+
+===Market at the Square===
+[[Image:Urbana illinois farmers market seen from roof.jpg|thumb|Market at the Square]]
+
+The '''Market at the Square''', also known as the '''Farmers' Market''', has been a community event in Urbana since 1979.<ref>{{Cite web|url=http://www.ci.urbana.il.us/urbana/community_development/economic_development/market/Main.htm|archive-url=https://web.archive.org/web/20070726172406/http://www.ci.urbana.il.us/urbana/community_development/economic_development/market/Main.htm|url-status=dead|title=Market at the Square|archive-date=July 26, 2007}}</ref>  Every Saturday morning from some time in May to some time in November, dozens of vendors set up shop in the Lincoln Square parking lot in downtown Urbana.  They primarily sell local produce (including corn, tomatoes, lettuce and watermelons), but one can also find local crafts, music, kettle corn and booths for various community and political organizations.
+
+===Urbana Free Library===
+[[Image:Urbana Free Library June 2006.jpg|thumb|Urbana Free Library]]
+
+The Urbana Free Library,<ref>{{Cite web|url=https://urbanafreelibrary.org/|title=&#124; Urbana Free Library|website=urbanafreelibrary.org}}</ref> one of the first public libraries in Illinois, was founded in 1874 and is located in the downtown area.<ref name=LIBHIST>{{cite web|url=http://urbanafreelibrary.org/about/history/|title=The Urbana Free Library 1874 - Present |access-date=July 13, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100622024038/http://urbanafreelibrary.org/about/history/ |archive-date=June 22, 2010 }}</ref> The historic building which houses the library was built in 1918. A major new addition was opened in 2005.
+
+The library houses historical archives of Champaign County which can be used for genealogical research. Established in 1956, the Champaign County Historical Archives<ref name="hist">{{cite web|url=http://urbanafreelibrary.org/archives/|title=Champaign Country Historical Archives|access-date=2012-05-14|url-status=dead |archive-url=https://web.archive.org/web/20120422073400/http://www.urbanafreelibrary.org/archives/ |archive-date=2012-04-22 }}</ref> is a department of the Urbana Free Library that maintains a research-level collection on the history and genealogy of Champaign County. In 1987 it was designated the official repository for non-current Champaign County records. Although it focuses on Champaign County, the Archives holds extensive collections of works dealing with the rest of Illinois and those states that document the significant migration routes of the communities that comprise Champaign County.<ref name="hist"/>  The CCHA is also home to the Local History Online database.<ref>{{cite web|title=Local History & Genealogy|url=http://archivescatalog.urbanafreelibrary.org/Polaris/|website=Urbana Free Library|publisher=[[Innovative Interfaces]]}}</ref>  Local History Online gives access to holdings (books and journals, Champaign County records, City of Urbana municipal records, newspapers, directories, school yearbooks, images, maps, oral histories, local organization newsletters and other special collections) of the Champaign County Historical Archives, including digital content. The catalog is frequently updated.<ref>{{cite web|title=Local History Online |url=http://urbanafreelibrary.org/archives/lhdetails.php |access-date=May 14, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120422072900/http://urbanafreelibrary.org/archives/lhdetails.php |archive-date=April 22, 2012 }}</ref>
+
+The library is publicly funded and receives additional support from about 600 people who have joined the Friends of the Urbana Free Library.
+
+===Station Theatre===
+[[Station Theatre (Urbana)|Station Theatre]], run by the Celebration Company, hosts live performances.
+
+===Urbana Sweetcorn Festival===
+The Urbana Sweetcorn Festival is an annual festival in Urbana. It was first held in August 1975 in the Busey Bank parking lot in downtown Urbana. It was a community event put on by employees of Busey Bank. Since then the Sweetcorn Festival has continued to grow. The Urbana Business Association is now responsible for the planning of the festival, over the years adding a local car show, an expanded family area, live music on multiple stages, food, vendors, beer, in the heart of downtown Urbana.
+
+In addition to corn and beverages, the festival has offered a range of activities and events, including a display of antique and other collectors' cars and [[volksmarch]]es, arts events, a dog show, and a book sale organized by the Friends of the Urbana Free Library.<ref>{{cite news |first=Maureen |last=Wilkey |title=Corn festival comes to C-U |url=http://www.illinimedia.com/di/news/2451 |work=Daily Illini |date=August 27, 2004 |access-date=2008-04-07 |archive-url=https://web.archive.org/web/20080325142023/http://www.illinimedia.com/di/news/2451 |archive-date=2008-03-25 |url-status=dead }}</ref><ref>{{cite news| first = Bob| last = Puhala| title = It's time for corny fun at Midwest festivals| url = http://nl.newsbank.com/nl-search/we/Archives?p_product=CSTB&p_theme=cstb&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0EB36D7E4CD624A4&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM| work = Chicago Sun-Times| page = 15| date = August 9, 1987| access-date = 2008-04-07}}</ref><ref>{{cite news| first = Greg| last = Kline| title = Putting the sweet in corn| url = http://www.news-gazette.com/news/local/2003/08/18/putting_the_sweet_in_corn| work = The News-Gazette| location = Champaign, Illinois| date =  August 18, 2003| access-date = 2008-04-07}} {{Dead link|date=September 2010|bot=H3llBot}}</ref>
+
+===Candlestick Lane===
+[[Image:House on Candlestick Lane in Urbana,IL 2007.jpg|thumb|A house on Candlestick Lane colorfully decorated for Christmas]]
+
+Candlestick Lane is the name for a neighborhood in eastern Urbana.  This neighborhood consists of Grant Place and adjacent properties on Fairlawn and Eastern Drives.  It is called Candlestick Lane because every year the residents decorate their yards for Christmas with a lot of lights and figures.  The tradition began in 1961 (maybe 1960) as a house-decorating contest sponsored by the Illinois Power Company.  The neighborhood used its prize money to purchase electric candlesticks for each home.  The City of Urbana installs special red and green street signs, reading "Candlestick Lane" and "Grant Place" during the Holiday season. The lights are turned on from around 5:00 to 10:00&nbsp;p.m. from the third Saturday in December through New Years Day.<ref>{{Cite web|url=http://www.news-gazette.com/blogs/central_illinois_gazette/2006/12/14/candlestick_lane_debut|title="Candlestick Lane Debut" by Tom Kacich, The News-Gazette Weblog}}</ref>
+
+===Urbana Lincoln Hotel===
+The [[Urbana-Lincoln Hotel-Lincoln Square Mall|Urbana Lincoln Hotel]] is connected to Lincoln Square Mall, an indoor walking mall, in the center of Urbana. The hotel was designed by famed Urbana architect [[Joseph Royer (architect)|Joseph Royer]] in 1923 and opened several rooms on November 1, 1923, to accommodate guests for the University's Homecoming game. The original building was built in the Tudor Revival style. A convention center was added in the 1970s in the Bavarian style. While being forced to close twice between 1990 and 2009, the hotel was purchased by a private developer in 2010 and underwent major rehabilitation. The hotel opened under new management and with a new name, Urbana Landmark Hotel, on December 1, 2012, but it closed in July 2015<ref>{{Cite web|url=https://www.news-gazette.com/news/hotel-back-on-market/article_169b1d36-3d7d-56b3-ac7a-d2cd7036072a.html|title=Hotel back on market|first=Tom|last=Kacich|website=The News-Gazette}}</ref> and sold January 2020 for redevelopment as a Hilton Tapestry hotel.<ref>{{Cite web|url=https://www.news-gazette.com/business/economy/developer-completes-purchase-of-urbanas-landmark-hotel/article_5ab4b754-41fd-11ea-86e6-5f5e7fbbe34b.html|title=Developer completes purchase of Urbana's Landmark Hotel|first=Ben|last=Zigterman|website=The News-Gazette}}</ref>
+
+[[File:Cinema cafe Urbana IL.jpg|thumb|The Cinema Gallery in downtown Urbana]]
+
+=== Points of interest ===
+* [[University of Illinois Urbana–Champaign]]
+* [[University of Illinois Arboretum]]
+* [[University of Illinois Conservatory and Plant Collection]]
+* [[Krannert Center for the Performing Arts]]
+* [[Spurlock Museum]]
+
+==Parks and recreation==
+[[File:Carle Park 2.jpg|thumb|Carle Park]]
+Carle Park,<ref>{{Cite web|url=https://www.urbanaparks.org/parks/carle-park/|title=Carle Park - General Gallery - Photo Galleries &#124; Urbana Park District|website=www.urbanaparks.org}}</ref>  established in 1909, is located at Indiana and Garfield, just west of Urbana High School in central Urbana. Measuring {{convert|8.3|acre|m2}}, it contains a statue entitled ''[[Lincoln the Lawyer]]'' by [[Lorado Taft]] and more than 50 well-established trees that are part of the Hickman Tree Walk. The Lincoln statue was previously sited in front of the Urbana Lincoln Hotel, but was moved after only a few months.
+
+Meadowbrook Park<ref>[http://www.urbanaparks.org/facilities/16.html "Meadowbrook Park"]. urbanaparks.org.</ref> is located southeast of the Race Street and Windsor Road intersection. The park covers {{convert|130|acre|km2}}, including 80 of recreated Illinois [[tallgrass prairie]]. Around the prairie restoration center of the park loops three miles of wide concrete path suitable for walking, running, and bicycling. In addition, for an off the beaten path experience, the park offers two miles of unpaved trails which wind through the prairie grass. Several small hills make the path unsuitable for inexperienced inline skaters. The path is adorned by about twenty large sculptures from local artists. A playground, shelter, and parking lot are located near the Windsor Road entrance. A [[community garden]], an herbal garden, the Timpone Ornamental Tree Grove and a shelter are located near the Race Street entrance. The park also contains many streams which are among the first tributaries of the [[Embarras River (Illinois)|Embarras River]].
+
+[[File:"Lincoln the Lawyer" by Lorado Taft.jpg|thumb|upright|''[[Lincoln the Lawyer]]'' by [[Lorado Taft]]]]
+The Urbana Dog Park,<ref>{{cite web|url=http://www.urbanaparks.org/facilities/55.html |title=Dog Park · Urbana Park District |access-date=2007-11-26 |url-status=dead |archive-url=https://web.archive.org/web/20071112024438/http://urbanaparks.org/facilities/55.html |archive-date=2007-11-12 }}</ref> located on East Perkins Road, is a place to walk one's dog without a leash.
+
+The Anita Purves Nature Center], located on the north end of Crystal Lake Park, offers nature education programs.<ref>[https://web.archive.org/web/20131222185611/http://www.urbanaparks.org/facilities/4.html Urbana Parks]</ref>
+
+The "Art in the Park",<ref>[http://urbanaillinois.us/artinthepark Art in the Park]</ref> just north of the Urbana City Hall (400 S. Vine St.) dedicated October 2012, took 22 years of struggle and efforts of three mayors. The environmental and sculptural artists/curator of the park, John David Mooney designed the plantings, walkways, a 12-foot high fountain sculpture (Falling Leaf), and a 33-foot high light sculpture (Spirit Tree). The Spirit Tree specifically gives new meaning to Urbana's designation as a "Tree City" and to trees as landmarks or beacons. Mooney, an internationally acclaimed artist, is a native to Champaign-Urbana.<ref>{{Cite web|url=https://www.mooneyfoundation.org/|title=Home|website=jdmf}}</ref>
+
+===Swimming pools===
+The Urbana Indoor Aquatic Center<ref>{{Cite web|url=https://www.urbanaparks.org/facilities/urbana-indoor-aquatic-center/|title=Indoor Aquatic Center - Urbana Indoor Aquatic Center - Photo Galleries &#124; Urbana Park District|website=www.urbanaparks.org}}</ref> is a public indoor pool operated by the Urbana Park District and Urbana School District. It is located between Urbana High School and Urbana Middle School.
+
+Crystal Lake Pool<ref>{{Cite web|url=https://www.urbanaparks.org/facilities/crystal-lake-park-family-aquatic-center/|title=Family Aquatic Center - Crystal Lake Park Family Aquatic Center - Photo Galleries &#124; Urbana Park District|website=www.urbanaparks.org}}</ref> is a public outdoor pool.  It is located on Broadway Street, across from the Anita Purves Nature Center. It was closed after the summer 2008 season due to deteriorating conditions and concomitant safety issues, it was rebuilt and reopened in 2013.
+
+[[UIUC Campus Recreation Center – East (CRCE)|Campus Recreation Center East (CRCE)]] has an indoor leisure pool with a hot tub. CRCE is owned by the [[University of Illinois Urbana–Champaign]].<ref>{{cite web|url=https://campusrec.illinois.edu/programs/aquatics/pools/|title=Pools - Campus Recreation|access-date=2019-01-30}}</ref> In Urbana, the pools in Freer Hall, formerly a 25-yard and 6-lane lap pool, and [[Kenney Gym]] have been closed and filled, the former redeveloped as research and teaching spaces.<ref>{{cite news |url=http://www.news-gazette.com/news/local/2015-01-27/another-ui-indoor-pool-closing.html |last=Des Garennes |first=Christine |date=2015-01-27 |title=Another UI indoor pool closing |work=The News-Gazette |access-date=2019-01-30}}</ref>
+
+==Government==
+Urbana has [[Mayor–council government]], of the strong-mayor form. The city council has seven members, each elected from a different ward. The mayor is elected in a citywide vote.
+
+==Education==
+
+===Primary and secondary===
+[[Image:Champaign-Urbana area IMG 0980.jpg|thumb|[[Urbana High School (Illinois)|Urbana High School]], 2003]]
+[[Urbana High School (Illinois)|Urbana High School]]'s current building was built in 1914. It was designed by architect Joseph Royer who also designed many other area buildings such as the Urbana Free Library and the Champaign County Court House. The architecture is of the [[Tudor Revival architecture|Tudor style]] defined primarily by the towers over the main entrance and flattened point arches over the doors.
+
+[[File:Uni High Urbana illinois.jpg|thumb|[[University Laboratory High School (Urbana, Illinois)|University Laboratory High School]]]]
+Not part of the Urbana School District, [[University Laboratory High School (Urbana, Illinois)|University Laboratory High School]], locally known as Uni High, is a publicly funded [[laboratory school]] located on the campus of the [[University of Illinois Urbana-Champaign|University of Illinois]] in Urbana. It was founded in 1921. It is a research project of the University of Illinois College of Education.
+
+Urbana Middle School was first known as Urbana Junior High School in 1953. In 2003 the school was renovated for space. The school currently serves 954 students from grades 6 to 8.<ref>{{cite web |url=http://webprod.isbe.net/ereportcard/publicsite/getReport.aspx?year=2014&code=0901011601002_e.pdf |title=Archived copy |access-date=2015-09-28 |url-status=dead |archive-url=https://web.archive.org/web/20150929083227/http://webprod.isbe.net/ereportcard/publicsite/getReport.aspx?year=2014&code=0901011601002_e.pdf |archive-date=2015-09-29 }}</ref>{{Citation needed|date=November 2011}} The school is renowned for its band program, which went to the Illinois State Band Competition (Superstate) twelve years in a row from 1994 to 2006.{{Citation needed|date=November 2010}}
+
+The Elementary schools in Urbana are: Leal, Dr. Martin Luther King Jr., Dr. Preston L. Williams Jr., Thomas Paine, Wiley, Prairie, and Yankee Ridge. Urbana Early Childhood School is the former Washington Early Childhood Center and is located on the Prairie Campus next to Dr. Preston L. Williams Elementary.
+
+====Test scores====
+Urbana Middle School and all elementary schools in the Urbana School District passed their [[Adequate Yearly Progress]] in the 2005–2006 school year, as determined by scores in the [[Illinois Standards Achievement Test]].  However, Urbana High School (by way of the [[Prairie State Achievement Examination]]) did not.  University Laboratory High School students do not take these tests because, despite the fact that University High is a public school, it is not part of a local school district.<ref name=BOEmemo>{{cite web|url=http://www.isbe.state.il.us/assessment/pdfs/psae_grad_guid_memo.pdf |title=Memorandum:2006–07 Guidance – Graduation and the Prairie State Achievement Examination |access-date=April 20, 2007 |author=Becky McCabe, Division Administrator, Student Assessment Division |date=August 21, 2006 |publisher=[[Illinois State Board of Education]] |archive-url=https://web.archive.org/web/20071203115430/http://www.isbe.state.il.us/assessment/pdfs/psae_grad_guid_memo.pdf |archive-date=December 3, 2007 |url-status=dead }}</ref>
+
+===Colleges and universities===
+Most of the [[University of Illinois Urbana–Champaign]] campus lies in this city.
+
+==Transportation==
+Downtown Urbana is located southwest of the intersection of its two busiest streets: [[U.S. Route 150|U.S. 150]] (University Avenue) and [[U.S. Route 45|U.S. 45]] (Vine Street-Cunningham Avenue).
+
+Most of Urbana lies south of [[Interstate 74 in Illinois|I-74]]. There are three exits (from west to east): Lincoln (I-74 milepost 183), Cunningham (184) and University (185). The Lincoln exit is closest to the University of Illinois, while the Cunningham exit goes to downtown Urbana. The University exit goes to downtown Urbana as well as [[Illinois Route 130]] to [[Philo, Illinois|Philo]].
+
+Local bus service is primarily provided by the [[Champaign–Urbana Mass Transit District]], although limited service is available from [[Champaign County Area Rural Transit System]] and [[Danville Mass Transit]], operators which primarily serve [[Rantoul, Illinois|Rantoul]] and [[Danville, Illinois|Danville]] respectively.
+
+The [[Norfolk Southern Railway|Norfolk Southern]] operates an east to west line through Urbana. The NS line connects industries in eastern Urbana to the Norfolk Southern main line at [[Mansfield, Illinois]], west of Champaign. The line now operated by Norfolk Southern is the former [[Peoria & Eastern Railway]], later operated as part of the Big Four ([[Cleveland, Cincinnati, Chicago and St. Louis Railway]]), [[New York Central]], [[Penn Central Transportation|Penn Central]], and [[Conrail]] systems, being sold by Conrail to Norfolk Southern in 1996. Construction of the line was begun by the Danville, Urbana, Bloomington and Pekin Railroad. This short-lived entity became part of the [[Indianapolis, Bloomington and Western Railway]] before the railroad was completed. A branch line of the [[Norfolk and Western Railway]] (formerly the Wabash Railroad) used to connect Urbana with the main line from Danville to Decatur at [[Sidney, Illinois]], but this was first rerouted and later closed in the early 1990s.
+
+[[University of Illinois Willard Airport]] serves the city.
+
+==Media==
+{{col-begin}}{{col-break}}
+'''FM radio'''
+* 88.1 W201CK (Translates 90.7 [[KHRI (FM)|KHRI]]) "[[Air 1]]", [[Christian contemporary music|Christian CHR]]
+* 88.7 [[WPCD]], [[College radio|College Radio]]
+* 89.3 [[WGNJ]], Religious
+* 90.1 [[WEFT]], [[Community Radio]], [[Variety (radio)|Variety]]
+* 90.9 [[WILL-FM]], [[Classical music]],   [[Public Radio]], ([[Radio Data System|RDS]]), broadcasting from Urbana
+* 91.7 [[WBGL]], [[Christian contemporary music|Christian AC]] (RDS)
+* 92.5 [[WREE]] "Rewind 92.5", [[Classic hits|Classic Hits]] (RDS – Artist/Title)
+* 93.5 [[WSJK]] "ESPN Radio" [[Sports]] (RDS)
+* 94.5 [[WLRW]] "Mix 94.5" [[Adult contemporary music|Hot AC]] (RDS – Artist/Title) ([[HD Radio]])
+* 95.3 [[WJEK]] "Sunny 95.3" [[Adult contemporary]] (RDS)
+* 96.1 [[WQQB]] "Q 96", [[Top 40 (radio format)|CHR/Pop]] (RDS)
+* 97.5 [[WHMS-FM]] "Lite Rock 97.5" [[Adult contemporary music|Adult Contemporary]]
+* 99.1 [[WYXY]] "Extra 99.1" [[Rock music|Rock]] (RDS – Artist/Title)
+* 99.7 [[WQQB]] [http://www.hits997.com/ "Hits 99.7"][[Popular and Hip hop]]
+* 100.3 [[WIXY]] "WIXY 100.3" [[Country music|Country]] (RDS – Artist/Title)
+* 100.9 [[WHPO]] "100.9 WHPO" [[Country music|Country]]
+* 101.1 W266AF (Translates 90.9 [[WILL-FM]] HD2), 24-hour [[Classical music]]
+* 102.5 [[WGNN]], Religious
+* 103.9 W280DE (Translates 102.5 [[WGNN]]), Religious
+* 104.5 [[WRFU-LP]] "Radio Free Urbana", Community/Political Activism([[Low-power 100 watts FM]])
+* 105.5 [[WCZQ]] "Hot 105.5" [[Hip Hop]] and [[R&B]]
+* 105.9 [[WGKC]] "Classic Rock 105.9 WGKC" Classic Rock
+* 107.1 [[WPGU]] [[College radio|College Radio]] [[Alternative rock|Alternative]]
+* 107.9 [[WKIO]] "Classic Rock 107 9" [[Classic rock]]
+
+'''AM radio'''
+* 580 [[WILL (AM)|WILL]], [[National Public Radio|Public Radio]], broadcasting from Urbana
+* 1400 [[WDWS]], [[Talk radio|News/Talk]] ([[AM stereo|AM Stereo]])
+* 1460 [[WJCI]], [[Hispanic radio|Hispanic]]
+{{col-break|gap=4em}}
+'''Analog television'''
+* 3 [[WCIA]], [[CBS]]
+* 7 W07DD, [[Three Angels Network]]
+* 12 [[WILL-TV]], [[Public Broadcasting Service|PBS]]
+* 15 [[WICD (TV)|WICD]] "NewsChannel 15", [[American Broadcasting Company|ABC]]
+* 17 [[WAND]], [[NBC]]
+* 23 [[WBUI]], [[The CW Television Network|The CW]]
+* 27 [[WRSP-TV|WCCU]] "Fox 55/27"
+* 34 W33AY, [[Trinity Broadcast Network]]
+* 44 WBXC-CA, [[MTV|MTV 2]]
+* 49 [[WCIX]] "My WCFN TV", [[My Network TV]]
+* 51 [[WEIU-TV|WEIU]], [[Public Broadcasting Service|PBS]]
+
+'''Digital television (DTV)'''
+* 9 WILL-DT, PBS
+* 18 WAND-DT, NBC
+* 22 WBUI-DT, WB
+* 26 WCCU-DT, Fox
+* 41 WICD-DT, ABC
+* 48 WCIA-DT, CBS
+* 50 WEIU-DT, PBS
+
+'''Print'''
+* [[The News-Gazette (Champaign-Urbana)|The News-Gazette]], daily local newspaper
+* [[Daily Illini]]
+* [[Buzz Weekly]]
+* The Public I indie media newspaper
+{{col-end}}
+
+[[File:Channing-Murray Foundation Unitarian Universalist Chapel Urbana Illinois.jpg|thumb|The Channing-Murray Foundation, on campus]]
+
+==In popular culture==
+'''Film'''
+*In the 1968 film ''[[2001: A Space Odyssey (film)|2001: A Space Odyssey]]'', Urbana was named as the location where the [[HAL 9000]] computer of the ill-fated Discovery Mission to [[Jupiter]] was programmed.  
+*The 1959 [[comedy]] ''[[Some Like It Hot]]'' also mentions Urbana. Near the beginning of this film, [[Jack Lemmon]]'s character, an unemployed bass player, suggests to [[Tony Curtis]], a saxophone player, that the two visit Urbana to play at the University of Illinois. Instead, the two musicians elected to join a women's band in Florida.
+*Urbana provides the setting for [[Bert I. Gordon]]'s 1957 [[science fiction]] film, ''[[Beginning of the End (film)|Beginning of the End]]''. Parodied on the television program, ''[[Mystery Science Theater 3000]]'', this movie features the unintentional creation of dangerous, giant grasshoppers as a result of agricultural research gone awry.
+
+'''Literature'''
+*[[University of Illinois Urbana-Champaign]] English Professor and [[National Book Award]] winner [[Richard Powers]] set his novel ''[[Galatea 2.2]]'' at the multidisciplinary [[The Beckman Institute for Advanced Science and Technology|Beckman Institute for Advanced Science and Technology]].
+*Spanish writer [[Javier Cercas]] uses Urbana as the geographical background for two of his novels, "La velocidad de la luz" (2005) and "El inquilino" (1989)
+
+'''Music'''
+* The "[[American Football House]]", which is featured on several [[American Football (band)|American Football]] albums, is located at 704 W High St.<ref>{{Cite web|title=Emo Tourism: How the American Football House Became One of Music's Biggest Landmarks|url=https://www.vice.com/en/article/jm5837/emo-tourism-how-the-american-football-house-became-the-one-of-musics-biggest-landmarks|access-date=2021-05-03|website=www.vice.com|language=en}}</ref><ref>{{Cite web|title='The American Football House'|url=http://www.atlasobscura.com/places/the-american-football-house|access-date=2021-05-03|website=Atlas Obscura|language=en}}</ref><ref>{{Cite web|last=@21stshow|date=2020-07-30|title=The American Football House in Urbana|url=https://will.illinois.edu/21stshow/story/american-football-house|access-date=2021-05-03|website=Illinois Public Media|language=en}}</ref>
+
+==Sister cities program==
+Urbana is twinned with three sister cities:
+* [[Zomba, Malawi]]<ref>{{cite web | title=Urbana's Sister City Program--Zomba, Malawi|url=http://urbanaillinois.us/UrbanaSisterCities|access-date= September 17, 2011}}</ref>
+* [[Haizhu District|Haizhu]], [[Guangzhou]], China
+* [[Thionville]], France
+
+The city of Urbana has been awarded a major grant from Sister Cities International to undertake a trilateral pilot project involving Urbana, Zomba, Malawi, and the [[Haizhu District|Haizhu District, China]]. The one-year [[Sister Cities International|Sino-African Initiative]] grant is for up to $100,000 and will involve a collaborative effort to improve the municipal waste disposal system in Zomba, a city of 88,000 in southeast Africa. Urbana has had a Sister City relationship with Zomba since 2008, another relationship with Haizhu District, [[Guangzhou|Guangzhou City]], China since 2012, and added a third sister city charter with Thionville, France in 2014. Urbana is one of only three cities in the United States to be awarded a Sino-African grant. The others are Denver and an Asheville/Raleigh, N.C., joint team application.
+
+== Notable people ==
+{{Main|List of people from Urbana, Illinois}}
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+{{Commons category}}
+* [http://urbanaillinois.us/ City of Urbana (official website)]
+* [http://urbanafreelibrary.org/ Urbana Free Library]
+* [https://web.archive.org/web/20160114144904/http://images.library.uiuc.edu/projects/cubuilding/ Champaign-Urbana Historic Built Environment Digital Image Collection]
+* [http://www.urbanaparks.org/ Urbana Park District] – local parks, pools, and other recreation
+* [http://history.rays-place.com/il/cham-urbanacity.htm Early History of Urbana City]{{dead link|date=July 2020|bot=medic}}{{cbignore|bot=medic}}
+* [http://urbanabusiness.com/ Urbana Business Association]
+* [https://news.google.com/newspapers?nid=nnVijz9KPVYC ''Champaign Democrat,''] Google news archive. <small>—PDFs of 1,286 issues, dating from 1887 through 1916.</small>
+
+{{Champaign County, Illinois}}
+{{Illinois county seats}}
+
+{{Authority control}}
+
+[[Category:Urbana, Illinois| ]]
+[[Category:Cities in Illinois]]
+[[Category:Cities in Champaign County, Illinois]]
+[[Category:County seats in Illinois]]
+[[Category:Populated places established in 1833]]
+[[Category:1833 establishments in Illinois]]

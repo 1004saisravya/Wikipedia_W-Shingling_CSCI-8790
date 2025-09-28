@@ -1,0 +1,612 @@
+# Revision ID: 1211293972
+# Timestamp: 2024-03-01T20:44:12Z
+
+{{for|the historical proposed state in Eastern Tennessee|State of Franklin}}
+{{Distinguish|Franklin County, Tennessee}}
+{{Use mdy dates|date=October 2020}}
+{{Infobox settlement
+| name               = Franklin
+| official_name      = 
+| settlement_type    = [[City]]
+| nickname           = 
+| motto              = <!-- Images -->
+| image_skyline      = 4th ave main street historic franklin tennessee 2010.jpg
+| image_caption      = Historic Downtown Franklin
+| image_flag         = 
+| image_seal         = File:Franklintnseal.png
+
+<!-- Maps -->| image_map          = File:Williamson County Tennessee Incorporated and Unincorporated areas Franklin Highlighted 4727740.svg
+| mapsize            = 250px
+| map_caption        = Location within [[Williamson County, Tennessee|Williamson County]] and [[Tennessee]]
+| image_map1         = 
+| mapsize1           = 
+| map_caption1       = 
+| pushpin_map        = Tennessee#USA
+<!-- Location -->| coordinates        = {{coord|35|55|45|N|86|51|27|W|region:US-TN|display=inline,title}}
+| subdivision_type   = Country
+| subdivision_name   = [[United States]]
+| subdivision_type1  = [[U.S. state|State]]
+| subdivision_name1  = [[Tennessee]]
+| subdivision_type2  = [[List of counties in Tennessee|County]]
+| subdivision_name2  = [[Williamson County, Tennessee|Williamson]]
+
+<!-- Government -->| government_footnotes = 
+| government_type    = 
+| leader_title       = Mayor
+| leader_name        = Ken Moore
+| leader_title1      = City Administrator
+| leader_name1       = Eric Stuckey
+| established_title  = 
+| established_date   = <!-- Area -->
+| area_footnotes     = <ref name="TigerWebMapServer">{{cite web|title=ArcGIS REST Services Directory|url=https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Places_CouSub_ConCity_SubMCD/MapServer/5/query?where=STATE='47'&outFields=NAME,STATE,PLACE,AREALAND,AREAWATER,LSADC,CENTLAT,CENTLON&orderByFields=PLACE&returnGeometry=false&returnTrueCurves=false&f=json|publisher=United States Census Bureau|accessdate=October 15, 2022}}</ref>
+| area_total_sq_mi   = 44.73
+| area_land_sq_mi    = 44.52
+| area_water_sq_mi   = 0.21
+| area_total_km2     = 115.86
+| area_land_km2      = 115.31
+| area_water_km2     = 0.55
+| unit_pref          = Imperial
+
+<!-- Elevation -->| elevation_footnotes = 
+| elevation_ft       = 643
+
+<!-- Population -->| population_footnotes = <ref name="USCensusDecennial2020CenPopScriptOnly"/>
+| population_as_of   = [[2022 United States Census|2022]]
+| population_total   = 86,895
+| pop_est_footnotes  = 
+| pop_est_as_of      = 
+| population_est     = 
+| population_density_km2 = 723.74
+
+<!-- General information -->| timezone           = [[Central Time Zone|CST]]
+| utc_offset         = -6
+| timezone_DST       = CDT
+| utc_offset_DST     = -5
+| postal_code_type   = [[ZIP Code]](s)
+| postal_code        = 37064, 37065, 37067, 37068, 37069<ref name="usps">{{cite web |url=https://tools.usps.com/go/ZipLookupAction!input.action |title=USPS – ZIP Code Lookup |publisher=United States Postal Service |access-date=July 25, 2012}}</ref>
+| area_code_type     = [[North American Numbering Plan|Area code]]
+| area_code          = [[Area code 615|615]]
+| blank_name         = [[Federal Information Processing Standard|FIPS code]]
+| blank_info         = 47-27740<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+| blank1_name        = [[Geographic Names Information System|GNIS ID]]
+| blank1_info        = 1284816<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| website            = {{url|franklintn.gov}}
+| population_density_sq_mi = 1874.49
+}}
+
+'''Franklin''' is a city in and [[county seat]] of [[Williamson County, Tennessee]], United States.<ref name="GR6">{{cite web|url=http://www.naco.org/Counties/Pages/FindACounty.aspx |access-date=2011-06-07 |title=Find a County |publisher=National Association of Counties |url-status=dead |archive-url=https://web.archive.org/web/20110531210815/http://www.naco.org/Counties/Pages/FindACounty.aspx |archive-date=2011-05-31 }}</ref> About {{convert|21|mi}} south of [[Nashville, Tennessee|Nashville]], it is one of the principal cities of the [[Nashville metropolitan area]] and [[Middle Tennessee]]. As of 2022 its population was 86,895.<ref>{{Cite web |title=U.S. Census Bureau QuickFacts: Franklin city, Tennessee |url=https://www.census.gov/quickfacts/fact/table/franklincitytennessee/PST045222 |access-date=2024-03-01 |website=www.census.gov |language=en}}</ref> It is the [[List of municipalities in Tennessee|7th most populous city in Tennessee]].<ref name="quickfacts">{{cite web|url=https://www.census.gov/quickfacts/fact/table/franklincitytennessee/PST045219|title=Franklin city, Tennessee|website=quickfacts.census.gov|publisher=U.S. Census Bureau|access-date=August 16, 2021}}</ref> Franklin is known to be the home of many celebrities, mostly [[country music]] stars.
+
+The city developed on both sides of the [[Harpeth River]], a tributary of the [[Cumberland River]]. In the 19th century, Franklin (as the county seat) was the trading and judicial center for primarily rural Williamson County and remained so well into the 20th century as the county remained rural and agricultural in nature.
+
+Since 1980, areas of northern Franklin have been developed for residential and related businesses, in addition to modern service industries. The population has increased rapidly as growth moved in all directions from the core. Despite recent growth and development, Franklin is noted for its many older buildings and neighborhoods, which are protected by city ordinances.<ref>[https://www.tennessean.com/story/news/local/williamson/2017/11/05/franklin-tennessee-preservation-heritage-foundation-carnton-plantation/764919001/ How Franklin has preserved history for 50 years] (''USA Today'')</ref>
+
+== History ==
+
+===18th century===
+The City of Franklin was founded October 26, 1799, by Abram Maury Jr. (1766–1825). Later a state senator, he is buried with his family in the current Founders Pointe neighborhood. Maury [[List of places named for Benjamin Franklin|named the town]] after national founding father [[Benjamin Franklin]].<ref name=miller>{{cite book |last= Miller |first= Larry L. |title= Tennessee place-names |year= 2001 |publisher= Indiana University Press |isbn= 978-0-253-33984-3 |url= https://books.google.com/books?id=gQ-r54p36cgC&q=benjamin+franklin+%281706-1790%29&pg=PR3 |page= 79}}</ref><ref name="simpson2">{{cite book|last1=Simpson|first1=John A.|title=Edith D. Pope and Her Nashville Friends: Guards of the Lost Cause in the Confederate Veteran|date=2003|publisher=University of Tennessee Press|location=Knoxville, Tennessee|isbn=9781572332119|oclc=428118511|page=2}}</ref>
+
+Ewen Cameron built a log house in 1798, the first in the new settlement. Cameron was born February 23, 1768, in Bogallan, [[Ferintosh, Black Isle|Ferintosh]], [[Scotland]]. He emigrated to [[Virginia]] in 1785 and came to Tennessee shortly after it was admitted to the Union.  Cameron died on February 28, 1846, after living 48 years in the same house. He and his second wife, Mary, were buried in the old City Cemetery. Some of his descendants continue to live in Franklin.
+
+===19th century===
+This area is part of [[Middle Tennessee]], and farmers prospered in the [[Pre-Civil War South|pre-Civil]] War years, with the cultivation of tobacco and hemp as commodity crops, and raising of livestock.
+
+During the [[American Civil War|Civil War]], Tennessee was occupied by Union troops from 1862. Franklin was the site of a major battle in the [[Franklin–Nashville Campaign]]. The [[Second Battle of Franklin]] was fought on November 30, 1864, resulting in almost 10,000 casualties (killed, wounded, captured, and missing). Forty-four buildings were temporarily converted to use as [[field hospital]]s. The Carter, Carnton, and the [[Lotz House|Lotz]]<ref name=nris>{{NRISref|version=2009a}}</ref> houses from this era are still standing and are among the city's numerous examples of period architecture.
+
+On July 6, 1867, a political rally of [[Union League]] Black Republicans in Franklin was disrupted by Conservatives, who were mostly White but included some Blacks. Later that evening, what became known as the "Franklin Riot" broke out. Black Union League men were ambushed by Whites at the town square and returned fire. An estimated 25 to 39 men were wounded, most of them Black. One White man was killed outright, and at least three Black people died of wounds soon after the confrontation.<ref name="memphisappeal">[http://www.sitemason.com/files/gojWne/Frankin%20Reconstruction%20Teachers%20Guide.pdf "Riot at Franklin, Tennessee"], ''Memphis Daily Appeal'', 9 July 1867; accessed 18 May 2018</ref><ref name="nashville">[http://www.sitemason.com/files/gojWne/Frankin%20Reconstruction%20Teachers%20Guide.pdf "Conservative Conciliation/The Ballot to be Controlled by the Bullet"], ''Nashville Daily Press and Times'', July 1867; accessed 18 May 2018</ref><ref name="nyt">[http://www.sitemason.com/files/gojWne/Frankin%20Reconstruction%20Teachers%20Guide.pdf "A Riot in Tennessee"], ''New York Times'', 8 July 1867; accessed 18 May 2018</ref>
+
+On August 15, 1868, in Franklin, [[Samuel Bierfield]] became the first Jewish man to be [[Lynching in the United States|lynched]] in the United States. He was fatally shot by a large group of masked men believed to be KKK members. They attacked him for treating Blacks equally to Whites in his store. Bowman, a Black man who worked for Bierfield and was with him at his store, was wounded in the attack and soon died.<ref name=for>"[http://forward.com/articles/210334/midnight-in-tennessee Midnight in Tennessee]", Paul Berger, [[The Jewish Daily Forward|Forward.com]], December 12, 2014</ref>
+
+After the [[Reconstruction era]], violence continued against [[African Americans]], rising toward the turn of the century. Five African Americans were [[Lynching in the United States|lynched]] in Williamson County from 1877 to 1950, most during the decades around the turn of the century, a time of high social tensions and legal racial oppression in the South.<ref>[https://eji.org/sites/default/files/lynching-in-america-third-edition-summary.pdf ''Lynching in America''/Summary by County (3rd edition)] {{Webarchive|url=https://web.archive.org/web/20171023063004/https://eji.org/sites/default/files/lynching-in-america-third-edition-summary.pdf |date=2017-10-23 }}, p. 9, Equal Justice Initiative, 2017, Montgomery, Alabama</ref><ref name="supp">[https://eji.org/sites/default/files/lynching-in-america-third-edition-summary.pdf ''Lynching in America/ Supplement: Lynchings by County''] {{Webarchive|url=https://web.archive.org/web/20171023063004/https://eji.org/sites/default/files/lynching-in-america-third-edition-summary.pdf |date=2017-10-23 }}, Equal Justice Initiative, 2017, 3rd edition, p. 6</ref> These murders took place in Franklin, when men were taken from the courthouse or county jail before trial. Among them was [[Lynching of Amos Miller|Amos Miller]], a 23-year-old Black man who was forcibly taken from the courtroom by a White mob during his 1888 trial in a sexual assault case, and hanged from the railings of the balcony of the county courthouse.<ref name="berger">{{cite news|last1=Berger|first1=Paul|title=Midnight in Tennessee – The Untold Story of the First Jewish Lynching in America|url=https://www.haaretz.com/jewish/the-untold-story-of-the-first-jewish-lynching-in-america-1.5349605|access-date=May 15, 2018|work=Haaretz|date=December 20, 2014|quote=In 1888, Amos Miller, a Black man accused of raping a White woman, was dragged from court in Franklin and hung from the courthouse railings.}}</ref> The alleged victim was a 50-year-old woman.<ref>[https://visitfranklin.com/see-and-do/old-williamson-county-courthouse-public-square "Old Williamson County Courthouse - Public Square"], Visit Franklin website</ref> On April 30, 1891, [[Lynching of Jim Taylor|Jim Taylor]], another African American man, was lynched on Murfreesboro Road in Franklin by another mob, accused of killing a White man.
+
+A [[Confederate Monument (Franklin, Tennessee)|memorial to Confederate soldiers]] was erected in 1899 by fourteen women of the [[United Daughters of the Confederacy]] to honor Confederate soldiers, including the 6,125 casualties of the Battle of Franklin.<ref name="Jones">{{cite web|url=https://usctwillcotn.blogspot.com/2019/11/franklins-confederate-monument.html/|title=From Slaves to Soldiers and Beyond - Williamson County, Tennessee's African American History|last=Jones|first=Cahalan|work=Slaves to Soldiers|date=30 November 2019|access-date=31 July 2020}}</ref> A news report described how as the last piece of the statue was being raised, a buggy ran into a rope, causing the statue to swing into the shaft, breaking out a piece from the hat of the figure. This event has given rise to the monument's nickname by many of "Chip."<ref name="From Slaves to Soldiers and Beyond - Williamson County, Tennessee's African American History">text of the citation</ref>
+
+===20th century to present===
+Population growth slowed noticeably from 1910 to 1940 (see table in Demographics section), as many African Americans left the area in the [[Great Migration (African American)|Great Migration]] to northern industrial cities for jobs and to escape [[Jim Crow]] conditions.
+
+One of the first major manufacturers to establish operations in the county was the [[Dortch Stove Works]], which opened a factory in Franklin in 1928.<ref name=FactoryFranklin>"[http://www.williamsonherald.com/editorial/hudson-alexanders-around-the-block-dortch-stove-works-helped-franklin-through-depression/article_56ef2d61-f7e5-5456-927b-b2fb07c80781.html Hudson Alexander's Around the Block: Dortch Stove Works helped Franklin through Depression ]", Hudson Alexander, [[The Williamson Herald|http://www.williamsonherald.com/]], March 16, 2006</ref> The factory was later developed as a [[Magic Chef]] factory, producing electric and gas ranges. (Magic Chef was prominent in the Midwest from 1929.) When the factory was closed due to extensive restructuring in the industry, the structure fell into disuse. The factory complex was restored in the late 1990s in an adaptation for offices, restaurants, retail and event spaces. It is considered a "model historic preservation adaptive reuse project."
+
+Since the late 20th century, however, Franklin has rapidly developed as a suburb of Nashville, Tennessee. Franklin's population has increased more than fivefold since 1980, when its population was 12,407. In 2010, the city had a population of 62,487.<ref name="Census 2010">{{cite web| url=http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/G001/1600000US4727740| title=Geographic Identifiers: 2010 Census Summary File 1 (G001), Franklin city, Tennessee| publisher=U.S. Census Bureau| work=American FactFinder| access-date=March 18, 2019| archive-url=https://archive.today/20200213091053/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/G001/1600000US4727740| archive-date=February 13, 2020| url-status=dead}}</ref> {{as of|2017}} Census estimates, it is the state's seventh-largest city. In 2017, the City of Franklin was ranked the 8th fastest-growing city in the nation by the [[U.S. Census Bureau]], increasing 4.9 percent between July 1, 2016, and July 1, 2017.<ref name="Franklin city, TN">{{cite web |title=United States Census Bureau |url=https://www.census.gov/quickfacts/fact/table/franklincitytennessee/PST045218 |website=United States Census Bureau-Quick Facts |publisher=United States Census Bureau |access-date=1 March 2019}}</ref>
+
+After the passage of the [[National Historic Preservation Act]] of 1966, some Franklin residents have worked to identify and preserve its most significant historic assets. Five [[historic districts]] are listed on the [[National Register of Historic Places]], as are many individual non-historic but older structures.
+
+Franklin is home to an armed forces memorial, on the grounds of the Williamson County Archives, which honors Williamson County servicemen who served in American wars from the [[Creek War]] to the [[Gulf War]].<ref name="Archives Memorial">{{cite web|url=https://visitfranklin.com/see-and-do/williamson-county-veterans-park-and-cannon-located-on-the-grounds-of-williamson-county|title=Williamson County Veterans' Park And Cannon (Located On The Grounds Of Williamson County Archives)|work=Visit Franklin|date=21 July 2020|access-date=21 July 2020}}</ref> Around the seal of Franklin are placed engraved bricks that radiate around it in a circle. The largest brick is in honor of George Jordan, a former slave who fought in the [[Indian Wars]] in [[New Mexico]], and the only Williamson Countian to receive the Congressional Medal of Honor.
+
+As part of the "Fuller Story," a plan developed by historic preservation and church leaders to recognize the lives and contributions of African Americans to Franklin, a statue of a soldier of the [[United States Colored Troops]], to mark the contributions of African Americans in ending the Civil War and reuniting the Union, has been placed in front of the old Williamson County Courthouse on the Franklin Square, the site of a former slave market and the current "Chip" statue.<ref>{{Cite news|last1=McGee|first1=Jamie|last2=Maney|first2=Sarahbeth|date=2021-10-24|title=Remove a Confederate Statue? A Tennessee City Did This Instead.|language=en-US|work=The New York Times|url=https://www.nytimes.com/2021/10/24/us/remove-a-confederate-statue-a-tennessee-city-did-this-instead.html|access-date=2021-10-24|issn=0362-4331}}</ref> This project was approved by the Franklin Board Of Mayor and Aldermen. In 2018, the first of several planned historic plaques was installed; these mark the history of slavery, the [[Reconstruction era]] and [[Jim Crow]], and civil rights.<ref name="west">{{cite web|url=https://www.tennessean.com/story/news/local/williamson/2019/01/17/franklin-tn-confederate-statue-group-shares-slavery-civil-rights-history/2536980002/|title=National tragedies inspired group to tell history of slavery, civil rights in Franklin|last=West|first=Emily R.|work=The Tennessean|date=17 January 2019|access-date=20 October 2019}}</ref>
+
+==Geography==
+According to the [[United States Census Bureau]], the city has a total area of {{convert|107.3|sqkm|order=flip}}, of which {{convert|106.8|sqkm|order=flip}} is land and {{convert|0.6|sqkm|order=flip|1}}, or 0.52%, is covered by water.<ref name="Census 2010"/>
+
+===Climate===
+{{Weather box
+|location = Franklin (Franklin Sewage Plant), Tennessee (1991–2020 normals, extremes 1893–present)
+|single line = Y
+|Jan record high F = 78
+|Feb record high F = 83
+|Mar record high F = 93
+|Apr record high F = 94
+|May record high F = 96
+|Jun record high F = 108
+|Jul record high F = 108
+|Aug record high F = 106
+|Sep record high F = 107
+|Oct record high F = 96
+|Nov record high F = 88
+|Dec record high F = 91
+|year record high F = 108
+
+|Jan avg record high F = 66.9
+|Feb avg record high F = 71.8
+|Mar avg record high F = 78.1
+|Apr avg record high F = 83.7
+|May avg record high F = 88.1
+|Jun avg record high F = 93.4
+|Jul avg record high F = 96.1
+|Aug avg record high F = 95.8
+|Sep avg record high F = 92.8
+|Oct avg record high F = 85.3
+|Nov avg record high F = 76.9
+|Dec avg record high F = 68.7
+|year avg record high F = 97.7
+
+|Jan high F = 49.1
+|Feb high F = 53.4
+|Mar high F = 62.2
+|Apr high F = 71.9
+|May high F = 79.5
+|Jun high F = 87.3
+|Jul high F = 90.8
+|Aug high F = 90.2
+|Sep high F = 84.8
+|Oct high F = 73.8
+|Nov high F = 61.6
+|Dec high F = 52.5
+|year high F = 71.4
+|Jan mean F = 38.9
+|Feb mean F = 42.3
+|Mar mean F = 50.0
+|Apr mean F = 59.0
+|May mean F = 67.4
+|Jun mean F = 75.8
+|Jul mean F = 79.7
+|Aug mean F = 78.5
+|Sep mean F = 72.3
+|Oct mean F = 60.5
+|Nov mean F = 49.4
+|Dec mean F = 42.1
+|year mean F = 59.7
+|Jan low F = 28.6
+|Feb low F = 31.1
+|Mar low F = 37.8
+|Apr low F = 46.2
+|May low F = 55.4
+|Jun low F = 64.3
+|Jul low F = 68.5
+|Aug low F = 66.9
+|Sep low F = 59.8
+|Oct low F = 47.2
+|Nov low F = 37.1
+|Dec low F = 31.8
+|year low F = 47.9
+
+|Jan avg record low F = 10.4
+|Feb avg record low F = 14.0
+|Mar avg record low F = 20.9
+|Apr avg record low F = 30.4
+|May avg record low F = 40.4
+|Jun avg record low F = 53.0
+|Jul avg record low F = 59.3
+|Aug avg record low F = 57.3
+|Sep avg record low F = 44.8
+|Oct avg record low F = 31.6
+|Nov avg record low F = 22.0
+|Dec avg record low F = 16.4
+|year avg record low F = 7.9
+
+|Jan record low F = −22
+|Feb record low F = −15
+|Mar record low F = 0
+|Apr record low F = 21
+|May record low F = 30
+|Jun record low F = 39
+|Jul record low F = 43
+|Aug record low F = 41
+|Sep record low F = 30
+|Oct record low F = 21
+|Nov record low F = -3
+|Dec record low F = −11
+|year record low F = -22
+|precipitation colour = green
+|Jan precipitation inch = 4.25
+|Feb precipitation inch = 4.76
+|Mar precipitation inch = 5.16
+|Apr precipitation inch = 5.16
+|May precipitation inch = 5.39
+|Jun precipitation inch = 4.39
+|Jul precipitation inch = 4.57
+|Aug precipitation inch = 3.61
+|Sep precipitation inch = 4.00
+|Oct precipitation inch = 3.47
+|Nov precipitation inch = 3.83
+|Dec precipitation inch = 5.20
+|year precipitation inch = 53.79
+|Jan snow inch = 0.9
+|Feb snow inch = 0.3
+|Mar snow inch = 0.4
+|Apr snow inch = 0.0
+|May snow inch = 0.0
+|Jun snow inch = 0.0
+|Jul snow inch = 0.0
+|Aug snow inch = 0.0
+|Sep snow inch = 0.0
+|Oct snow inch = 0.0
+|Nov snow inch = 0.0
+|Dec snow inch = 0.1
+|year snow inch = 1.7
+|unit precipitation days = 0.01 in
+|Jan precipitation days = 11.9
+|Feb precipitation days = 11.2
+|Mar precipitation days = 12.7
+|Apr precipitation days = 11.1
+|May precipitation days = 12.3
+|Jun precipitation days = 11.2
+|Jul precipitation days = 10.6
+|Aug precipitation days = 9.0
+|Sep precipitation days = 8.4
+|Oct precipitation days = 9.1
+|Nov precipitation days = 10.0
+|Dec precipitation days = 12.2
+|year precipitation days = 129.7
+|unit snow days = 0.1 in
+|Jan snow days = 0.5
+|Feb snow days = 0.3
+|Mar snow days = 0.3
+|Apr snow days = 0.0
+|May snow days = 0.0
+|Jun snow days = 0.0
+|Jul snow days = 0.0
+|Aug snow days = 0.0
+|Sep snow days = 0.0
+|Oct snow days = 0.0
+|Nov snow days = 0.0
+|Dec snow days = 0.2
+|year snow days = 1.3
+| source 1 = [[NOAA]]<ref name=nws>
+{{cite web
+| url = https://w2.weather.gov/climate/xmacis.php?wfo=ohx
+| title = NowData – NOAA Online Weather Data
+| publisher = National Oceanic and Atmospheric Administration
+| access-date = May 28, 2021}}</ref><ref name=NCEI>
+{{cite web
+| url = https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&startDate=0001-01-01&endDate=9996-12-31&stations=USC00403280&format=pdf
+| publisher = National Oceanic and Atmospheric Administration 
+| title = Station: Franklin Sweage PLT, TN
+| work = U.S. Climate Normals 2020: U.S. Monthly Climate Normals (1991-2020)
+| access-date = May 28, 2021}}</ref>
+}}
+
+==Demographics==
+{{US Census population
+|1870= 1552
+|1880= 1632
+|1890= 2250
+|1900= 2180
+|1910= 2924
+|1920= 3123
+|1930= 3377
+|1940= 4120
+|1950= 5475
+|1960= 6977
+|1970= 9497
+|1980= 12407
+|1990= 20098
+|2000= 41842
+|2010= 62487
+|2020= 83454
+|footnote=Sources:<ref name="GR9">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|publisher=[[United States Census Bureau]]|access-date=2012-03-04|title=Census of Population and Housing: Decennial Censuses}}</ref><ref name="USCensusDecennial2020CenPopScriptOnly">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N,NAME&for=place:*&in=state:47&key=5ccd0821c15d9f4520e2dcc0f8d92b2ec9336108|title=Census Population API|publisher=United States Census Bureau|accessdate=Oct 15, 2022}}</ref>
+}}
+
+===2020 census===
+{| class="wikitable" style="text-align:center;"
+|+'''Franklin city, Tennessee – Racial and ethnic composition'''<br> (''NH = Non-Hispanic'')<br><small>{{nobold|''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos may be of any race.''}}</small>
+!Race / Ethnicity
+!Pop 2000<ref name=2000CensusP004>{{Cite web|title=P004: Hispanic or Latino, and Not Hispanic or Latino by Race – 2000: DEC Summary File 1 – Franklin city, Tennessee|url=https://data.census.gov/table?g=160XX00US4727740&tid=DECENNIALSF12000.P004|publisher=[[United States Census Bureau]]}}</ref>
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2010: DEC Redistricting Data (PL 94-171) – Franklin city, Tennessee|url=https://data.census.gov/table?q=p2&g=160XX00US4727740&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]]}}</ref>
+!{{partial|Pop 2020}}<ref name=2020CensusP2>{{Cite web|title=P2 Hispanic or Latino, and Not Hispanic or Latino by Race – 2020: DEC Redistricting Data (PL 94-171) – Franklin city, Tennessee|url=https://data.census.gov/cedsci/table?q=p2&g=160XX00US4727740&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2000
+!% 2010
+!{{partial|% 2020}}
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|34,377
+|50,104
+|style='background: #ffffe6; |62,607
+|82.16%
+|80.18%
+|style='background: #ffffe6; |75.02%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|4,316
+|4,157
+|style='background: #ffffe6; |4,304
+|10.31%
+|6.65%
+|style='background: #ffffe6; |5.16%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|80
+|123
+|style='background: #ffffe6; |130
+|0.19%
+|0.20%
+|style='background: #ffffe6; |0.16%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|663
+|2,352
+|style='background: #ffffe6; |6,395
+|1.58%
+|3.76%
+|style='background: #ffffe6; |7.66%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|17
+|21
+|style='background: #ffffe6; |49
+|0.04%
+|0.03%
+|style='background: #ffffe6; |0.06%
+|-
+|[[Race and ethnicity in the United States census|Some Other Race]] alone (NH)
+|30
+|91
+|style='background: #ffffe6; |407
+|0.07%
+|0.15%
+|style='background: #ffffe6; |0.49%
+|-
+|[[Multiracial Americans|Mixed Race/Multi-Racial]] (NH)
+|334
+|880
+|style='background: #ffffe6; |2,874
+|0.80%
+|1.41%
+|style='background: #ffffe6; |3.44%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|2,025
+|4,759
+|style='background: #ffffe6; |6,688
+|4.84%
+|7.62%
+|style='background: #ffffe6; |8.01%
+|-
+|'''Total'''
+|'''41,842'''
+|'''62,487'''
+|style='background: #ffffe6; |'''83,454'''
+|'''100.00%'''
+|'''100.00%'''
+|style='background: #ffffe6; |'''100.00%'''
+|}
+
+As of the [[2020 United States census]], there were 83,454 people, 32,690 households, and 23,675 families residing in the city.
+
+===2010 census===
+As of the [[census]]<ref name="GR2" /> of 2010, 62,487 people, 16,128 households, and 11,225 families resided in the city. The population density was {{convert|1,393.3|PD/sqmi|PD/km2|sp=us|adj=off}}. The 17,296 housing units averaged 575.9 per square mile (222.4/km<sup>2</sup>). The [[Race (United States Census)|racial makeup]] of the city was 84.53% White, 10.35% African American, 4.84% Latino, 1.61% Asian, 0.24% Native American, 0.05% Pacific Islander, 2.17% from other races, and 1.06% from two or more races.
+
+Of the 16,128 households, 38.6% had children under the age of 18 living with them, 56.2% were [[Marriage|married couples]] living together, 10.8% had a female householder with no husband present, and 30.4% were not families; 25.0% of all households were made up of individuals, and 5.4% had someone living alone who was 65 years of age or older. The average household size was 2.55 and the average family size was 3.09.
+In the city, the population was distributed as 27.9% under the age of 18, 7.5% from 18 to 24, 38.1% from 25 to 44, 19.2% from 45 to 64, and 7.4% who were 65 years of age or older. The median age was 33 years. For every 100 females, there were 93.6 males. For every 100 females age 18 and over, there were 90.2 males.
+
+The median income for a household in the CDP was $75,871, and for a family was $91,931. Males had a median income of $66,622 versus $43,193 for females. The [[per capita income]] for the CDP was $36,445. About 5.0% of families and 7.0% of the population were below the [[poverty line]], including 9.2% of those under age 18 and 6.9% of those age 65 or over. Less than 5.0% of the eligible workforce was unemployed.<ref>{{cite web|url=http://factfinder.census.gov/bkmk/table/1.0/en/ACS/10_SF4/DP03/1600000US4727740|archive-url=https://archive.today/20200212085255/http://factfinder.census.gov/bkmk/table/1.0/en/ACS/10_SF4/DP03/1600000US4727740|url-status=dead|archive-date=12 February 2020|title=American FactFinder – Results|first=U.S. Census|last=Bureau|website=Factfinder2.census.gov|access-date=4 December 2017}}</ref>
+
+==Economy==
+Franklin is home to health-care-related businesses such as [[Community Health Systems]], [[Acadia Healthcare]], [[Iasis Healthcare]], [[Tivity Health]], Home Instead Senior Care, MedSolutions Inc, and Renal Advantage Inc. 
+
+[[Nissan Motors|Nissan]],<ref>[https://www.nytimes.com/2005/11/10/business/nissan-to-move-us-headquarters-to-tennessee.html Nissan to Move U.S. Headquarters to Tennessee] (NY Times)</ref> [[Mitsubishi Motors]],<ref>[https://www.tennessean.com/story/money/2019/06/25/mitsubishi-moves-headquarters-franklin-tennessee-california/1549906001/ Mitsubishi North America to move headquarters to Nashville area] (The Tennessean)</ref>  [[Clarcor]], [[CKE Restaurants]], [[Jackson National Life]], Triangle Tyre Company, [[Provident Music Group]], [[World Christian Broadcasting]], [[Mars Petcare]], Franklin American Mortgage, Kaiser Aluminum,<ref>{{Cite web|url=https://www.williamsonherald.com/communities/kaiser-aluminum-to-relocate-headquarters-to-franklin/article_5db231ee-f097-11eb-9940-ef7671e79a5c.html|title=Kaiser Aluminum to relocate headquarters to Franklin|first=Herald|last=Reports|website=Williamson Herald}}</ref> Lee Company, Ramsey Solutions, [[Video Gaming Technologies]], and [[Atmos Energy]] also have corporate or regional headquarters in Franklin.
+
+===Top employers===
+According to the city's 2020 ''Comprehensive Annual Financial Report,''<ref>{{cite web|url=https://www.franklintn.gov/home/showpublisheddocument/32916/637438805679170000|title=City of Franklin, Tennessee {{!}} Comprehensive Annual Financial Report|website=hwww.franklintn.gov|accessdate=June 10, 2023}}</ref> the top employers in the city were:
+
+{| class="wikitable"
+|-
+! #
+! Employer
+! # of employees
+|-
+| 1
+|[[Community Health Systems]]
+|2,378
+|-
+|2
+|[[Fresenius Medical Care]]
+|2,020
+|-
+|3
+|[[HCA Healthcare]]
+|2,002
+|-
+|4
+|Williamson Medical Center
+|1,896
+|-
+|5
+|[[Optum]]
+|1,600
+|-
+|6
+|[[Nissan Motors|Nissan]] North America
+|1,550
+|-
+|7
+|[[Cigna]]
+|1,500
+|-
+|8
+|[[Parallon Business Solutions]]
+|1,100
+|-
+|9
+|[[Mars, Incorporated|Mars]] Petcare US
+|1,000
+|-
+|10
+|Ramsey Solutions
+|902
+|-
+|}
+
+==Government==
+[[File:Post Office and Bank at Five Points.jpg|right|thumb|200px|Franklin United States Post Office, built 1925 and restored 1965]]
+The city is run by a mayor, elected [[at-large]] in the city, and a board of eight [[aldermen]]. Four of the latter are elected from [[single-member districts]] of roughly equal population, and four are elected at-large.  All electoral offices are for four-year terms, with the ward alderman elected in one cycle, and the mayor and at-large aldermen elected two years later. The city's policies and procedures are decided by the Board of Mayor and Aldermen.
+
+Resolutions, municipal ordinances, and the municipal code are carried out by the city's various departments. These are: Administration, Building and Neighborhood Services, Engineering, Finance, Fire, Human Resources, Information Technology, Law, Planning and Sustainability, Parks, Police, Sanitation and Environmental Services, Streets, and Water Management. These 14 departments are overseen by the [[City manager|City Administrator]], a professional manager hired by the Board of Aldermen.<ref>{{Cite web|title = City of Franklin, TN : Government|url = http://www.franklintn.gov/government|website=Franklintn.gov|access-date = 2015-09-30}}</ref>
+
+In the [[Tennessee House of Representatives]], Franklin is divided between three districts; District 61, currently represented by [[Republican Party (United States)|Republican]] [[Brandon Ogles]],<ref>{{cite map |author= Tennessee General Assembly|author-link= Tennessee General Assembly|title=State House District 61|url=http://www.capitol.tn.gov/districtmaps/HouseDist61.pdf|format=PDF |location= Nashville|publisher= [[Tennessee General Assembly]] |year=2018|access-date=2020-10-15}}</ref> District 63, represented by Republican [[Glen Casada]],<ref>{{cite map |author= Tennessee General Assembly|author-link= Tennessee General Assembly|title=State House District 63|url=http://www.capitol.tn.gov/districtmaps/HouseDist63.pdf|format=PDF |location= Nashville|publisher= [[Tennessee General Assembly]] |year=2018|access-date=2020-10-15}}</ref> and District 65, represented by Republican [[Sam Whitson]].<ref>{{cite map |author= Tennessee General Assembly|author-link= Tennessee General Assembly|title=State House District 65|url=http://www.capitol.tn.gov/districtmaps/HouseDist65.pdf|format=PDF |location= Nashville|publisher= [[Tennessee General Assembly]] |year=2018|access-date=2020-10-15}}</ref> Franklin is included in [[Tennessee Senate]] [[Tennessee's 23rd Senate district|District 23]], which is coterminous with Williamson County, and held by Republican [[Jack Johnson (American politician)|Jack Johnson]], the current Senate Majority Leader.
+{{clear}}
+
+==Education==
+===Public schools===
+For grades K-8, most of the city is served by the [[Williamson County Schools|Williamson County School District]]; high school students attend [[Franklin Special School District]].  Outerlying portions of the city are in the Williamson County district for grades K-12.<ref name=Districtmaps>{{cite web|url=https://www2.census.gov/geo/maps/DC2020/PL20/st47_tn/schooldistrict_maps/c47187_williamson/DC20SD_C47187.pdf|title=2020 CENSUS - SCHOOL DISTRICT REFERENCE MAP: Williamson County, TN|publisher=[[U.S. Census Bureau]]|accessdate=2022-08-27}} - [https://www2.census.gov/geo/maps/DC2020/PL20/st47_tn/schooldistrict_maps/c47187_williamson/DC20SD_C47187_SD2MS.txt Text list]</ref>
+
+===Private schools===
+Franklin's private schools include [[Battle Ground Academy]], [[Franklin Classical School]], Franklin Christian Academy, Montessori School of Franklin, and New Hope Academy.<ref>{{Cite web|url=http://www.williamsonchamber.com/education/williamson-county-private-school/|title=Williamson County Private Schools – Williamson, Inc.|website=Williamson, Inc.|language=en-US|access-date=2016-03-07}}</ref>
+
+===Higher education===
+* [[Belmont University]], Williamson Center campus
+* [[Columbia State Community College]], Franklin campus. This satellite campus of [[Columbia State Community College|Columbia State]] was opened in 2016 after being constructed for this purpose. It is a two-year college, serving a nine-county area in [[Middle Tennessee]]<ref>{{cite web |title=Columbia State Breaks Ground on Williamson Campus |url=https://www.columbiastate.edu/athletics/news/2014/07/22/columbia-state-breaks-ground-on-williamson-campus |website=Columbia State |publisher=Columbia State Community College |access-date=1 March 2019}}</ref> 
+* [[Lipscomb University]], a SPARK satellite campus, is here
+* New College Franklin
+* [[Williamson College]]
+
+==Infrastructure==
+===Transportation===
+[[Interstate 65 in Tennessee|Interstate 65]] passes through the eastern part of the city and provides four exits in the city. U.S. Routes [[U.S. Route 31 in Tennessee|31]] and [[U.S. Route 431 in Tennessee|431]] intersect in the city, and form a [[Concurrency (road)|concurrency]], connecting the city to Nashville to the north. U.S. Route 31 connects the city to [[Spring Hill, Tennessee|Spring Hill]] and [[Columbia, Tennessee|Columbia]] to the south, and US 431 connects to [[Lewisburg, Tennessee|Lewisburg]] to the south. [[Tennessee State Route 96|State Route 96]] connects the city to [[Murfreesboro, Tennessee|Murfreesboro]] to the east, and [[Dickson, Tennessee|Dickson]] to the west. [[Tennessee State Route 246|State Route 246]] also connects the city to Columbia to the southwest, and serves as an alternative to US 31. [[Tennessee State Route 441|State Route 441]] begins in the northern part of the city, and connects to [[Brentwood, Tennessee|Brentwood]]. [[Tennessee State Route 397|State Route 397]], also designated as US 31/431 Truck and Mack Hatcher Memorial Parkway, serves as a bypass around the [[business district]] of the city to the east. Other major thoroughfares in Franklin include Cool Springs Boulevard and McEwen Drive, both of which have interchanges with I-65.<ref>{{cite map |author = Tennessee Department of Transportation Long Range Planning Division Office of Data Visualization|title = Williamson County|year = 2018|url =https://www.tn.gov/content/dam/tn/tdot/maps/county-maps-(us-shields)/o-w/Williamson%20County.pdf|publisher = [[Tennessee Department of Transportation]]}}</ref>
+
+===Utilities===
+The City of Franklin Water Management Department operates a system that provides water and wastewater services to a majority of city residents and some residents of surrounding areas.<ref>{{cite web|url=https://www.franklintn.gov/government/departments-k-z/water-management-department|title=Water Management Department|author=<!--Not stated-->|date=2018|website=franklintn.gov|publisher=City of Franklin, Tennessee|access-date=2019-12-17}}</ref>  Some areas of Franklin may receive water and wastewater services from the Mallory Valley Utility District, the Milcrofton Utility District, and the HB&TS Utility District.
+
+Electricity is provided by the Middle Tennessee Electric Membership Corporation (MTEMC), which serves several of the suburban counties of Nashville and purchases power from the [[Tennessee Valley Authority]] (TVA).<ref>{{cite web|url=https://www.tva.gov/Energy/Public-Power-Partnerships/Local-Power-Companies/Middle-Tennessee-Electric-Membership-Corporation|title=Middle Tennessee Electric Membership Corporation|author=<!--Not stated-->|date=2018|website=tva.gov|publisher=Tennessee Valley Authority|access-date=2019-12-17}}</ref>
+
+[[Natural gas]] service is provided by [[Atmos Energy]].<ref>{{cite web|url=https://www.atmosenergy.com/company/utility-operations|title=Utility Operations|author=<!--Not stated--> |date=2018|website=atmosenergy.com|publisher=Atmos Energy|access-date=2019-12-17}}</ref>
+
+==Parks==
+[[File:Long Lane Sunset.png|right|thumb|Sunset observed from Long Lane in Franklin]]
+* Aspen Grove Park
+* Bicentennial Park
+* Carter's Hill Park
+* Collins Farm
+* Del Rio Park
+* Eastern Flank Battlefield Park
+* Fieldstone Park
+* [[Fort Granger]] 
+* Liberty Park
+* The Park at [[Harlinsdale Farm]]
+* [[Pinkerton Park]] 
+* Jim Warren Park
+* Winstead Hill
+* New Southeastern Park Complex<ref>{{Cite web|url=https://www.franklintn.gov/government/departments-k-z/parks/park-locations|title = Park Locations &#124; City of Franklin, TN}}</ref>
+
+==Festivals==
+===Pilgrimage Music and Cultural Festival===
+[[Pilgrimage Music & Cultural Festival|Pilgrimage]] is a music festival put together by [[Kevin Griffin]], who lives and works as a musician in Franklin. Premiering in 2015, it draws nationally prominent acts from a variety of genres.  Pilgrimage is held in late September and takes place at The Park at Harlinsdale. In addition to musical acts, it features children's activities, food, and a marketplace showcasing local crafts.<ref>{{Cite web|url=https://pilgrimagefestival.com/the-festival|title=Music and Cultural Festival - Pilgrimage Music & Cultural Festival|website=pilgrimagefestival.com}}</ref>
+
+===Main Street Festival===
+Franklin's Main Street Festival involves artisans, four stages, two carnivals, and two food courts installed in the historic Franklin Square and Downtown District. Arts and crafts booths run from First to Fifth Avenue.<ref>[http://www.historicfranklin.com/events/main-street-festival Main Street Festival 2014] {{Webarchive|url=https://web.archive.org/web/20121016010709/http://www.historicfranklin.com/events/main-street-festival |date=2012-10-16 }},  | Heritage Foundation of Franklin and Williamson County, TN; Retrieved on 2013-09-07.</ref>
+
+===Pumpkinfest===
+Pumpkinfest is an annual fundraiser for the Heritage Foundation of Franklin and Williamson County, held on the Saturday before [[Halloween]]. The holiday theme is carried through activities including music, children's amusements, local artisans, and food.<ref>[http://www.historicfranklin.com/events/pumpkinfest Pumpkinfest | Heritage Foundation of Franklin and Williamson County TN] {{Webarchive|url=https://web.archive.org/web/20101202224112/http://www.historicfranklin.com/events/pumpkinfest |date=2010-12-02 }}. Historicfranklin.com. Retrieved on 2013-09-07.</ref>
+
+===Dickens of a Christmas===
+Dickens of a Christmas is celebrated every second week in December, attracting approximately 50,000 visitors yearly. It takes place in Historic Downtown Franklin. Costumed volunteers masquerade as figures from [[Charles Dickens]]' ''[[A Christmas Carol]]''. Music and dancing are a big part of the festival, and local school and church musical groups often perform. [[Victorian era|Victorian]] cuisine is served to visitors, and an arts and crafts bazaar features prominently in Public Square.<ref>[http://www.historicfranklin.com/events/dickens-of-a-christmas Dickens of a Christmas | Heritage Foundation of Franklin and Williamson County TN] Historicfranklin.com. Retrieved on 2014-11-2.</ref>
+
+==Notable people==<!---♦♦♦ Please keep the list in alphabetical order ♦♦♦--->
+{{Div col|colwidth=40em}}
+* [[C. J. Beathard]], NFL quarterback<ref>{{cite web |last1=Vissman |first1=Donna |title=Beathard Family Releases Statement |url=https://williamsonsource.com/beathard-family-releases-statement/ |website=Williamson Source |date=December 23, 2019 |access-date=16 December 2020}}</ref>
+* [[Luke Benward]], actor/singer<ref>{{Cite web|url=https://www.collegemagazine.com/cm-talks-ravenswood-and-dcoms-with-luke-benward/|title=CM Talks Ravenswood and DCOMs with Luke Benward|date=January 15, 2014}}</ref>
+* [[Kane Brown]], [[country music]] star<ref>{{Cite web|url=https://williamsonsource.com/country-music-artist-kane-brown-sells-franklin-home/|title=Country Music Artist Kane Brown Sells Franklin Home|date=August 17, 2020}}</ref>
+* [[Luke Bryan]], [[country music]] star<ref>{{Cite web|url=https://williamsonsource.com/celebrity-home-tour-luke-bryan-franklin-home/|title=Celebrity Home Tour: Luke Bryan's Franklin Home|date=May 14, 2017}}</ref>
+* [[Kristin Cavallari]], TV personality<ref>{{Cite web|url=https://www.eonline.com/news/1354905/kristin-cavallari-shares-glimpse-inside-tennessee-home-she-purchased-after-jay-cutler-breakup|title=Kristin Cavallari Shares Glimpse Inside Tennessee Home She Purchased After Jay Cutler Breakup|date=November 16, 2022}}</ref>
+* [[Kenny Chesney]], [[country music]] star<ref>{{Cite web|url=https://musicmayhemmagazine.com/see-inside-kenny-chesneys-stunning-tennessee-villa-sold-for-11-5-million/|title=See Inside Kenny Chesney's Stunning Tennessee Villa|date=January 2, 2022}}</ref>
+* [[Billy Ray Cyrus]], singer<ref>{{Cite web|url=https://www.iheartradio.ca/purecountry/ottawa/news/take-a-walk-through-miley-s-gorgeous-tennessee-farm-house-1.3559205|title=TAKE A WALK THROUGH MILEY'S GORGEOUS TENNESSEE FARM HOUSE|access-date=January 19, 2023}}</ref>
+* [[Miley Cyrus]], singer-songwriter and actress<ref name="nyobservermiley">{{cite news|last1=Halberg|first1=Morgan|title=See Inside Miley Cyrus' New 33-Acre Tennessee Farm|url=http://observer.com/2017/08/miley-cyrus-house-nashville-franklin-tennessee/|access-date=December 17, 2017|work=The New York Observer|date=August 23, 2017}}</ref>
+* [[Duane Eddy]], musician <ref>{{Cite web|url=https://www.thenational.ae/arts-culture/music/duane-eddy-returns-to-the-studio-and-the-twang-s-still-there-1.391488|title=Duane Eddy returns to the studio – and the twang's still there|website=The National|date=June 15, 2011 }}</ref>
+* [[Mike Fisher (ice hockey)]], former NHL player<ref name="lonny.com"/>
+* [[David A. French]], journalist and lawyer<ref>{{Cite web|url=https://www.nationalreview.com/the-home-front/author-admits-he-dated-obamacare-girl-nancy-french/|title=Author Admits He Dated the 'Obamacare Girl'|website=[[National Review]]|date=November 1, 2013}}</ref>
+* [[Sarah Ewing Sims Carter Gaut]], Confederate spy and socialite
+* [[Kathie Lee Gifford]], TV personality and singer<ref>{{cite web |title=Kathie Lee Gifford: 'I moved here because I was dying of loneliness' |url=https://www.tennessean.com/story/news/local/williamson/franklin/2019/11/15/kathie-lee-gifford-nashville-because-she-was-dying-loneliness/2554705001/ |website=tennessean.com |access-date=28 October 2020}}</ref><ref>{{cite web |title=Kathie Lee Gifford Moved to Nashville Because Home Where Frank Died Felt 'Like a Mortuary' |url=https://people.com/tv/kathie-lee-gifford-moved-to-nashville-because-home-where-frank-died-felt-like-a-mortuary/ |website=People |access-date=28 October 2020}}</ref>
+* [[Vince Gill]], [[country music]] star<ref name="altdintl.com">{{Cite web|url=https://altdintl.com/hidden-trace-farms-amy-grant-and-vince-gills-farm-in-franklin-tn/|title=Hidden Trace Farms- Amy Grant and Vince Gill's Farm in Franklin, TN|date=February 6, 2022}}</ref>
+* [[Amy Grant]], singer<ref name="altdintl.com"/>
+* [[Faith Hill]], [[country music]] star<ref name="tennessean.com"/>
+* [[Ashley Judd]], actress<ref>{{Cite web|url=https://williamsonsource.com/local-celebrity-home-tour-judd-family-farm/|title=Local Celebrity Home Tour: Judd Family Farm|date=January 26, 2017}}</ref>
+* [[Wynonna Judd]], [[country music]] star<ref>{{Cite web|url=https://virtualglobetrotting.com/map/wynonna-judds-house-former/view/google/|title=Wynonna Judd's Home (former)|date=March 29, 2015}}</ref>
+* [[Nicole Kidman]], actress<ref name="virtualglobetrotting.com"/>
+* [[Robert Knight (musician)|Robert Knight]], musician<ref>{{cite news|last1=Thanki|first1=Juli|title='Everlasting Love' singer Robert Knight dead at 72|url=http://www.tennessean.com/story/entertainment/2017/11/06/everlasting-love-singer-robert-knight-dead-72/794121001/|access-date=December 17, 2017|work=The Tennessean|date=November 6, 2017}}</ref>
+* [[Bill Lee (Tennessee politician)|Bill Lee]], 50th governor of [[Tennessee]]<ref>{{Cite web|url=https://www.timesfreepress.com/news/local/story/2018/jul/06/bill-lee-says-he-wcalled-run-governor/474433/|title=Who is Bill Lee?|website=timesfreepress.com|date=July 6, 2018 }}</ref>
+* [[Garrison Mathews]], NBA player<ref>{{cite web |url=https://www.basketball-reference.com/players/m/mathega01.html |title=Basketball-Reference |publisher=Sports Reference |accessdate=July 3, 2023 |archive-url=https://web.archive.org/web/20230326175620/https://www.basketball-reference.com/players/m/mathega01.html |archive-date=March 26, 2023 |url-status=live |df=mdy-all }}</ref>
+* [[Martina McBride]], [[country music]] star<ref>{{Cite web|url=https://www.homes.com/blog/2019/01/home-featured-in-food-networks-martinas-table-now-on-the-market/#:~:text=If%20you%20think%20you've,Food%20Network%20show%2C%20Martina's%20Table.|title=Home Featured in Food Network's 'Martina's Table' Now On the Market|date=January 15, 2019}}</ref>
+* [[Tim McGraw]], [[country music]] star<ref name="tennessean.com">{{Cite web|url=https://www.tennessean.com/story/news/local/williamson/2021/06/30/tim-mcgraw-faith-hill-sell-franklin-home-investor-15-million/7817113002/|title=Tim McGraw and Faith Hill sell Franklin farm for $15 million|website=[[The Tennessean]] |date=June 30, 2021}}</ref>
+* [[Dustin Ortiz]], former [[Ultimate Fighting Championship|UFC]] mixed martial artist
+* [[Brad Paisley]], [[country music]] star<ref>{{Cite web|url=https://www.pinterest.com/pin/393290979929584844/|title=Brad Paisley House Pictures|website=Pinterest|access-date=January 19, 2023}}</ref>
+* [[Paramore]], rock band
+* [[Andrew Puzder]], businessman and President [[Donald Trump's]] [[Secretary of Labor]] choice<ref>{{cite news|last1=Buie|first1=Jordan|title=Andrew Puzder: 5 things about Trump's labor secretary pick|url=http://www.tennessean.com/story/news/local/williamson/2016/12/08/andrew-puzder-5-things-know-trumps-likely-labor-secretary-pick/95145524/|access-date=December 17, 2016|work=The Tennessean|date=December 8, 2016}}</ref>
+* [[Dave Ramsey]], TV/radio personality and financial advisor<ref>{{cite web |title=Dave Ramsey's House: Living Like No One Else |url=https://www.fivecentnickel.com/dave-ramseys-house-living-like-no-one-else/ |website=fivecentnickel.com |date=October 15, 2010 |access-date=4 January 2020}}</ref>
+* [[Mariah Reddick]], slave
+* [[Chris Stapleton]], [[country music]] star<ref>{{Cite web|url=https://williamsonsource.com/chris-stapleton-purchases-property-in-williamson-county/|title=Chris Stapleton Purchases Property in Williamson County|date=April 1, 2017}}</ref>
+* [[Justin Timberlake]], singer<ref>{{Cite web|url=https://virtualglobetrotting.com/map/justin-timberlakes-property/view/google/|title=Justin Timberlake's Property in Franklin, TN|date=July 9, 2015 |access-date=January 19, 2023}}</ref>
+* [[Chris Tomlin]], Christian musician<ref>{{Cite web|url=https://nashvillelifestyles.com/api/content/c5cb2ec0-b2a0-5761-ad6c-f829134207fd/|title=At Home with Chris Tomlin|last=Parr-Moody|first=Karen|date=January 18, 2017|website=Nashville Lifestyles|access-date=November 8, 2019}}</ref>
+* [[Cal Turner Jr.]], billionaire heir, former CEO of [[Dollar General]]<ref>{{cite news |last=Lind |first=J.R. |date=June 15, 2011 |title=Home builder sues Cal Turner for $5M: Developer Seeks Payment on Palatial Home |url=https://www.nashvillepost.com/news/2011/6/15/home_builder_sues_cal_turner_for_5m |newspaper=The Nashville Post |location=Nashville, Tennessee |access-date=November 9, 2015 }}</ref>
+* [[Carrie Underwood]], [[country music]] star<ref name="lonny.com">{{Cite web|url=https://www.lonny.com/Carrie+Underwood+Lists+Nashville+Mansion+For+1.45+Million|title=Carrie Underwood Lists Nashville Mansion For $1.45 Million|access-date=January 19, 2023}}</ref>
+* [[Keith Urban]], [[country music]] star<ref name="virtualglobetrotting.com">{{Cite web|url=https://virtualglobetrotting.com/map/keith-urban-nicole-kidmans-house/view/google/|title=Keith Urban & Nicole Kidman's House|date=February 9, 2009 |access-date=January 19, 2023}}</ref>
+* [[Hayley Williams]], musician<ref>{{cite news|last1=Montgomery|first1=James|title=PARAMORE'S HAYLEY WILLIAMS GIVES US A TOUR OF HER CRIB|url=http://www.mtv.com/news/1622722/paramores-hayley-williams-gives-us-a-tour-of-her-crib/|access-date=December 17, 2017|work=MTV|date=September 30, 2009}}</ref>
+* [[Kimberly Williams-Paisley]], actress<ref>{{Cite web|url=https://www.southernliving.com/culture/celebrities/kimberly-williams-paisley-interview|title=Actress Kimberly Williams-Paisley Talks Style, Cooking Turkey, and How She Fell in Love with Franklin, Tennessee|date=October 31, 2022}}</ref>
+* [[Oprah Winfrey]], media personality<ref>{{Cite web|url=https://virtualglobetrotting.com/map/oprah-winfreys-house-former/|title=Oprah Winfrey's House (former)|date=October 23, 2018 |access-date=January 19, 2023}}</ref>
+* [[Reese Witherspoon]], actress<ref>{{Cite web|url=https://www.loveproperty.com/gallerylist/72274/inside-reese-witherspoons-amazing-property-portfolio|title=Inside Reese Witherspoon's amazing property portfolio|date=November 3, 2022}}</ref>
+* [[Ben Zobrist]], baseball player<ref name=zobrist>{{cite news|last1=Ammenheuser|first1=David|title=Cubs World Series hero Ben Zobrist is Franklin resident|url=http://www.tennessean.com/story/sports/2016/11/02/7-things-know-cubs-ben-zobrist-franklin-resident/93159738/|access-date=December 17, 2017|work=The Tennessean|date=November 2, 2016}}</ref>
+*[[Julianna Zobrist]], musician<ref name=zobrist/> 
+{{Div col end}}
+
+==In popular culture==
+*The 1986 [[Orion Pictures]] movie ''[[At Close Range]]'', starring [[Sean Penn]], [[Christopher Walken]], and [[Keifer Sutherland]], was filmed in downtown Franklin<ref>''[https://www.tennessean.com/story/news/local/williamson/franklin/2014/09/29/franklins-list-movie-credits-keeps-growing/16455091/ Franklin's list of movie credits keeps growing]'', ''The Tennessean'', Nashville, Tennessee, Retrieved April 26, 2020</ref>
+*The [[American Broadcasting Company|ABC]] television show ''[[Nashville (2012 TV series)|Nashville]]'' (2012) filmed many concert show segments at the Franklin Theatre<ref>{{Cite web|url=http://www.franklinhomepage.com/abcs-nashville-takes-over-franklin-theatre-cms-15871|title=ABC's 'Nashville' takes over Franklin Theatre|date=2014-07-23|website=Franklin Home Page|access-date=2016-03-07}}</ref>
+* Canadian singer [[Justin Bieber]] filmed the 2011 video for his song "[[Mistletoe (Justin Bieber song)|Mistletoe]]" in Downtown Franklin<ref>{{Cite news|url=http://www.wsmv.com/clip/6301477/justin-bieber-shoots-video-in-downtown-franklin|title=Justin Bieber shoots video in downtown Franklin|access-date=2017-12-01|language=en|website=Wsmv.com|url-status=dead|archive-url=https://web.archive.org/web/20171201131919/https://www.wsmv.com/clip/6301477/justin-bieber-shoots-video-in-downtown-franklin/|archive-date=2017-12-01}}</ref>
+* The 2015 Town Square Pictures movie ''The Secret Handshake'', starring [[Kevin Sorbo]], [[Amy Grant]], and [[Mark Collie]], was filmed in Franklin's Cottonwood subdivision<ref>''[https://www.tennessean.com/story/news/local/williamson/columnist/2015/05/03/movie-shot-nashville-area-set-may-premiere/26639075/ Movie shot in Nashville area set for May premiere]'', ''The Tennessean'', Nashville, Tennessee, Retrieved April 26, 2020</ref>
+*The 2017 EchoLight Studios movie ''Sweet Sweet Summertime'', starring [[David DeLuise]], [[Markie Post]], and [[Jaci Velasquez]], was filmed in Franklin<ref>''[https://tnecd.com/news/last-best-summer-ever-begins-filming-in-tennessee/  Begins filming in Tennessee]'', ''The Chattanoogan'', Chattanooga, Tennessee, Retrieved April 26, 2020</ref>
+
+==Sister cities==
+Franklin is an active participant in the [[Sister Cities]] program. Sister Cities of Franklin & Williamson County<ref>{{Cite web|url=https://sistercitiestn.org/|title=Sister Cities of Franklin and Williamson County &#124;}}</ref> was founded as an outgrowth of Leadership Franklin in March 2002. The City of Franklin has relationships with the following municipalities:
+
+*{{flagdeco|CAN}} [[Carleton Place]], [[Ontario]], Canada (2008)<ref name="sistercities">{{cite web |url=http://sistercitiestn.org/?page_id=7 |title=Sister Cities of Franklin |work=sistercitiestn.org |access-date=October 12, 2014}}</ref>
+*{{flagdeco|IRL}} [[County Laois]], Ireland (2008)<ref name="sistercities"/>
+*{{flagdeco|Germany}} [[Bad Soden|Bad Soden am Taunus]], [[Hesse]], Germany (2016)<ref name="sistercities" />
+
+==See also==
+{{portal|United States}}
+*[[Tennessee and Alabama Railroad Freight Depot]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Savage, Carter Julian. “Cultural Capital and African American Agency: The Economic Struggle for Effective Education for African Americans in Franklin, Tennessee, 1890-1967.” ''Journal of African American History,'' vol. 87, (2002), pp. 206–35. [https://doi.org/10.2307/1562464 online]
+
+==External links==
+{{Commons category|Franklin, Tennessee}}
+* [http://www.franklin-gov.com/ City of Franklin] (official website)
+* [https://www.municode.com/library/tn/franklin/codes/code_of_ordinances City charter]
+* [http://www.preservationnation.org/travel-and-sites/sites/southern-region/franklin-tn.html Franklin: 2009 Dozen Distinctive Destinations], National Trust for Historic Preservation
+* [https://www.gutenberg.org/ebooks/31468 ''The Battle of Franklin, Tennessee'' by John K. Shellenberger]
+* {{Cite NSRW|wstitle=Franklin (Tenn.)|display=Franklin, a town of Williamson County, Tenn.|short=x}}
+
+{{Williamson County, Tennessee}}
+{{Tennessee county seats}}
+{{Tennessee}}
+
+{{authority control}}
+
+[[Category:Franklin, Tennessee| ]]
+[[Category:Cities in Tennessee]]
+[[Category:Cities in Williamson County, Tennessee]]
+[[Category:Cities in Nashville metropolitan area]]
+[[Category:Populated places established in 1799]]
+[[Category:County seats in Tennessee]]
+[[Category:1799 establishments in Tennessee]]

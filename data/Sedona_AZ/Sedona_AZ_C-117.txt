@@ -1,0 +1,376 @@
+# Revision ID: 1186394484
+# Timestamp: 2023-11-22T21:05:33Z
+
+{{short description|City in Coconino and Yavapai Counties, Arizona, US}}
+{{Redirect|Sedona|the Kia Motors Sedona automobile|Kia Carnival|the 2011 film|Sedona (film)|the single by Houndmouth|Sedona (song)}}
+{{Use mdy dates|date=September 2017}}
+{{Infobox settlement
+|name                     = 
+|official_name            = City of Sedona
+|settlement_type          = [[City]]
+|image_skyline            = File:Cathedral Rock - Sedona AZ-1.jpg
+|imagesize                = 300px
+|image_caption            = [[Cathedral Rock]]
+|image_seal               = 
+|image_map                = File:Coconino County and Yavapai County Arizona Incorporated and Unincorporated areas Sedona Highlighted 0465350.svg
+|mapsize                  = 
+|map_caption              = Location of Sedona in Coconino County and Yavapai County, Arizona
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|pushpin_map              = Arizona#USA
+|pushpin_label            = Sedona
+|pushpin_map_caption      = Location of Sedona
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Arizona}}
+|subdivision_type2        = [[List of counties in Arizona|Counties]]
+|subdivision_name2        = [[Yavapai County, Arizona|Yavapai]], [[Coconino County, Arizona|Coconino]]
+|government_type          = Council–Manager
+|leader_title             = Mayor
+|leader_name              = Scott Jablow
+|established_title        = Founded
+|established_date         = 1902
+|established_title2       = Incorporated
+|established_date2        = 1988
+|area_magnitude           = 
+|area_total_km2           = 47.41
+|area_total_sq_mi         = 18.30
+|area_land_km2            = 47.30
+|area_land_sq_mi          = 18.26
+|area_water_km2           = 0.11
+|area_water_sq_mi         = 0.04
+|elevation_footnotes      = <ref name=gnis/>
+|elevation_ft             = 4360
+|population_as_of         = [[2020 United States Census|2020]]
+|population_est           = 
+|pop_est_as_of            = 
+|pop_est_footnotes        = 
+|population_footnotes     = 
+|population_total         = 9684
+|population_metro         = 
+|population_density_km2   = 204.75
+|population_density_sq_mi = 530.28
+|timezone                 = [[Mountain Standard Time Zone|MST]]
+|utc_offset               = −07:00
+|coordinates              = {{coord|34|52|11|N|111|45|40|W|region:US-AZ|display=inline,title}}<ref name=gnis/>
+|timezone_DST             = 
+|utc_offset_DST           = 
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 86336
+|area_code                = [[Area code 928|928]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 04-65350
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 2411858<ref name=gnis>{{GNIS|2411858}}</ref>
+|website                  = {{URL|www.sedonaaz.gov}}
+|footnotes                = 
+|unit_pref                = Imperial
+|area_footnotes = <ref name="CenPopGazetteer2020">{{cite web|title=2020 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2020_Gazetteer/2020_gaz_place_04.txt|publisher=United States Census Bureau|accessdate=October 29, 2021}}</ref>
+}}
+[[File:Chapel of the Holy Cross, Sedona, AZ.jpg|thumb|The [[Chapel of the Holy Cross (Sedona, Arizona)|Chapel of the Holy Cross]]]]
+'''Sedona''' {{IPAc-en|s|ᵻ|ˈ|d|oʊ|n|ə}} is a city that straddles the county line between [[Coconino County, Arizona|Coconino]] and [[Yavapai County, Arizona|Yavapai]] counties in the northern [[Verde Valley]] region of the [[U.S. state]] of [[Arizona]]. As of the [[2010 United States Census|2010 census]], its population was 10,031.<ref name="Census 2010">{{cite web| url=http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/G001/1600000US0465350| archive-url=https://archive.today/20200212174311/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/G001/1600000US0465350| url-status=dead| archive-date=February 12, 2020|title=Geographic Identifiers: 2010 Demographic Profile Data (G001): Sedona city, Arizona|publisher=U.S. Census Bureau, American Factfinder|access-date=June 12, 2014}}</ref> It is within the [[Coconino National Forest]].
+
+Sedona's main attraction is its array of red [[sandstone]] formations. The formations appear to glow in brilliant orange and red when illuminated by the rising or setting sun. The red rocks form a popular backdrop for many activities, ranging from spiritual pursuits to the hundreds of hiking and mountain biking trails. Sedona is also the home to the nationally recognized [[McDonald's]] with turquoise arches, instead of the traditional Golden Arches.<ref>{{Cite web|url=https://www.rd.com/article/mcdonalds-turquoise-arches/|title=The Surprising Reason One McDonald's Uses Turquoise Arches|website=[[Reader's Digest]]|last=Jones|first=Meghan|date=June 16, 2021|access-date=May 22, 2022}}</ref>
+
+Sedona was named after [[Sedona Schnebly|Sedona Arabella Miller Schnebly]], the wife of Theodore Carlton Schnebly, the city's first postmaster. She was celebrated for her hospitality and industriousness.<ref>[http://www.sharlot.org/archives/rosegarden/show.pl?woman=SEDONA%20MILLER%20SCHNEBLY Territorial Women's Memorial Rose Garden: Sedona Arabelle Miller Schnebly] {{Webarchive|url=https://web.archive.org/web/20070418174926/http://sharlot.org/archives/rosegarden/show.pl?woman=SEDONA%20MILLER%20SCHNEBLY |date=April 18, 2007 }}. (n.d.) Sharlot Hall Museum. Retrieved December 16, 2006.</ref> Her mother, Amanda Miller, claimed to have made the name up because "it [[phonaesthetics|sounded pretty]]".<ref>{{Cite web|url=http://www.arizonascenicroads.com/north_central/red_rock_article_3.html|title=Arizona Scenic Roads ~ See for yourself why the Scenic Roads of Arizona are truly a hidden treasure!|website=www.arizonascenicroads.com|access-date=April 17, 2016}}</ref>
+
+==History==
+===Anglo-American settlement===
+The first Anglo settler, John J. Thompson, moved to [[Oak Creek Canyon]] in 1876, an area well known for its peach and apple orchards. The early settlers were farmers and ranchers. In 1902, when the Sedona post office was established, there were 55 residents. In the mid-1950s, the first telephone directory listed 155 names. Some parts of the Sedona area were not electrified until the 1960s.
+
+Sedona began to develop as a tourist destination, vacation-home and retirement center in the 1950s. Most of the development seen today was constructed in the 1980s and 1990s. As of 2007, there are no large tracts of undeveloped land remaining.<ref>Heidinger & Trevillyan (2007). ''Images of America: Sedona'', Arcadia Publishing. {{ISBN|978-0-7385-4800-5}}</ref>
+
+Important early settlers included the Steele family, originally of Scotland.
+
+===Chapel of the Holy Cross===
+In 1956, construction of the [[Chapel of the Holy Cross (Sedona, Arizona)|Chapel of the Holy Cross]] was completed. The chapel rises {{convert|70|ft|m}} out of a {{convert|1000|ft|m|adj=on}} redrock cliff.<ref name="Chapel">{{cite web|url=http://www.sacred-destinations.com/usa/sedona-chapel-of-the-holy-cross|title=Chapel of the Holy Cross|publisher=Sacred Destinations|date=April 18, 2009|access-date=May 18, 2010}}</ref> The most prominent feature of the chapel is the cross. Later a chapel was added. Inside the chapel there is a window and a cross with benches and pews.<ref>{{cite web|last1=Somerville|first1=Slyvia|title=Chapel of the Holy Cross, Sedona Architectural Landmark|url=http://www.gatewaytosedona.com/the-chapel-of-the-holy-cross-sedona-architectural-landmark|website=Gateway To Sedona|publisher=Range Dog Publishing Inc.|access-date=February 9, 2017|archive-date=February 11, 2017|archive-url=https://web.archive.org/web/20170211080427/http://www.gatewaytosedona.com/the-chapel-of-the-holy-cross-sedona-architectural-landmark|url-status=dead}}</ref>
+
+===Cinematic legacy===
+Sedona played host to more than sixty Hollywood productions from the first years of movies into the 1970s. Stretching as far back as 1923, Sedona's red rocks were a fixture in major Hollywood productions{{snd}}including films such as ''[[Angel and the Badman]]'', ''[[Desert Fury]]'', ''[[Blood on the Moon]]'', ''[[Johnny Guitar]]'', ''[[The Last Wagon (1956 film)|The Last Wagon]]'', and ''[[3:10 to Yuma (2007 film)|3:10 to Yuma]]'', [Lost Arrow] (1950 film w/ Jimmy Stewart).However, the surroundings typically were identified to audiences as the terrain of Texas, California, Nevada, and even Canada–US border territory.<ref>McNeill, Joe. "[http://www.arizonaslittlehollywood.com/ Arizona's Little Hollywood]: Sedona and Northern Arizona's Forgotten Film History 1923–1973" (2010, Northedge & Sons)</ref> The town lent its name to the 2011 film [[Sedona (film)|''Sedona'']], which is set in the community.
+
+===Brins Fire===
+[[File:Sedona Brins Fire 2006.jpg|right|thumb|The Brins fire of 2006]]
+
+On June 18, 2006, a wildfire, reportedly started by campers, began about one mile (2&nbsp;km) north of Sedona.<ref>[[United States Forest Service|USDA Forest Service]]. (June 19, 2006). ''[http://www.fs.fed.us/r3/coconino/news/2006/6-19-06-brins-fire.shtml Brins Fire Update].'' Retrieved December 16, 2006.</ref> The Brins Fire covered {{convert|4317|acre|km2|0}} on Brins Mesa, Wilson Mountain and in Oak Creek Canyon before the [[USDA Forest Service]] declared it 100&nbsp;percent contained on June 28. Containment cost was estimated at $6.4&nbsp;million.
+
+=== Slide Fire ===
+On May 20, 2014, a wildfire started from an unknown cause began north of Sedona at [[Slide Rock State Park]]. The Slide Fire<ref>{{Cite web|url=https://inciweb.nwcg.gov/incident/3874/|title=Slide Fire Information – InciWeb the Incident Information System|website=inciweb.nwcg.gov|language=en|access-date=2018-04-24|archive-date=April 25, 2018|archive-url=https://web.archive.org/web/20180425114705/https://inciweb.nwcg.gov/incident/3874/|url-status=dead}}</ref> spread across 21,227 acres in Oak Creek Canyon over nine days and prompted evacuations.<ref>{{Cite web|url=http://www.redrocknews.com/news/20-news-stories/10617-oak-creek-canyon-evacuated-north-of-slide-rock-due-to-fire|title=Oak Creek Canyon evacuated north of Slide Rock due to fire o|last=Graham|first=Christopher Fox|website=www.redrocknews.com – Sedona Red Rock News|language=en-gb|access-date=2018-04-24|archive-date=April 25, 2018|archive-url=https://web.archive.org/web/20180425114507/http://www.redrocknews.com/news/20-news-stories/10617-oak-creek-canyon-evacuated-north-of-slide-rock-due-to-fire|url-status=dead}}</ref> State Route 89A opened to [[Flagstaff, Arizona|Flagstaff]] in June, but all parking and canyon access was closed to the public until October 1, 2014.<ref>{{Cite news|url=https://www.azcentral.com/story/travel/road-trips/2014/09/30/oak-creek-canyon-sedona-open-slide-fire/16473799/|title=Oak Creek Canyon near Sedona to reopen Wednesday|work=azcentral|access-date=2018-04-24|language=en}}</ref>
+
+==Geography==
+[[File:Sedona - Route 89A.jpg|thumb|right|West Sedona – Route 89A]]
+Sedona is located in the interior chaparral, semi-desert grassland, Great Basin [[conifer]] woodland biomes of northern Arizona.<ref>{{Cite web |url=http://www.reptilesofaz.org/habitat.html |title=Arizona biomes, biotic communities, and habitats - Reptiles of Arizona |access-date=February 7, 2020 |archive-date=January 29, 2020 |archive-url=https://web.archive.org/web/20200129085501/http://www.reptilesofaz.org/habitat.html |url-status=dead }}</ref> Sedona has mild winters and warm summers.
+
+According to the [[United States Census Bureau]], the city has a total area of {{convert|49.7|km2|order=flip}} of which {{convert|0.1|sqkm|order=flip|2}}, or 0.22%, is water.<ref name="Census 2010"/>
+
+===Flora===
+Sedona interior chaparral has many shrubs and small tree species of [[Quercus turbinella]] and ''[[Rhus ovata]]'' and a large population of ''[[Quercus palmeri]]''. The Great Basin woodland has many small to medium trees of ''[[Pinus monophylla]]'' Var. ''fallax'', ''[[Juniperus arizonica]]'', ''[[Juniperus deppeana]]'', ''[[Juniperus osteosperma]]'', and ''[[Juniperus monosperma]]'' and a large population of ''[[Cupressus glabra]]''. At higher elevations in Oak Creek Canyon ''[[Juniperus virginiana]]'', ''[[Pinus edulis]]'' and other pines occur.<ref>{{Cite web|url=http://swbiodiversity.org/seinet/checklists/checklist.php?clid=105&pid=1|title=SEINet Portal NetworkResearch Checklist: Sedona/Oak Creek Canyon}}</ref><ref>{{Cite web|url=https://www.conifers.org/pi/Pinus_monophylla.php|title=Pinus monophylla (Singleleaf piñon) description – the Gymnosperm Database}}</ref>
+[[File:Sedona SW02.jpg|thumb|Oak Creek]]
+
+===Geology===
+
+The [[redbeds|red rocks]] of Sedona are formed by a unique layer of rock known as the [[Schnebly Hill Formation]]. The Schnebly Hill Formation is a thick layer of red to orange-colored sandstone found only in the Sedona vicinity. The sandstone, a member of the [[Geology of the Grand Canyon area#Supai Group|Supai Group]], was deposited during the [[Permian Period]].
+
+===Climate===
+Sedona has a temperate semi-arid climate. In January, the average high temperature is 57&nbsp;°F (14&nbsp;°C) with a low of 31&nbsp;°F (−1&nbsp;°C). In July, the average high temperature is 97&nbsp;°F (34&nbsp;°C) with a low of 64&nbsp;°F (17&nbsp;°C). Annual precipitation is just over {{convert|19|in|mm}}.<ref>{{cite web|url=http://www.wrcc.dri.edu/cgi-bin/cliMAIN.pl?az7708|title=Sedona, Arizona – Climate Summary}}</ref>
+
+{{Weather box
+|location = Sedona, Arizona (1991–2020 normals, extremes 1943–2010)
+|single line = Y
+|Jan record high F =  81
+|Feb record high F =  85
+|Mar record high F =  88
+|Apr record high F =  93
+|May record high F = 102
+|Jun record high F = 111
+|Jul record high F = 115
+|Aug record high F = 108
+|Sep record high F = 106
+|Oct record high F = 100
+|Nov record high F =  88
+|Dec record high F =  80
+|year record high F =110
+
+| Jan avg record high F = 70.3
+| Feb avg record high F = 74.3
+| Mar avg record high F = 78.8
+| Apr avg record high F = 86.9
+| May avg record high F = 94.0
+| Jun avg record high F = 103.4
+| Jul avg record high F = 104.4
+| Aug avg record high F = 102.8
+| Sep avg record high F = 98.0
+| Oct avg record high F = 89.9
+| Nov avg record high F = 79.6
+| Dec avg record high F = 73.0
+|year avg record high F = 105.9
+|Jan high F = 57.6
+|Feb high F = 61.2
+|Mar high F = 65.5
+|Apr high F = 72.8
+|May high F = 81.7
+|Jun high F = 92.0
+|Jul high F = 95.6
+|Aug high F = 93.3
+|Sep high F = 87.9
+|Oct high F = 77.6
+|Nov high F = 63.6
+|Dec high F = 58.5
+|year high F =
+
+|Jan mean F = 45.0
+|Feb mean F = 47.9
+|Mar mean F = 51.2
+|Apr mean F = 57.3
+|May mean F = 65.0
+|Jun mean F = 74.8
+|Jul mean F = 80.1
+|Aug mean F = 78.7
+|Sep mean F = 73.1
+|Oct mean F = 62.6
+|Nov mean F = 51.5
+|Dec mean F = 45.5
+|year mean F = 
+
+|Jan low F = 32.9
+|Feb low F = 34.9
+|Mar low F = 37.5
+|Apr low F = 41.7
+|May low F = 48.7
+|Jun low F = 57.2
+|Jul low F = 64.5
+|Aug low F = 64.0
+|Sep low F = 58.1
+|Oct low F = 48.5
+|Nov low F = 37.2
+|Dec low F = 33.1
+|year low F =
+| Jan avg record low F = 22.0
+| Feb avg record low F = 23.8
+| Mar avg record low F = 27.5
+| Apr avg record low F = 31.9
+| May avg record low F = 38.6
+| Jun avg record low F = 47.3
+| Jul avg record low F = 58.4
+| Aug avg record low F = 57.8
+| Sep avg record low F = 49.7
+| Oct avg record low F = 38.2
+| Nov avg record low F = 28.3
+| Dec avg record low F = 23.0
+|year avg record low F = 18.4
+|Jan record low F = 4
+|Feb record low F = 8
+|Mar record low F = 15
+|Apr record low F = 23
+|May record low F = 29
+|Jun record low F = 36
+|Jul record low F = 48
+|Aug record low F = 48
+|Sep record low F = 38
+|Oct record low F = 23
+|Nov record low F = 12
+|Dec record low F = 8
+|year record low F = 
+|precipitation colour = green
+|Jan precipitation inch = 1.76
+|Feb precipitation inch = 1.88
+|Mar precipitation inch = 1.48
+|Apr precipitation inch = 0.60
+|May precipitation inch = 0.40
+|Jun precipitation inch = 0.30
+|Jul precipitation inch = 1.72
+|Aug precipitation inch = 2.36
+|Sep precipitation inch = 1.88
+|Oct precipitation inch = 1.03
+|Nov precipitation inch = 1.23
+|Dec precipitation inch = 1.59
+|year precipitation inch= 
+|Jan snow inch = 0.7
+|Feb snow inch = 0.3
+|Mar snow inch = 0.2
+|Apr snow inch = 0.1
+|May snow inch = 0.0
+|Jun snow inch = 0.0
+|Jul snow inch = 0.0
+|Aug snow inch = 0.0
+|Sep snow inch = 0.0
+|Oct snow inch = 0.0
+|Nov snow inch = 0.2
+|Dec snow inch = 0.4
+|year snow inch = 
+
+|source 1 = WRCC<ref name=WRCC>{{cite web |url = https://wrcc.dri.edu/cgi-bin/cliMAIN.pl?az2109 |title = Cordes, Arizona Climate Data |publisher = [[National Oceanic and Atmospheric Administration]] |access-date = August 15, 2022}}</ref>}}
+}}
+{{wide image|Vortex_panoramicview_sedona.jpg|1000px|Panoramic view of Sedona from the "vortex" point near the Sedona airport. The famous [[Bell Rock (Arizona)|Bell Rock]], located on the south side of the vortex point, is on the right side of the photo. Major parts of the town are in the middle of the photo. [[Capitol Butte]] is to the left.}}
+
+==Demographics==
+{{US Census population
+|1970= 2022
+|1980= 5368
+|1990= 7720
+|2000= 10192
+|2010= 10031
+|2020= 9684
+|align-fn=center
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2016}}</ref>
+}}
+[[File:SedonaAirport.JPG|thumb|[[Sedona Airport]] viewed from the south, showing its location atop Airport Mesa]]
+
+As of the [[2000 United States census|census of 2000]], there were 10,192 people, 4,928 households, and 2,863 families residing in the city. The population density was {{convert|548.0|PD/sqmi|PD/km2|sp=us|adj=off}}. There were 5,684 housing units at an average density of {{convert|305.6|/sqmi|/km2|sp=us|adj=off}}. The [[Race and ethnicity in the United States census|racial makeup]] of the city was 92.2% [[White Americans|White]], 0.5% Black or [[African American]], 0.5% [[Native Americans in the United States|Native American]], 0.9% [[Asian Americans|Asian]], 0.1% [[Pacific Islander Americans|Pacific Islander]], 4.3% from other races, and 1.6% from two or more races. 8.9% of the population were [[Hispanic and Latino Americans|Hispanic or Latino]] of any race.
+
+At the 2000 census there were 7,229 people living in the Yavapai County (western) portion of the city (70.9% of its population) and 2,963 living in the Coconino County (eastern) portion (29.1%). By land area Yavapai had 66.2% of its area, versus 33.8% for Coconino.
+
+There were 4,928 households, out of which 15.8% had children under the age of 18 living with them, 48.6% were married couples living together, 6.6% had a female householder with no husband present, and 41.9% were non-families. 32.2% of all households were made up of individuals, and 14.2% had someone living alone who was 65 years of age or older. The average household size was 2.06 and the average family size was 2.52.
+
+In the city, the population was spread out, with 13.7% under the age of 18, 4.5% from 18 to 24, 21.2% from 25 to 44, 35.0% from 45 to 64, and 25.6% who were 65 years of age or older. The median age was 50 years. For every 100 females, there were 88.1 males. For every 100 females age 18 and over, there were 85.9 males.
+
+The median income for a household in the city was $44,042, and the median income for a family was $52,659. Males had a median income of $32,067 versus $24,453 for females. The [[per capita income]] for the city was $31,350. About 4.7% of families and 9.7% of the population were below the [[poverty line]], including 12.1% of those under age 18 and 5.0% of those age 65 or over.
+
+==Arts and culture==
+The Sedona area hosts numerous events annually, including:
+* [[St. Patrick's Day|St. Patrick's]] Parade, Celebration of Spring, Sedona Food Truck Festival, Red Dirt Concerts, Pumpkin Splash, and WagFest and Fair are just a few of the community events offered by the local Parks and Recreation Department.<ref>[http://www.SedonaAz.gov/recevents Sedona recent events]</ref>
+* Sedona Marathon<ref>{{cite web|url= http://www.sedonamarathon.com/|title= Sedona Marathon}}</ref>
+* The Sedona Miracle Annual Charity Fundraiser<ref>{{cite web|url= http://www.sedonamiracle.org/|title= The Sedona Miracle}}</ref>
+[[File:Sedona - Hiking above Oak Creek.jpg|thumb|Hiking above Oak Creek – facing south]]
+* Sedona Bluegrass Festival<ref>{{cite web|url=http://www.sedonabluegrassfestival.org/ |title=Archived copy |access-date=March 27, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20150601000824/http://www.sedonabluegrassfestival.org/ |archive-date=June 1, 2015 }}</ref> (2007–2014)
+* Sedona Hummingbird Festival (2012–present);
+* The Sedona [[Solstice]] Festivals (Summer and Winter) at Unity of Sedona (2012–present)<ref>{{cite web|url= http://www.unityofsedona.com|title= Unity of Sedona – New Age Spiritual Center, New Thought Church and Energy Vortex}}</ref>
+
+Sedona hosts several notable arts organizations in [[Northern Arizona]]:
+* Chamber Music Sedona sponsors a chamber-music program annually from October to May. The 2012–2013 season marked the 30th anniversary for the organization.
+* The Sedona Arts Center, founded in 1958, is the oldest arts center in northern Arizona.
+* [[Sedona International Film Festival]] & Workshop was established in 1995. The week-long annual festival takes place in late February and early March at Harkins Theatres, while supplemental events take place at area resorts and restaurants. The festival also hosts monthly events, and they sponsor the MET: Live in HD opera broadcasts in Sedona.
+* NORAZ Poets, extant from 2003 to 2007, was a nonprofit poetry network based in Sedona.
+* [[Greg Lawson (photographer)|Greg Lawson Galleries]],<ref>[https://greglawsongalleries.com/ Greg Lawson Galleries]</ref> a popular local art gallery in Sedona.<ref>[https://artzzii.com/galleries/greg-lawson-galleries.html Greg Lawson Galleries]. ''Artzii''.</ref>
+
+A specialized [[New Age]] tourist industry operates in Sedona, where [[José Arguelles]] organized the "[[Harmonic Convergence]]" in 1987. Some New Age proponents purport that "spiritual vortices" are concentrated in the Sedona area at [[Bell Rock (Arizona)|Bell Rock]], [[Sedona Airport|Airport Mesa]], [[Cathedral Rock]], and [[Boynton Canyon]].<ref>
+{{cite news|url= https://www.nytimes.com/section/travel|title= Travel|newspaper= The New York Times}}
+</ref>{{failed verification|date=April 2017}}<ref>
+[http://travel2.nytimes.com/2006/04/09/travel/09sedona.html?pagewanted=1 NY Times: Sedona] {{webarchive|url=https://web.archive.org/web/20060513114515/http://travel2.nytimes.com/2006/04/09/travel/09sedona.html?pagewanted=1 |date=May 13, 2006 }}
+</ref>
+
+==Government==
+Politically, Uptown Sedona, the Gallery District and the Chapel area (all in Coconino County) and West Sedona (in Yavapai County) form the City of Sedona. Founded in 1902, it was incorporated as a city in 1988. The unincorporated [[Village of Oak Creek]], {{convert|7|mi|km}} to the south and well outside the Sedona city limits, is a significant part of the Sedona community.
+
+In 2013, Sedona became one of the Arizona municipalities to approve of [[civil union]]s for same-sex partners.<ref>{{Cite news|date=2013|archive-url=https://web.archive.org/web/20180728071045/http://www.kcbd.com/story/23520997/sedona-city-council-oks-civil-unions-in-5-2-vote|archive-date=July 28, 2018|url-status=dead|website=KCBD|url=http://www.kcbd.com/story/23520997/sedona-city-council-oks-civil-unions-in-5-2-vote|title=Sedona City Council OKs civil unions in 5-2 vote|access-date=2021-10-16|language=en}}</ref>
+
+==Education==
+Sedona is served by the [[Sedona-Oak Creek Unified School District]].
+
+West Sedona School, serving grades K–6, is located at 570 Posse Ground Road.
+
+Red Rock Early Learning Center<ref>{{cite web|url=http://www.rrelc.com|title=Red Rock Early Learning Center}}</ref> is a year-round Preschool program designed for children aged 3–5 years old. Their normal school year runs from August to May each year, with a summer session offered during June and July. It is licensed by the ADHS, and located in West Sedona Elementary School building 300.
+
+[[Verde Valley School]], a boarding International Baccalaureate high school with many international students, is located between the [[Village of Oak Creek]] and Red Rock Crossing. It hosts numerous 'traditions' and performances open to the community. Their mascot is the coyote. Total attendance measures about 120 students per year, grades 9–12. Oscar-winning composer [[James Horner]] studied there (Titanic, Braveheart, Avatar, Legends of The Fall).
+
+[[Sedona Red Rock High School]] (SRRHS), built in 1994, is located on the western edge of town in West Sedona. The school's mascot is the Scorpion. The high school's new campus, a series of single-story buildings, is located opposite the Sedona campus of [[Yavapai College]]. As of 2016, Sedona Red Rock High School holds grades 7–8 in the Junior High portion of campus.
+
+Sedona Charter School (SCS)<ref>[http://sedonacharterschool.com Sedona Charter School]</ref> is located behind the [[Sedona Public Library]], serving as a [[Montessori]]-based school for grades K–8.
+
+Yavapai College's Sedona Center for Arts & Technology includes the [[Sedona Film School]], which offers certificates in independent filmmaking, the Business Partnership Program, the [[Osher Lifelong Learning Institutes|Osher Lifelong Learning Institute]], and the University of Arizona Mini Med School.
+
+==Infrastructure==
+===Transportation===
+[[Sedona Airport]] is a [[non-towered airport|non-towered]] [[general aviation]] airport located within the city limits. The nearest commercial airports are [[Flagstaff Pulliam Airport]] ({{convert|26|mi|disp=sqbr}} away), [[Prescott Regional Airport]] ({{convert|68|mi|disp=sqbr}} away), and [[Phoenix Sky Harbor International Airport]] ({{convert|119|mi|disp=sqbr}} away).
+
+===Healthcare===
+Verde Valley Medical Center – Sedona Campus is an outpatient facility providing 24/7 emergency services, cancer services, and primary and specialty healthcare to the Sedona/Oak Creek area. The facility is part of the Northern Arizona Healthcare system and is a subdivision of Verde Valley Medical Center in the nearby city of [[Cottonwood, Arizona|Cottonwood]].<ref>[http://www.verdevalleymedicalcenter.com/SedonaCampus/OurServices/ Verde Valley Medical Center – Sedona Campus] {{webarchive|url=https://web.archive.org/web/20141006122026/http://www.verdevalleymedicalcenter.com/SedonaCampus/OurServices/ |date=October 6, 2014 }}</ref>
+
+===Cemeteries===
+Sedona's oldest burial ground is the Schuerman–Red Rock Cemetery, dating from 1893. Another [[pioneer cemetery]] is the Cooks Cedar Gate Cemetery, with an initial burial in 1918. The Sedona Community Cemetery, also known as Sedona Memorial Park,<ref>{{GNIS|34244|Sedona Community Cemetery}}</ref> is on Pine Drive.
+
+==Notable people==
+<!-- NOTICE * * * NOTICE * * * NOTICE * * * * * * * * * * * *NOTICE * * * NOTICE * * * NOTICE• Only people who already have a Wikipedia article may appear here. This establishes notability.
+• The article must mention how they are associated with the community, whether born, raised, or residing.
+• The fact of their association should have a reliable source cited, or it should be stated in their Wikipedia article
+• Alphabetical by last name please, within the appropriate category
+• All others will be deleted without further explanation
+END OF NOTICE * * * * * * * * * * * * END OF NOTICE * * * * * * * * * * * *END OF NOTICE -->
+* [[Robert Adams (spiritual teacher)|Robert Adams]] – American [[Advaita]] teacher
+* [[Samaire Armstrong]] – actress
+* [[Michelle Branch]] – singer/songwriter<ref>{{cite web | url=http://www.redrockreview.com/Sep01/1story.html | publisher=Red Rock Review | title=Michelle Branch, Local singer/songwriter is "Everywhere" | last=Fried| first=Paul | access-date=September 14, 2014 | archive-url=https://web.archive.org/web/20131127142459/http://redrockreview.com/Sep01/1story.html | archive-date=November 27, 2013}}</ref>
+<!-- * [[Raúl Héctor Castro]] – 14th Governor of Arizona – Unclear if he lived in Sedona – he's buried in the Sedona Community Cemetery-->
+* [[Brandon Decker]] - singer/songwriter based in Sedona
+* [[Gail Edwards]] – actress<ref name=FR>{{cite web |url=http://www.thefreeresource.com/list-of-famous-people-from-arizona | title=List of Famous People from Arizona | publisher=The Free Resource | access-date=June 2, 2017 | archive-url=https://archive.today/TUdyf?url=http://www.thefreeresource.com/list-of-famous-people-from-arizona | archive-date=August 29, 2014}}</ref>
+* [[Justin Frankel]] – computer programmer
+* [[Kevin Geary]] – English portrait and abstract artist<ref>{{Cite web |url=https://www.degruyter.com/database/AKL/entry/_00634431/html |title=Geary, Kevin |last=Kronthaler |first=Helmut |editor1-last=Tegethoff |editor1-first=Wolf |editor2-last=Savoy |editor2-first=Bénédicte |editor3-last=Beyer |editor3-first=Andreas |date=2009 |website=Allgemeines Künstlerlexikon Online / Artists of the World Online |publisher=K. G. Saur |access-date=1 October 2021 }}</ref>
+* [[Steve George (keyboardist)|Steve George]] – musician/songwriter (Mr. Mister)
+* [[James Gregory (actor)|James Gregory]] – television actor
+* [[James Horner]] – film composer (studied at the Verde Valley School in the 1970s)
+* [[Greg Lawson (photographer)|Greg Lawson]] – American photographer, author, and publisher
+* [[Sagan Lewis]] – actress, former program director of the [[Sedona International Film Festival]]<ref name=thr>{{cite news|first=Mike|last=Barnes |title=Sagan Lewis, Actress and Wife of Emmy Winner Tom Fontana, Dies at 63 |url=http://www.hollywoodreporter.com/news/sagan-lewis-dead-actress-tom-918366 |work=[[The Hollywood Reporter]] |date=August 9, 2016 |access-date=August 16, 2016}}</ref>
+* [[Drunvalo Melchizedek]] – New Age author born Bernard Donald Perona
+* [[Tom O'Halleran]] – U. S. representative
+* [[Israel Regardie]] – writer, occultist, and sometime secretary to [[Aleister Crowley]].
+
+==In popular culture==
+* In 1982 singer [[Donna Loren]] released the song "Sedona" on her own label, Royalty Records. The song was written by Loren while living in Sedona. [[James Burton]] produced the song with Loren, played guitar, and assembled other members of the Elvis Presley [[TCB Band]]: [[Ronnie Tutt]] (drums), [[Jerry Scheff]] (bass), and [[Glen D. Hardin]] (piano). [[Chris Hillman]] played mandolin. It was Loren's first recording since 1967, and subsequently appeared on her compilation, ''Magic: The 80's Collection''.<ref name="Donna">{{cite web | url = http://www.donnaloren.net  | publisher= DonnaLoren.net | title=Donna Loren Official Website}}</ref>
+* A film titled ''[[Sedona (film)|Sedona]]'' was released in 2012. It was the first feature film to be shot entirely in Sedona since the 1970s when the heyday of Hollywood filmmaking in the area ended. The cast includes [[Frances Fisher]], [[Seth Peterson]], [[Barry Corbin]], [[Christopher Atkins]], [[Lin Shaye]] and [[Beth Grant]].<ref name="Sedona">{{cite web | url = http://www.allmovie.com/movie/sedona-v551563/  | publisher=[[AllMovie]] | title=Sedona}}</ref>
+* The racing video games ''[[Forza Motorsport 3]]'' and ''[[Forza Motorsport 4]]'' feature the fictional track "Sedona Raceway Park".<ref>[https://forzamotorsport.net/en-US/games/fm4/tracks/Sedona_Raceway_Park Forza Motorsport 4 Locations] – Forza Motorsport official website (04/10/2022)</ref>
+
+==See also==
+{{Portal|Arizona}}
+* [[Mogollon Rim]]
+
+==Notes==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category|Sedona, Arizona}}
+{{Wikivoyage|Sedona}}
+* {{official website|http://www.sedonaaz.gov/}}
+* {{osmrelation|3997092}}
+
+{{Coconino County, Arizona}}
+{{Yavapai County, Arizona}}
+
+{{authority control}}
+
+[[Category:Sedona, Arizona| ]]
+[[Category:1902 establishments in Arizona Territory]]
+[[Category:Cities in Arizona]]
+[[Category:Cities in Coconino County, Arizona]]
+[[Category:Cities in Yavapai County, Arizona]]
+[[Category:Populated places of the Mogollon Rim]]
+[[Category:Populated places established in 1902]]

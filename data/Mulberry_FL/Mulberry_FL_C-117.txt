@@ -1,0 +1,255 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| official_name                   = Mulberry, Florida
+| other_name                      = 
+| native_name                     = <!-- for cities whose native name is not in English -->
+[[File:City of Mulberry City Hall.jpg|280px|Mulberry City Hall]]
+<!-- images and maps  ----------->| image_flag                      = Mulberry Flag.png
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| image_blank_emblem              = 
+| blank_emblem_type               = 
+| blank_emblem_size               = 
+| image_map                       = Polk_County_Florida_Incorporated_and_Unincorporated_areas_Mulberry_Highlighted.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location in [[Polk County, Florida|Polk County]] and the state of [[Florida]]
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| image_dot_map                   = 
+| dot_mapsize                     = 
+| dot_map_caption                 = 
+| dot_x                           = 
+| dot_y                           = 
+| pushpin_map                     = <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = 
+| pushpin_mapsize                 = <!-- Location ------------------>
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[Florida]]
+| subdivision_type2               = [[List of counties in Florida|County]]
+| subdivision_name2               = [[Polk County, Florida|Polk]]
+| subdivision_type3               = 
+| subdivision_name3               = 
+| subdivision_type4               = 
+| subdivision_name4               = <!-- Politics ----------------->
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = 
+| leader_name                     = 
+| leader_title1                   = <!-- for places with, say, both a mayor and a city manager -->
+| leader_name1                    = 
+| leader_title2                   = 
+| leader_name2                    = 
+| leader_title3                   = 
+| leader_name3                    = 
+| leader_title4                   = 
+| leader_name4                    = 
+| established_title               = <!-- Settled -->
+| established_date                = 
+| established_title2              = <!-- Incorporated (town) -->
+| established_date2               = 
+| established_title3              = <!-- Incorporated (city) -->
+| established_date3               = <!-- Area    --------------------->
+| area_magnitude                  = 
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_12.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+| area_total_km2                  = 17.83
+| area_land_km2                   = 16.00
+| area_water_km2                  = 1.83
+| area_total_sq_mi                = 6.88
+| area_land_sq_mi                 = 6.18
+| area_water_sq_mi                = 0.70
+| area_water_percent              = 
+| area_urban_km2                  = 
+| area_urban_sq_mi                = 
+| area_metro_km2                  = 
+| area_metro_sq_mi                = 
+| area_blank1_title               = 
+| area_blank1_km2                 = 
+| area_blank1_sq_mi               = <!-- Population   ----------------------->
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_note                 = 
+| population_total                = 3817
+| population_density_km2          = 266.05
+| population_density_sq_mi        = 689.06
+| population_metro                = 
+| population_density_metro_km2    = 
+| population_density_metro_sq_mi  = 
+| population_urban                = 
+| population_density_urban_km2    = 
+| population_density_urban_sq_mi  = 
+| population_blank1_title         = 
+| population_blank1               = 
+| population_density_blank1_km2   = 
+| population_density_blank1_sq_mi = <!-- General information  --------------->
+| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| coordinates                     = {{coord|27|53|56|N|81|58|27|W|region:US-FL|display=inline,title}}
+| elevation_footnotes             = <ref name="GR3"/>
+| elevation_m                     = 
+| elevation_ft                    = 115
+<!-- Area/postal codes & others -------->| postal_code_type                = [[ZIP code]]
+| postal_code                     = 33860
+| area_code                       = [[Area code 863|863]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 12-47200<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0287439<ref name="GR3">{{GNIS|287439}}</ref>
+| website                         = {{official URL}}
+| footnotes                       = 
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 4257
+}}
+'''Mulberry''' is a city in [[Polk County, Florida|Polk County]], [[Florida]], United States. The population was 3,817 at the 2010 census. Mulberry is home to [[Badcock Home Furniture]]. It is part of the [[Lakeland, Florida|Lakeland]]–[[Winter Haven, Florida|Winter Haven]] [[Lakeland–Winter Haven metropolitan area|Metropolitan Statistical Area]], with parts of unincorporated Lakeland on its northern boundary. Mulberry is home to the 334 acre [[Alafia River Reserve]].
+
+==History==
+The first white settlers appeared in the Mulberry area in the 1840s.<ref name="History of Mulberry">{{cite web
+| url = http://www.mulberrychamber.org/History_Of_Mulberry.cfm
+| title = History of Mulberry
+| access-date = November 20, 2013
+| publisher = Mulberry Chamber of commerce
+}}</ref> The first industry in Mulberry was logging the longleaf yellow pine which dominated the area. Eventually the settlement grew to include log homes, stores, and saloons. The nearest sheriff and jail were hours away in [[Bartow, Florida|Bartow]], and the town resembled a scene from the [[Old West]] as mob rule prevailed. Everyone carried a gun, and Monday morning was a busy time for the coroner as he dealt with the victims of Saturday night's "troublemakers."<ref name="History of Mulberry"/>
+
+The town had no official name, but the railroad which came through town stopped at a mulberry tree to let off passengers and drop off the mail.<ref>{{cite news | url=https://news.google.com/newspapers?nid=1346&dat=19600814&id=W38wAAAAIBAJ&sjid=PPoDAAAAIBAJ&pg=6912,1492998&hl=en | title=First Polk Settlers Had to Build Towns, Then Name Them | work=[[Lakeland Ledger]] | date=14 August 1960 | access-date=22 April 2015 | author=Whitehead, Bill | page=7-A}}</ref> The old mulberry tree became the [[de facto]] meeting place in town, and eventually gave the town its name. Several hangings took place from this mulberry tree.<ref name="History of Mulberry"/> In 1886, [[phosphate rock]] was discovered in the [[Peace River (Florida)|Peace River]], and the dominant logging industry gave way to mining operations. The phosphate industry gave the town stability, leading to Mulberry's incorporation in 1901. In 1910, Mulberry's Masonic lodge was established and remains operational today.
+
+===Florida Pebble Strike===
+By 1919, many miners had joined the [[International Union of Mine, Mill, and Smelter Workers]]. In April of that year, the union called a strike asking for a minimum wage and an eight-hour work day, after which the mining companies brought in strikebreakers from Georgia. Electricity was cut off from both Mulberry and Fort Meade. On the evening of August 21, 1919, four mine guards for the Prairie Pebble Phosphate Company opened fire upon the town in an apparent attempt to break the strike, claiming that a man had shot at the power house in which they were sheltered. During the indiscriminate shooting, two adults were wounded and a two-year-old child was killed after being shot through the heart. Later that night, another black man was killed when the guards continued firing in Mulberry's black neighborhood. The sheriff's investigation found no evidence of a firearm in the accused man's possession nor at the location from which it was claimed he had fired. After quelling the rage of the townspeople, who wanted to attack the power house and mine guards, the sheriff arrested the four mine guards shortly after midnight.<ref>{{Cite web|url=https://ufdc.ufl.edu/UF00091504/00921/1x|title = The Kissimmee Valley gazette}}</ref><ref name="Voogd">{{cite book|last1=Voogd|first1=Jan|title=Race Riots and Resistance: The Red Summer of 1919|date=2008|isbn=9781433100673}}</ref>
+
+===Lynchings===
+The [[Ku Klux Klan]] maintained a presence in Mulberry, with the last public march occurring in 1979. At least six black people were lynched in the early 1900s, as well as at least one white man.<ref name="Moore lynchings">{{cite news |last1=Moore |first1=Kimberly C |title=Lynchings, Klan activity part of Polk's history |url=https://www.theledger.com/news/20180505/lynchings-klan-activity-part-of-polks-history |access-date=21 September 2020 |publisher=Lakeland Ledger |date=May 5, 2018}}</ref><ref>{{Cite web|url=http://www.africanamerica.org/topic/an-example-why-florida-is-looking-pretty-stupid|title = An example why Florida is looking pretty stupid}}</ref>
+
+==Geography and climate==
+
+[[File:Mulberry Trail.jpg|thumb|Mulberry Trail]]
+
+Mulberry is located within the Central Florida Highlands area of the [[Atlantic coastal plain]] with a terrain consisting of flatland interspersed with gently rolling hills.<ref name="Florida's Geological History">{{cite web
+| url = http://edis.ifas.ufl.edu/uw208
+| title = Florida's Geological History
+| access-date = 2010-10-14
+| publisher = University of Florida
+}}</ref>
+
+According to the [[United States Census Bureau]], the city has a total area of 3.2 square miles (8.3&nbsp;km{{sup|2}}), of which 3.1 square miles (8.0&nbsp;km{{sup|2}}) is land and 0.1 square mile (0.4&nbsp;km{{sup|2}}) (4.36%) is water.
+
+Mulberry is located at the junction of [[Florida State Road 60|state roads 60]] and [[Florida State Road 37|37]].
+
+Mulberry is located in the humid subtropical zone of the ([[Köppen climate classification]]: ''Cfa'').<ref name="Koppen">{{cite web
+| url = http://koeppen-geiger.vu-wien.ac.at/
+| title = World Map of the Köppen-Geiger climate classification updated
+| date = 2008-11-06
+| access-date = 2010-09-10
+| publisher = University of Veterinary Medicine Vienna
+}}</ref>
+
+==Demographics==
+{{US Census population
+|1910= 1418
+|1920= 1499
+|1930= 2029
+|1940= 1502
+|1950= 2024
+|1960= 2922
+|1970= 2701
+|1980= 2932
+|1990= 2988
+|2000= 3230
+|2010= 3817
+|estyear=2019
+|estimate=4257
+|estref=<ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2019.html|date=May 24, 2020|title=Population and Housing Unit Estimates|publisher=United States Census Bureau|access-date=May 27, 2020}}</ref>
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015}}</ref>
+}}
+
+As of the [[census]]<ref name="GR2" /> of 2000, there were 3,230 people, 1,328 households, and 925 families residing in the city. The [[population density]] was 1,053.3 inhabitants per square mile (406.2/km{{sup|2}}). There were 1,611 housing units at an average density of 525.3 per square mile (202.6/km{{sup|2}}). The [[Race and ethnicity in the United States Census|racial makeup]] of the city was 76.5% White, 20.0% African American, 0.2% Native American, 0.3% Asian, 1.7% other races, and 1.3% from two or more races. Hispanic or Latino of any race were 4.4% of the population.
+
+There were 1,328 households, out of which 25.0% had children under the age of 18 living with them, 50.0% were [[marriage|married couples]] living together, 15.6% had a female householder with no husband present, and 30.3% were non-families. 25.5% of all households were made up of individuals, and 14.4% had someone living alone who was 65 years of age or older. The average household size was 2.43 and the average family size was 2.87.
+
+In the city, the population was spread out, with 23.3% under the age of 18, 7.6% from 18 to 24, 22.3% from 25 to 44, 21.1% from 45 to 64, and 25.7% who were 65 years of age or older. The median age was 42 years. For every 100 females, there were 92.1 males. For every 100 females age 18 and over, there were 88.9 males.
+
+The median income for a household in the city was $28,247, and the median income for a family was $28,860. Males had a median income of $29,417 versus $20,965 for females. The [[per capita income]] for the city was $14,828. About 14.7% of families and 16.6% of the population were below the [[poverty line]], including 32.2% of those under age 18 and 9.4% of those age 65 or over.
+
+==Economy==
+The economy of Mulberry is dominated by phosphate mining. The [[Bone Valley]] is the world's most productive [[phosphate rock]] mining area. According to the Chamber of Commerce, Mulberry is the "Official Phosphate Capitol of the World."<ref name="Get to Know Mulberrys">{{cite web
+| url = http://www.mulberrychamber.org/mulberryInfo.htm
+| title = Get to Know Mulberry
+| access-date = 2010-09-18
+| publisher = Mulberry Chamber of Commerce
+}}</ref> [[The Mosaic Company]] operates the [[Nichols, Florida|Nichols]] mine approximately two miles east of town. Mulberry is the home of [[Badcock Home Furniture]], whose first store was opened in Mulberry in 1904 and which now extends to 382 stores throughout the southeast United States.<ref name="Get to Know Mulberrys"/>
+
+==Arts and Humanities==
+
+[[File:Mulberry Cultural Center.jpg|thumb|Mulberry Cultural Center]]
+
+The Mulberry Cultural Center opened in the fall of 2015 and has since gone on to feature over 25 different art and humanities exhibits.<ref>http://www.mulberryculturalcenter.org</ref> They also host a variety of culturally enriching programs for all ages.
+
+In 2018 the Mulberry Murals Initiative was founded in order to bring art to people of all backgrounds. These public art displays have been commissioned by the City of Mulberry, and are displayed throughout the city.<ref>{{Cite web|url=https://www.theledger.com/news/20190615/mulberry-reviving-itself-through-power-of-art|title = Mulberry reviving itself through 'power of art'}}</ref>
+
+==Transportation==
+* [[Florida State Road 37|State Road 37]], which leads north toward [[Lakeland, Florida|Lakeland]] and south toward [[Bradley Junction, Florida|Bradley Junction]] Two rail lines intersect in the middle of the highway about a half mile south of the intersection of SR 37 and SR 60
+* [[Florida State Road 60|State Road 60]], leading west toward [[Brandon, Florida|Brandon]] and east toward [[Bartow, Florida|Bartow]] and [[Lake Wales, Florida|Lake Wales]].
+
+==Education==
+Public schools in Mulberry are operated by the [[Polk County School Board]]. The three elementary schools in the area are Kingsford, Purcell, and Sikes. Mulberry Middle and [[Mulberry High School (Mulberry, Florida)|Mulberry High]] round out the educational system in Mulberry.<ref name="Mulberry Schools">{{cite web
+| url = http://www.mulberrychamber.org/mulberrySchools.htm
+| title = Mulberry Schools
+| access-date = 2010-09-18
+| publisher = Mulberry Chamber of Commerce
+}}</ref> Mulberry Christian Academy is a private elementary school where financial aid is available to families who qualify.
+
+==Library==
+The Mulberry Public Library is a member of the Polk County Library Cooperative.<ref>{{Cite web|url=https://pclc.ent.sirsi.net/client/en_US/mulberry/search/registration/$N/?pc=MUL_SYMWS|title = Online Pre-registration for a Temporary Library Card}}</ref> The library is located at 905 NE 5th Street, Mulberry, FL 33860.<ref>https://mulberrylibrary.com/contact-us/</ref> Offers a variety of resource including video games, books, DVDs, audio-books, CDs, and digital materials. The library also hosts a number of programs for the community.<ref>https://mulberrylibrary.com/about/</ref>
+
+==Media==
+{{See also|Media in Tampa Bay}}
+Mulberry is part of the [[Tampa, Florida|Tampa]]–[[Saint Petersburg, Florida|St. Pete]] television market, the 13th largest in the country and part of the local [[Lakeland–Winter Haven metropolitan area|Lakeland-Winter Haven]] radio market, which is the 94th largest in the country.<ref name="Top Nielsen Markets">{{cite web
+| url = http://tvbythenumbers.com/2008/09/10/nielsen-local-television-market-universe-estimates/5037
+| title = Top Nielsen Markets
+| access-date = 2010-10-19
+| publisher = TV By the Numbers
+}}</ref><ref name="Arbitron Markets">{{cite web
+| url = http://www.arbitron.com/home/mm001050.asp
+| title = Arbitron Markets
+| access-date = 2010-10-19
+| publisher = Arbitron
+}}</ref>
+
+==Sinkholes==
+On June 15, 1994, a sinkhole appeared in a toxic waste disposal pond near the city of Mulberry. [[Phosphogypsum]], the byproduct of the phosphate fertilizer industry, is highly toxic and mildly radioactive. The 110 feet wide and 200 feet deep sinkhole dumped this toxin into caves that lead to the [[Floridan Aquifer]]. Drinking water for over ten million Florida residents comes from this aquifer.<ref>{{cite web|title=Regional Assessment of Groundwater Quality in the Floridan, Biscayne, and Surficial Aquifer Systems|url=http://water.usgs.gov/nawqa/studies/praq/flordn/|access-date=12 May 2016}}</ref>
+The company mining the phosphate, [[IMC Global|IMC-Agrico]], now a part of [[The Mosaic Company]], started the sinkhole remediation process immediately. It has spent over $6 million trying to repair the damage to the Florida water supply.
+<ref name="1994 Mulberry Florida Sinkhole">{{cite web
+| url = http://sinkholereport.com/aquifer-contamination-due-florida-sinkhole-1994-phosphate-plant-polk-county-fl
+| title = Polk County Sinkhole near Mulberry
+}}</ref><ref>"[http://news.nationalgeographic.com/news/2010/06/photogalleries/100604-sinkhole-pictures-around-the-world-guatemala-city/ Mulberry, Florida, Sinkhole]," ''National Geographic,'' June 2010. Retrieved 29 Sept. 2016.</ref>
+
+On August 27, 2016, the Mosaic Company discovered a giant sinkhole under a gypsum stack. Over 200 million gallons of water contaminated with phosphogypsum disappeared into its 45-foot wide maw.<ref>Lush, Tamara and Jason Dearen, "[http://www.orlandosentinel.com/news/environment/os-ap-florida-sinkhole-contaminates-water-20160929-story.html Neighbors anxious after Florida sinkhole contaminates water]," ''Associated Press'' in the ''Orlando Sentinel,'' 29 Sept. 2016. Retrieved 29 Sept. 2016.</ref>
+
+== See also ==
+* [[Mulberry (uranium alloy)]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons category|Mulberry, Florida}}
+{{Wikivoyage|Mulberry (Florida)|Mulberry, Florida}}
+* {{official}}
+* [http://www.mulberrychamber.org/ Greater Mulberry Chamber of Commerce]
+* Images Provided by [http://ashleyholstein.com/ Ashley Holstein Photography]
+
+{{Polk County, Florida}}
+
+{{authority control}}
+
+[[Category:Mulberry, Florida| ]]
+[[Category:Cities in Polk County, Florida]]
+[[Category:Cities in Florida]]

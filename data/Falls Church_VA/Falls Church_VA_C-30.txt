@@ -1,0 +1,452 @@
+# Revision ID: 1263655263
+# Timestamp: 2024-12-17T22:42:51Z
+
+{{Short description|Independent city in Virginia, United States}}
+{{Redirect|Falls Church}}
+{{Use American English|date=July 2022}}
+{{Use mdy dates|date=August 2024}}
+{{Infobox settlement
+| name               = Falls Church, Virginia
+| settlement_type    = [[Independent city (United States)|Independent city]]
+| image_skyline      = Condo building in downtown Falls Church.jpg
+| imagesize          = 
+| image_caption      = Downtown Falls Church
+| image_flag         = Flag of Falls Church, Virginia.png
+| image_seal         = Seal of Falls Church, Virginia.png
+| pushpin_map        = USA Virginia Northern#USA Virginia#USA
+| pushpin_label      = Falls Church
+| pushpin_label_position = bottom
+| image_map          = Map showing Falls Church city, Virginia.png
+| mapsize            = 200px
+| map_caption        = Location of Falls Church in [[Virginia]]
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_type1  = [[U.S. state|State]]
+| subdivision_type2  = 
+| subdivision_name   = {{Flagu|United States}}
+| subdivision_name1  = {{flag|Virginia|size=23px}}
+| subdivision_name2  = 
+| government_type    = [[Council–manager government|Council–manager]]
+| leader_title       = Mayor
+| leader_name        = Letty Hardi<ref>https://www.fallschurchva.gov/384/City-Council</ref>
+| established_title1 = Settled
+| established_date1  = c. 1699
+| established_title2 = Incorporated (town)
+| established_date2  = 1875
+| established_title3 = Incorporated (city)
+| established_date3  = 1948
+| unit_pref          = Imperial
+| area_magnitude     = 
+| area_total_sq_mi   = 2.05
+| area_land_sq_mi    = 2.05
+| area_water_sq_mi   = 0.00
+| area_urban_sq_mi   = 
+| area_urban_km2     = 
+| area_metro_sq_mi   = 
+| area_metro_km2     = 
+| population_as_of   = [[2020 United States census|2020]]
+| population_note    = 
+| population_total   = 14658
+| pop_est_as_of      = 
+| population_est     = 
+| population_metro   = 
+| population_urban   = 
+| population_density_sq_mi = auto
+| timezone           = [[Eastern Time Zone|EST]]
+| utc_offset         = −5
+| timezone_DST       = [[Eastern Daylight Time|EDT]]
+| utc_offset_DST     = −4
+| coordinates        = {{coord|38|53|09|N|77|10|20|W|region:US-VA|display=inline,title}}
+| elevation_m        = 99
+| elevation_ft       = 328
+| postal_code_type   = [[ZIP Code]]s
+| postal_code        = 22040, 22042, 22044, 22046
+| area_code          = [[Area code 703|703]] and [[Area code 571|571]]
+| blank_name         = [[Federal Information Processing Standard|FIPS code]]
+| blank_info         = 51-27200
+| blank1_name        = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info        = 1495526<ref name=GNIS1>{{Cite GNIS|1495526|Falls Church}}</ref>
+| website            = {{URL|fallschurchva.gov}}
+| footnotes          = Sister city is [[Kokolopori]], [[Democratic Republic of Congo]]
+| pop_est_footnotes  = 
+| area_footnotes     = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_51.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+| area_total_km2     = 5.30
+| area_land_km2      = 5.30
+| area_water_km2     = 0.00
+| population_density_km2 = auto
+| image_map1         = Falls Church-Location.svg
+| map_caption1       = Falls Church highlighted red in the Commonwealth of [[Virginia]]
+}}
+
+'''Falls Church''' is an [[independent city (United States)|independent city]] in the [[Commonwealth (U.S. state)|Commonwealth]] of [[Virginia]], United States.<ref name=GNIS1/> As of the [[2020 United States census|2020 census]], the population was 14,658.<ref>{{Cite web|title=Falls Church city, Falls Church city, Virginia|url=https://data.census.gov/cedsci/profile?g=0600000US5161093531|website=[[United States Census Bureau]]|access-date=January 30, 2022}}</ref> Falls Church is part of both [[Northern Virginia]] and the [[Washington metropolitan area]]. As of 2020, it has a median household income of $146,922, the [[List of highest-income counties in the United States|second-highest household income]] of any county in the nation behind [[Loudoun County, Virginia]].
+
+Taking its name from [[The Falls Church]], an 18th-century [[Church of England]], later the [[Episcopal Church (United States)|Episcopal Church]], Falls Church gained township status within [[Fairfax County, Virginia|Fairfax County]] in 1875.
+
+In 1948, it seceded from Fairfax County and was incorporated as the City of Falls Church, an independent city with county-level governance status although it is not nominally a county.<ref>{{cite web |url=http://library1.municode.com:80/default-test/template.htm?view=browse&doc_action=setdoc&doc_keytype=tocid&doc_key=6ec2ad22ea16c9281cae3c80eb841477&infobase=14329 |title=Municipal Code of the City of Falls Church: Incorporation and Boundaries |publisher=Library1.municode.com:80 |access-date=May 14, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120121010054/http://library1.municode.com/default-test/template.htm?view=browse&doc_action=setdoc&doc_keytype=tocid&doc_key=6ec2ad22ea16c9281cae3c80eb841477&infobase=14329 |archive-date=January 21, 2012}}</ref>
+
+The city's corporate boundaries do not include all of the area historically known as Falls Church; these areas include portions of [[Seven Corners, Virginia|Seven Corners]] and other portions of the current Falls Church postal districts in Fairfax County and [[Arlington County, Virginia|Arlington County]], known as [[East Falls Church, Virginia|East Falls Church]], which was part of the town of Falls Church from 1875 to 1936.<ref>Gernard and Netherton, ''Falls Church: A Virginia Village Revisited'', p.65.</ref> For statistical purposes, the [[United States Department of Commerce|U.S. Department of Commerce]]'s [[Bureau of Economic Analysis]] combines the City of Falls Church with [[Fairfax, Virginia|Fairfax City]] and Fairfax County.
+
+At 2.11 square miles, Falls Church is the smallest incorporated municipality in the Commonwealth of Virginia and the smallest county-equivalent municipality in the United States.
+
+== Etymology ==
+The independent city of Falls Church is named for the 1734 [[Church of England]] (later [[Episcopal Church (United States)|Episcopal Church]]) church building named [[The Falls Church]] founded at the intersection of important Native American trails that were later paved and named Broad Street, Lee Highway and Little Falls Street.<ref>{{cite web |url=http://www.fallschurchva.gov/758/About-Falls-Church |title=About Falls Church |publisher=Fallschurchva.gov |access-date=May 14, 2012}}</ref>
+
+==History==
+{{Main|History of Falls Church}}
+The first known government in the area was the [[Iroquois Confederacy]].<ref>Bradley E. Gernand and Nan Netherton, ''Falls Church—A Virginia Village Revisited''. Virginia Beach: The Donning Company, 2000. Page 13, citing interviews with [[Fairfax County, Virginia|Fairfax County]] archaeologists Michael Johnson and Martha Williams.</ref> After exploration by [[Captain John Smith]], England began sending colonists to what they called Virginia.<ref>Gernand and Netherton, ''Falls Church'', p. 13, citing Fairfax Harrison, ''The Landmarks of Old Prince William'', pp. 143, 148.</ref> While no records have yet been found showing the earliest colony settlement in the area, a cottage demolished between 1908 and 1914, two blocks from the city center, bore a stone engraved with the date "1699" set into one of its two large chimneys.<ref>Gernand and Netherton, ''Falls Church'', p. 13, citing Melvin Steadman, ''Falls Church By Fence and Fireside'', pp. iii, x.</ref>
+
+During the [[American Revolution]] the area is most known for The Falls Church vestrymen [[George Washington]] and [[George Mason]].<ref>Gernand and Netherton, ''Falls Church'', p. 27, citing Emily Salmon and Edward Campell, ''Hornbook of Virginia History'', pp. 27–29; Nan Netherton, ''Fairfax County'', pp. 102–103; Tony Wrenn, ''Falls Church—History of a Village'', p. 6.</ref> A copy of the [[United States Declaration of Independence]] was read to citizens from the steps of The Falls Church during the summer of 1776.<ref>Gernand and Netherton, ''Falls Church'', p. 28, citing Beekman, ''Bridges and the City of Washington'', pp. v, 1, 3.</ref>
+
+During the [[American Civil War]] Falls Church voted 44–26 in favor of secession.<ref>Gernand, ''A Virginia Village Goes to War'', pp. 22–29, quoting Southern Claims Commission case files and ''Evening Star'' newspaper articles.</ref> The Confederate army occupied the then village of Falls Church as well as [[Munson's Hill|Munson's]] and [[Upton's Hill|Upton's]] hills to the East, probably due to their views of [[Washington, D.C.|Washington]].<ref>Gernand, pp.&nbsp;56–62, quoting ''Evening Star'', ''New York Times'' and ''Hartford Courant'' newspaper articles and regimental histories.</ref> On September 28, 1861, Confederate troops withdrew from Falls Church and nearby hills, retreating to the heights at [[Centreville, Virginia|Centreville]]. Union troops took Munson's and Upton's hills, yet the village was never entirely brought under Union rule.<ref>Gernand, ''A Virginia Village Goes to War'', pp. 98–100, quoting newspaper articles published in the ''New York Times'', ''Evening Star'', ''Elmira Weekly Advertiser'', ''Buffalo Daily Courier'', several regimental histories, and soldiers' letters home.</ref> [[Mosby's Raiders (American Civil War)|Mosby's Raiders]] made several armed incursions into the heart of Falls Church to kidnap and murder suspected Northern sympathizers in 1864 and 1865.<ref>Gernand, ''A Virginia Village Goes to War'', pp. 191–195, 200–201, 203–211, quoting Southern Claims Commission case files; books regarding Mosby's Raiders; and a local history of Falls Church which cites family members’ statements.</ref>
+
+===Historic sites===
+{{Further|Big Chimneys|Boundary Markers of the Original District of Columbia}} 
+[[Cherry Hill Farmhouse]] and Barn, an 1845 [[Greek Revival architecture|Greek-Revival]] farmhouse and 1856 barn, owned and managed by the city of Falls Church, are open to the public on select Saturdays in summer.<ref>{{cite web |title=About Cherry Hill |publisher=Friends of Cherry Hill Foundation, Inc. |url=http://cherryhillfallschurch.org/?page_id=23 |access-date=July 12, 2012}}</ref> [[Tinner Hill]] Arch and Tinner Hill Heritage Foundation represent a locus of early African American history in the area, including the site of the first rural chapter of the [[NAACP]].<ref>{{cite news |last=Moreno |first=Sylvia |url=https://www.washingtonpost.com/archive/local/1998/06/03/falls-church-recalls-role-in-naacp-history/d40c8ace-e462-495a-a52b-d99107b887e1/ |title=FALLS CHURCH RECALLS ROLE IN NAACP HISTORY |newspaper=[[The Washington Post]] |date=June 3, 1998 |access-date=December 31, 2021 }}</ref>
+
+Two of the District of Columbia's original 1791 boundary stones are located in public parks on the boundary between Falls Church and [[Arlington County, Virginia|Arlington County]]. The west cornerstone stands in [[Andrew Ellicott]] Park at 2824 Meridian Street, Falls Church and N. Arizona Street, Arlington, just south of West Street.<ref>West cornerstone: {{Hanging indent | {{cite book|last1=Steadman|first1=Melvin Lee Jr.|title=Falls Church: By Fence and Fireside|date=1964|publisher=Falls Church Public Library}}{{rp|3}}}} {{Hanging indent |{{cite web|title=Boundary Stones of the District of Columbia|url=http://www.boundarystones.org/|website=Boundary Stones of the District of Columbia|access-date=February 19, 2010|archive-url=https://web.archive.org/web/20141227000000/http://www.boundarystones.org/|archive-date=December 27, 2014}}}} {{Hanging indent |{{cite web|title=Andrew Ellicott Park at the West Cornerstone|url=http://parks.arlingtonva.us/locations/andrew-ellicott-park-west-cornerstone/|website=Arlington County, Virginia|access-date=March 31, 2014|archive-url=https://web.archive.org/web/19961018074749/http://www.arlingtonva.us/|archive-date=October 18, 1996}}}}</ref> Stone number SW9 stands in [[Benjamin Banneker]] Park on Van Buren Street, south of 18th Street, near the [[East Falls Church station|East Falls Church]] Metro station. Most of Banneker Park is in Arlington County, across Van Buren Street from Isaac Crossman Park at Four Mile Run.<ref>Stone SW9: {{Hanging indent |{{cite web|title=Boundary Stones of the District of Columbia|url=http://www.boundarystones.org/|website=Boundary Stones of the District of Columbia|access-date=February 19, 2010|archive-url=https://web.archive.org/web/20141227000000/http://www.boundarystones.org/|archive-date=December 27, 2014}}}} {{Hanging indent |{{cite web|title=Isaac Crossman Park at Four Mile Run|url=http://parks.arlingtonva.us/locations/isaac-crossman-park-four-mile-run/|website=Arlington County, Virginia|access-date=March 31, 2014|archive-url=https://web.archive.org/web/19961018074749/http://www.arlingtonva.us/|archive-date=October 18, 1996}}}}</ref>
+
+====Sites on the National Register of Historic Places====
+{| cellspacing="2" cellpadding="2" style="width: 60%; border-style:solid; border-width:1px; border-color:gray; background:#efefef; width:810px"
+|-style="background:#efefef;"
+! Site
+! Year built
+! Address
+! Listed
+|-style="vertical-align:top; text-align:center; background:#dce5e5; text-align:left;"
+|| [[Birch House (Falls Church, Virginia)|Birch House]] (Joseph Edward Birch House)
+|| 1840
+|| 312 East Broad Street
+|| 1977
+|-style="vertical-align:top; text-align:center; background:#dce5e5; text-align:left;"
+|| [[Cherry Hill Farmhouse|Cherry Hill]] (John Mills Farm)
+|| 1845
+|| 312 Park Avenue
+|| 1973
+|-style="vertical-align:top; text-align:center; background:#dce5e5; text-align:left;"
+|| [[The Falls Church]]
+|| 1769
+|| 115 East Fairfax Street
+|| 1970
+|-style="vertical-align:top; text-align:center; background:#dce5e5; text-align:left;"
+|| [[Boundary Markers of the Original District of Columbia|Federal District Boundary Marker, SW 9 Stone]]
+|| 1791
+| style="text-align:left;"|18th and Van Buren Streets
+|| 1976
+|-style="vertical-align:top; text-align:center; background:#dce5e5; text-align:left;"
+|| [[Boundary Markers of the Original District of Columbia|Federal District Boundary Marker, West Cornerstone]]
+|| 1791
+|| 2824 Meridian Street
+|| 1991
+|-style="vertical-align:top; text-align:center; background:#dce5e5; text-align:left;"
+|| [[Mount Hope (Falls Church, Virginia)|Mount Hope]]
+|| 1790s
+|| 203 South Oak Street
+|| 1984
+|}
+
+==Geography==
+According to the [[United States Census Bureau|U.S. Census Bureau]], the city has a total area of {{convert|2.0|sqmi|km2}}, all of it land and none of it water.<ref name="GR1">{{cite web|url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html|publisher=[[United States Census Bureau]]|access-date=April 23, 2011|date=February 12, 2011|title=US Gazetteer files: 2010, 2000, and 1990}}</ref> Falls Church is the smallest independent city by area in Virginia. Since independent cities in Virginia are considered county-equivalents, it is also the [[County statistics of the United States|smallest county-equivalent in the United States]] by area.
+
+The center of the city is the crossroads of [[Virginia State Route 7]] (Broad St./Leesburg Pike) and [[U.S. Route 29]] (Washington St./Lee Highway).
+
+Tripps Run, a tributary of the [[Cameron Run Watershed]], drains two-thirds of Falls Church, while the [[Four Mile Run]] watershed drains the other third of the city. Four Mile Run flows at the base of [[Minor's Hill]], which overlooks Falls Church on its north, and [[Upton's Hill]], which bounds the area to its east.<ref>{{cite web |url=http://www.fallschurchenvironment.org/hills_valleys.html |title=The Hills and Valleys of Falls Church |publisher=Fallschurchenvironment.org |access-date=May 14, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120226155054/http://www.fallschurchenvironment.org/hills_valleys.html |archive-date=February 26, 2012}}</ref>
+
+==Demographics==
+{{US Census population
+|1880= 660
+|1890= 792
+|1900= 1007
+|1910= 1128
+|1920= 1659
+|1930= 2019
+|1940= 2576
+|1950= 7535
+|1960= 10192
+|1970= 10772
+|1980= 9515
+|1990= 9578
+|2000= 10377
+|2010= 12332
+|2020= 14658
+|estyear=
+|estimate=
+|estref=
+|align-fn=center
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing from 1790|publisher=[[US Census Bureau]]|access-date=January 24, 2022}}</ref><br />1790–1960<ref>{{cite web|url=http://mapserver.lib.virginia.edu|title=Historical Census Browser|publisher=University of Virginia Library|access-date=January 2, 2014}}</ref> 1900–1990<ref>{{cite web|url=https://www.census.gov/population/cencounts/va190090.txt|title=Population of Counties by Decennial Census: 1900 to 1990|publisher=United States Census Bureau|access-date=January 2, 2014}}</ref><br />1990–2000<ref>{{cite web|url=https://www.census.gov/population/www/cen2000/briefs/phc-t4/tables/tab02.pdf |archive-url=https://ghostarchive.org/archive/20221009/https://www.census.gov/population/www/cen2000/briefs/phc-t4/tables/tab02.pdf |archive-date=October 9, 2022 |url-status=live|title=Census 2000 PHC-T-4. Ranking Tables for Counties: 1990 and 2000|publisher=United States Census Bureau|access-date=January 2, 2014}}</ref> 2010<ref name=2010CensusP2/> 2020<ref name=2020CensusP2/>
+}}
+
+===2020 census===
+{| class="wikitable"
+|+'''Falls Church city, Virginia – Demographic Profile'''<br> (''NH = Non-Hispanic'')
+!Race / Ethnicity
+!Pop 2010<ref name=2010CensusP2>{{Cite web|title=P2 HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE – 2010: DEC Redistricting Data (PL 94-171) – Falls Church city, Virginia|url=https://data.census.gov/cedsci/table?q=p2&g=1600000US5127200&tid=DECENNIALPL2010.P2|website=[[United States Census Bureau]]}}</ref>
+!Pop 2020<ref name=2020CensusP2>{{Cite web|title=P2 HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE – 2020: DEC Redistricting Data (PL 94-171) – Falls Church city, Virginia|url=https://data.census.gov/cedsci/table?q=p2&g=1600000US5127200&tid=DECENNIALPL2020.P2|website=[[United States Census Bureau]]}}</ref>
+!% 2010
+!% 2020
+|-
+|[[Non-Hispanic or Latino whites|White]] alone (NH)
+|9,093
+|9,955
+|73.73%
+|67.92%
+|-
+|[[Non-Hispanic or Latino African Americans|Black or African American]] alone (NH)
+|523
+|554
+|4.24%
+|3.78%
+|-
+|[[Native Americans in the United States|Native American]] or [[Alaska Native]] alone (NH)
+|23
+|12
+|0.19%
+|0.08%
+|-
+|[[Asian Americans|Asian]] alone (NH)
+|1,150
+|1,494
+|9.33%
+|10.19%
+|-
+|[[Pacific Islander Americans|Pacific Islander]] alone (NH)
+|4
+|10
+|0.03%
+|0.07%
+|-
+|[[Race and ethnicity in the United States census|Some Other Race]] alone (NH)
+|20
+|117
+|0.16%
+|0.80%
+|-
+|[[Multiracial Americans|Mixed Race/Multi-Racial]] (NH)
+|410
+|987
+|3.32%
+|6.73%
+|-
+|[[Hispanic and Latino Americans|Hispanic or Latino]] (any race)
+|1,109
+|1,529
+|8.99%
+|10.43%
+|-
+|'''Total'''
+|'''12,332'''
+|'''14,658'''
+|'''100.00%'''
+|'''100.00%'''
+|}
+''Note: the US Census treats Hispanic/Latino as an ethnic category. This table excludes Latinos from the racial categories and assigns them to a separate category. Hispanics/Latinos can be of any race.''
+
+==Economy==
+{{see also|List of companies headquartered in Northern Virginia}}
+In 2011, Falls Church was named the richest county (or county equivalent) in the United States, with a median annual household income of $113,313.<ref>Vardi, Nathan [https://www.forbes.com/2011/04/11/americas-richest-counties-business-washington.html?_r=1&hp "America's Richest Counties"], ''Forbes'', April 11, 2011, accessed June 6, 2011.</ref> While [[Fortune 500]] companies [[General Dynamics]] and [[Northrop Grumman]] have headquarters with mailing addresses in Falls Church, they are physically in [[Fairfax County, Virginia|Fairfax County]].<ref>General Dynamics: {{Hanging indent | {{cite web|title=Contacts|url=http://gd.com/about/contacts/business-units-contacts/|access-date=August 30, 2012|website=General Dynamics|archive-url=https://web.archive.org/web/20150909223253/http://www.gd.com/about/contacts/business-units-contacts/|archive-date=September 9, 2015|url-status=dead}}}} Northrop Grumman:{{Hanging indent | {{cite web|title=Locations|url=http://www.northropgrumman.com/locations/index.html|access-date=August 30, 2012|website=Northrop Grumman|archive-date=January 20, 2013|archive-url=https://web.archive.org/web/20130120114952/http://www.northropgrumman.com/locations/index.html|url-status=dead}}}}</ref>
+
+===Top employers===
+According to the city's 2021 Annual Comprehensive Financial Report,<ref>{{Cite web|url=http://www.fallschurchva.gov/ArchiveCenter/ViewFile/Item/1646 |format=PDF |title=2021 Annual Comprehensive Financial Report, City of Falls Church |access-date=August 7, 2023}}</ref> the top employers in the city are:
+
+{| class="wikitable"
+|-
+! Employer
+! Employees
+|-
+|[[Falls Church City Public Schools]]
+|564
+|-
+|City of Falls Church
+|295
+|-
+|[[Kaiser Permanente]]
+|286
+|-
+|Markon Solutions
+|242
+|-
+|Koons Ford
+|180
+|-
+|[[Tax Analysts]]
+|174
+|-
+|VL Home Health Care, Inc
+|160
+|-
+|[[Harris Teeter]]
+|150
+|-
+|Don Beyer Volvo
+|113
+|-
+|[[Giant-Landover|Giant Food]]
+|100
+|-
+|}
+The city has broken ground on several redevelopment projects to be completed in the next few years, including the [https://www.fallschurchva.gov/1599/West-Falls-Church-Project West Falls Church Economic Development Project] and [https://www.fallschurchva.gov/1381/Founders-Row-Broad-and-West-Streets Founders Row] along Route 7/Broad street.
+
+==Arts and culture==
+===Annual events===
+The city holds an annual Memorial Day Parade with bands, military units, civic associations, and fire/rescue stations, in recent years the event has featured a street festival with food, crafts, and non-profit organization booths, and a 3K fun run (the 2009 race drew some 3,000 runners).<ref>{{cite web |url=http://www.fcnp.com/archives/4532-city-officials-gleeful-of-fc-memorial-day-turnout.html |title=Article in ''Falls Church News-Press'', May 2009 |publisher=Fcnp.com |date=May 28, 2009 |access-date=May 14, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120223150514/http://www.fcnp.com/archives/4532-city-officials-gleeful-of-fc-memorial-day-turnout.html |archive-date=February 23, 2012}}</ref> the Falls Church [[Farmer's Market]] is held Saturdays year-round, Jan 3 – April 25 (9 am – Noon), May 2 – Dec 26 (8 am – Noon), at the City Hall Parking Lot, 300 Park Ave. In addition to regional attention,<ref>{{cite web|url=http://www.dcfoodies.com/2009/02/falls-church-farmers-market-1.html |title=Stephanie Willis, "Falls Church Farmer's Market," D.C. Foodies, Feb. 2, 2009 |publisher=Dcfoodies.com |access-date=May 14, 2012}}</ref> in 2010 the market was ranked first in the medium category of the American Farmland Trust's contest to identify America's Favorite Farmers' Markets.<ref>{{cite web |url=http://action.farmland.org/site/PageServer?pagename=top_20_americas_favorite_farmers_markets |title=American Farmland Trust: Current Top 20 America's Favorite Farmers Markets |publisher=Action.farmland.org |access-date=May 14, 2012 |archive-url=https://web.archive.org/web/20110904003003/http://action.farmland.org/site/PageServer?pagename=top_20_americas_favorite_farmers_markets |archive-date=September 4, 2011 |url-status=dead }}</ref>
+
+===Cultural institutions===
+[[File:Mary Riley Styles Public Library.jpg|alt=Falls Church Public library|thumb|Mary Riley Styles Public Library]]
+[[File:The State Theatre.jpg|thumb|The State Theatre]]
+The Falls Church Village Preservation and Improvement Society was founded in 1885 by Arthur Douglas and re-established in 1965 to promote the history, culture, and beautification of the city. The Tinner Hill Heritage Foundation was founded in 1997 by Edwin B. Henderson II to preserve the Civil Rights and African American history and culture. Falls Church is where the first rural branch of the NAACP was established stemming from events that took place in 1915, when the town passed a segregation ordinance by creating segregated districts in the town. The ordinance was not enforced after the U. S. Supreme Court ruling in ''[[Buchanan v. Warley]]'' in 1917. The Mary Riley Styles Public Library is Falls Church's public library; established in 1899, its current building was constructed for the purpose in 1958 and expanded in 1993 and 2021.<ref>{{cite web | url=https://www.mrspl.org/about/about-us | title=About Us &#124; Mary Riley Styles Public Library }}</ref> In addition to its circulating collections, it houses a local history collection, including newspaper files, local government documents, and photographs. The [[State Theatre (Falls Church, Virginia)|State Theatre]] stages a wide variety of live performances. Built as a movie house in 1936, it was reputed to be the first air-conditioned theater on the east coast. It closed in 1983; after extensive renovations in the 1990s, including a stage, bar, and restaurant, it re-opened as a music venue.<ref>{{cite web|url=http://www.thestatetheatre.com/venue_info/history.xml |title=The State Theatre – History |publisher=Thestatetheatre.com |date=November 27, 1988 |access-date=May 14, 2012}}</ref>
+
+==Government==
+{{PresHead|place=Falls Church, Virginia|source=<ref>{{cite web|author=David Leip |url=http://uselectionatlas.org/RESULTS |title=Dave Leip's Atlas of U.S. Presidential Elections |publisher=Uselectionatlas.org |access-date=December 8, 2020}}</ref>}}
+<!-- PresRow should be {{PresRow|Year|Winning party|GOP vote #|Dem vote #|3rd party vote #|State}} -->
+{{PresRow|2024|Democratic|1,620|7,200|242|Virginia}}
+{{PresRow|2020|Democratic|1,490|7,146|183|Virginia}}
+{{PresRow|2016|Democratic|1,324|5,819|614|Virginia}}
+{{PresRow|2012|Democratic|2,147|5,015|114|Virginia}}
+{{PresRow|2008|Democratic|1,970|4,695|85|Virginia}}
+{{PresRow|2004|Democratic|2,074|3,944|80|Virginia}}
+{{PresRow|2000|Democratic|2,131|3,109|353|Virginia}}
+{{PresRow|1996|Democratic|1,644|2,375|265|Virginia}}
+{{PresRow|1992|Democratic|1,912|2,864|628|Virginia}}
+{{PresRow|1988|Democratic|2,470|2,484|35|Virginia}}
+{{PresRow|1984|Republican|2,684|2,398|19|Virginia}}
+{{PresRow|1980|Republican|2,485|1,703|570|Virginia}}
+{{PresRow|1976|Republican|2,323|2,202|63|Virginia}}
+{{PresRow|1972|Republican|2,967|1,895|81|Virginia}}
+{{PresRow|1968|Republican|2,005|1,860|517|Virginia}}
+{{PresRow|1964|Democratic|1,329|2,371|7|Virginia}}
+{{PresRow|1960|Democratic|1,525|1,629|11|Virginia}}
+{{PresRow|1956|Republican|1,462|1,233|57|Virginia}}
+{{PresFoot|1952|Republican|1,386|930|1|Virginia}}
+
+Falls Church is governed by a seven-member city council, each elected at large for four-year, staggered terms.<ref name="about council" /> Council members are typically career professionals holding down full-time jobs.<ref name="about council" /> In addition to attending a minimum of 22 council meetings and 22 work sessions each year, they also attend meetings of local boards and commissions and regional organizations (several Council Members serve on committees of regional organizations as well).<ref name="about council">{{cite web |url=http://www.fallschurchva.gov/Content/Government/CityCouncil.aspx |title=About the City Council |publisher=Fallschurchva.gov |date=July 14, 2008 |access-date=May 14, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120511093014/http://www.fallschurchva.gov/Content/Government/CityCouncil.aspx |archive-date=May 11, 2012}}</ref> Members also participate in the Virginia Municipal League and some serve on statewide committees.<ref name="about council" /> The [[mayor]] is elected by members of the council.<ref name="about council" /> The city operates in a typical [[Council–manager government|council–manager]] form of municipal government, with a [[city manager]] hired by the council to serve as the city's chief administrative officer.<ref name="about council" /> The city's elected Sheriff is Metin "Matt" Cay.<ref>{{Cite web|url=https://www.fallschurchva.gov/416/Sheriff|title = Sheriff &#124; Falls Church, VA – Official Website}}</ref> Candidates for city elections typically do not run under a nationally affiliated party nomination.<ref name="about council" />
+
+City services and functions include education, parks and recreation, library, police, land use, zoning, building inspections, street maintenance, and storm water and sanitary sewer service. Often named a [[Tree City USA]], the city has one full-time arborist. Some public services are provided by agreement with the city's county neighbors of Arlington and Fairfax, including certain health and human services (Fairfax); and court services, transport, and fire/rescue services (Arlington). The city provided water utility service to a large portion of eastern Fairfax County, including the dense commercial areas of [[Tysons Corner, Virginia|Tysons Corner]] and [[Merrifield, Virginia|Merrifield]], until January 2014, when the water utility was sold to the [[Fairfax County Water Authority]].<ref>{{cite web|url=http://fallschurchtimes.com/37649/city-agrees-to-sell-water-system-to-fairfax-water/|title=City Agrees to Sell Water System to Fairfax|work=Falls Church Times|access-date=August 23, 2014|archive-url=https://web.archive.org/web/20140826115128/http://fallschurchtimes.com/37649/city-agrees-to-sell-water-system-to-fairfax-water/|archive-date=August 26, 2014|url-status=dead}}</ref>
+
+==Education==
+{{Further|Falls Church City Public Schools}}
+The city is served by [[Falls Church City Public Schools]]:
+* Jessie Thackrey Preschool
+* Mount Daniel Elementary School, which includes kindergarten through second grade.
+* Oak Street Elementary, which includes grades 3–5.
+* Mary Ellen Henderson Middle School, which includes grades 6–8.
+* [[Meridian High School (Virginia)|Meridian High School]], which includes grades 9–12.
+
+Of the four Falls Church City Public Schools, one, Mount Daniel Elementary School, is located outside city limits in neighboring Fairfax County.<ref>Barton, Mary Ann. "[http://fallschurch.patch.com/groups/politics-and-elections/p/its-official-fairfax-water-purchases-falls-church-water-system-for-40-million It's Official: Fairfax Water Purchases Falls Church Water System for $40 Million]" ([https://web.archive.org/web/20151007132513/http://patch.com/virginia/fallschurch/its-official-fairfax-water-purchases-falls-church-water-system-for-40-million Archive]). ''Falls Church Patch''. Retrieved on May 2, 2015. "This agreement also included a boundary adjustment that transferred 38.4 acres of land into the City of Falls Church. The largest parcel includes the 36 acres on which the City's George Mason High School and Mary Ellen Henderson Middle School sit."</ref> [[Falls Church High School]] is not part of the Falls Church City Public School system, but rather the [[Fairfax County Public Schools]]; it does not serve the city of Falls Church.
+
+Falls Church City is eligible to send up to three students per year to the Fairfax County magnet school, [[Thomas Jefferson High School for Science and Technology]].<ref>{{cite web |title=TJHSST Eligibility Requirements |url=https://www.fcps.edu/registration/thomas-jefferson-admissions/eligibility-requirements |publisher=Fairfax County School Board |access-date=August 3, 2024 |language=en}}</ref>
+
+The city is home to Saint James Catholic School, a parochial school serving grades K–8, and Grace Christian Academy,<ref>{{cite web|title=Grace Christian Academy|url=http://www.gracechristianacademy.org/site/default.asp?sec_id=140007674}}</ref> a Pre-K to 8th grade Christian parochial school of the [[Wisconsin Evangelical Lutheran Synod]].
+
+==Media==
+The ''[[Falls Church News-Press]]'' is a free weekly newspaper founded in 1991 that focuses on local news and commentary and includes nationally syndicated columns.<ref>[http://www.fhoutfront.com/2009/07/the-publisher-qa-with-falls-church-newspress-ownereditor-nicholas-f-benton.html "The Publisher: Q&A with Falls Church News-Press Owner-Editor Nicholas F. Benton," Out Front Blog, July 7, 2009] {{webarchive |url=https://web.archive.org/web/20150201180249/http://www.fhoutfront.com/2009/07/the-publisher-qa-with-falls-church-newspress-ownereditor-nicholas-f-benton.html |date=February 1, 2015}}</ref> The area is also served by national and regional newspapers, including ''[[The Washington Times]]'' and ''[[The Washington Post]]''. The city is also served by numerous citizen- and corporate-sponsored Internet blogs. [[WAMU]] Radio 88.5 produces news and opinion programs with a local focus.
+
+==Infrastructure==
+===Transportation===
+[[File:East Falls Church Station.jpg|thumb|A [[Washington Metro]] train entering [[East Falls Church (WMATA station)|East Falls Church station]]]]
+Although two stations on the [[Washington Metro]]'s [[Orange Line (Washington Metro)|Orange Line]] have "Falls Church" in their names, neither lies within the City of Falls Church: [[East Falls Church station]] is in [[Arlington County, Virginia|Arlington County]] and [[West Falls Church station]] is in [[Fairfax County, Virginia|Fairfax County]].
+* Metro's [[Silver Line (Washington Metro)|Silver Line]], completed July 2014, serves the East Falls Church station. It runs between [[Downtown Largo station|Downtown Largo]] in the east, following the Blue Line route to [[Stadium-Armory (WMATA station)|Stadium-Armory]], the Orange and Blue Lines to [[Rosslyn (WMATA station)|Rosslyn]], and finally the Orange route alone until it reaches East Falls Church, where it branches off towards the northwest, terminating in Ashburn, servicing [[Dulles International Airport]]. East Falls Church is the westernmost designated transfer station.
+* The [[Washington Metropolitan Area Transit Authority]] provides bus service throughout the Washington metropolitan area, including Falls Church.
+* A small portion of the {{convert|45|mi|km|adj=on}} Washington and Old Dominion Railroad Trail (W&OD Trail) runs through the city (see: [[Washington & Old Dominion Railroad Regional Park]]). The trail enters the city from the west between mile markers 7 and 7.5 (near Broad Street). The trail enters the city from the east between mile markers 5.5 and 6. The W&OD Trail travels on the rail bed of the [[Washington and Old Dominion Railroad]] and various predecessor lines, which provided passenger service from 1860 to May 31, 1951, with exception of a few years during the [[U.S. Civil War]]. Freight service was abandoned when the railroad closed in August 1968. The [[Four Mile Run Trail]], which ends at an intersection with the [[Mount Vernon Trail]] near [[Ronald Reagan Washington National Airport]], begins in the city at Van Buren Street. These trails comprise a major [[bicycle]] commuting route to Washington, D.C.
+
+====Major highways====
+[[File:2016-10-06 08 58 55 View south along U.S. Route 29 and west along Virginia State Route 237 (Washington Street) at Virginia State Route 7 (Broad Street) in Falls Church, Virginia.jpg|thumb|The junction of [[U.S. Route 29 in Virginia|US 29]] and [[Virginia State Route 7|SR 7]] in Falls Church]]
+The primary roads serving Falls Church directly are [[U.S. Route 29 in Virginia|U.S. Route 29]] and [[Virginia State Route 7]]. The portion of US 29 through Falls Church is also coincident with [[Virginia State Route 237]]. Most of [[Virginia State Route 338]] is also within Falls Church. [[Interstate 66]] passes just north of the city, while [[Interstate 495 in Virginia|Interstate 495]] passes a few miles to the west.
+
+==Notable people==
+* [[Golnar Adili]] (1976), multidisciplinary artist<ref>{{Cite web|url=http://victoricontemporary.com/artists/golnar-adili/|title=Golnar Adili|website=Victori Contemporary|access-date=April 10, 2016|archive-url=https://web.archive.org/web/20161006040945/http://victoricontemporary.com/artists/golnar-adili/|archive-date=October 6, 2016|url-status=dead}}</ref>
+* [[Brian Alvey]], entrepreneur
+* [[Tommy Amaker]] (1965), current men's basketball head coach at [[Harvard Crimson men's basketball|Harvard University]]<ref name=A06p>{{cite news|title=Amaker 2006 profile: Who is Tommy Amaker?|date=April 5, 2006|work=[[Ann Arbor News]]|author=Fenno, Nathan}} reprinted at {{cite web|url=http://blog.mlive.com/annarbornews/2007/03/amaker_profile.html|access-date=April 2, 2010|date=March 17, 2007|title=Amaker 2006 profile: Who is Tommy Amaker?|author=McVety, Dave|publisher=Mlive.com}}</ref>
+* [[Bruce Bochy]], former Major League Baseball player, and 4x [[World Series]] champion as a manager; 2010, 2012, 2014, and 2023); the current manager of the [[Texas Rangers (baseball)|Texas Rangers]]. Moved to [[Melbourne, Florida]] in his late teens.
+* [[Allan Bridge]], conceptual artist<ref>{{Cite web|url=http://www.apologyline.com/bridge.html|title=Allan Bridge|website=The Apology Line|access-date=April 24, 2019|archive-date=April 26, 2012|archive-url=https://web.archive.org/web/20120426001309/http://www.apologyline.com/bridge.html|url-status=dead}}</ref>
+* [[Jane Brucker]], actress and screenwriter<ref>{{Cite web|url=https://people.com/archive/different-moves-vol-57-no-10/|title=Different Moves|website=People|language=en|access-date=April 24, 2019}}</ref>
+* [[Ruby Bradley]] (1907–2002), [[U.S. Army]] [[Colonel (United States)|colonel]] 
+* [[Caroline Calloway]], Instagram personality
+* [[Hal Corley]], Emmy-winning TV writer, published playwright<ref name="twsVariety99887">{{cite web 
+| author= Nick Madigan
+| date= February 21, 1999
+| publisher= Variety Magazine
+| url= https://variety.com/1999/film/news/the-write-track-1117491500/
+| title= The write track: Scribes honored at WGA ceremony
+| access-date= October 27, 2020
+| quote=...In daytime serials, “All My Children” took the prize for its writers — Agnes Nixon ... Hal Corley,....
+}}</ref><ref name="twsPTNJ11">{{cite web 
+| author= Walter F. Rodriguez
+| date= January 4, 2013
+| publisher= Playwrights Theater of New Jersey
+| url= http://playwrightstheatreofnewjersey.blogspot.com/2013/01/5-questions-with-hal-corley.html
+| title= 5 Questions With Hal Corley
+| access-date= October 27, 2020
+| quote=... You are a five time Emmys and two WGA Awards winner....
+}}</ref><ref name="twsWG00900">{{cite web 
+| publisher= Writers Guild
+| url= https://awards.wga.org/awards/nominees-winners/2005-1996
+| title= Writers Guild Awards Winners: 2005-1996
+| access-date= October 27, 2020
+| quote= 1999 AWARDS WINNERS ...Daytime Serials ... ALL MY CHILDREN, ABC, Written by Agnes Nixon ... Hal Corley, ... 1997 AWARDS WINNERS ... ALL MY CHILDREN, ABC, Written by Agnes Nixon ... Hal Corley ... 
+}}</ref> 
+* [[Jayme Cramer]], backstroke and butterfly swimmer<ref>{{Cite web|url=http://gostanford.com/news/2013/4/17/208437988.aspx|title=Player Bio: Jayme Cramer|website=Stanford University Athletics|language=en|access-date=April 24, 2019}}</ref>
+* [[Adam Edwards]], racing driver
+* [[Abraham Flexner]], educator known for his role in the 20th century reform of medical and higher education
+* [[Nick Galifianakis (cartoonist)|Nick Galifianakis]], cartoonist<ref>{{cite web|url=http://www.readthehook.com/102984/tell-him-about-it-nick-galifianakis-and-relationship-cartoon|title=Happily-divorced relationship cartoonist tells all|last=Provence|first=Lisa|date=March 14, 2012|work=The Hook|access-date=May 16, 2016}}</ref>
+* [[Ryan Hall (grappler)|Ryan Hall]], professional mixed martial artist who won the [[The Ultimate Fighter: Team McGregor vs. Team Faber|22nd season]] of [[The Ultimate Fighter]], now currently competing in the featherweight division of the [[Ultimate Fighting Championship|UFC]].
+* [[John Hartman]], musician and founding member of [[The Doobie Brothers]]<ref>{{Cite book|url=https://books.google.com/books?id=_NNmFiUnSmUC&q=john+hartman+falls+church+virginia&pg=PA753|title=The Encyclopedia of Popular Music|last=Larkin|first=Colin|date=May 27, 2011|publisher=Omnibus Press|isbn=9780857125958|language=en}}</ref>
+* [[Molly Henneberg]], news reporter, grew up in Falls Church<ref>{{Cite news|url=http://www.washingtonexaminer.com/more-wedding-bells-at-fox/article/128421|title=More wedding bells at Fox|date=May 16, 2008|work=Washington Examiner|access-date=January 31, 2018|language=en}}</ref>
+* [[John Kirby (attorney)|John Kirby]], attorney, credited as namesake for [[Nintendo]]'s character "[[Kirby (character)|Kirby]]"<ref>{{cite web|url=https://www.polygon.com/nintendo/2019/10/5/20900178/kirby-character-name-nintendo-lawyer-john-kirby-obituary|title=John J. Kirby, lawyer and namesake of the Nintendo character, dies at 79 credits|website=[[Polygon (website)|Polygon]]|date=October 5, 2019|access-date=October 7, 2019}}</ref>
+* [[Maria Korsnick]], nuclear plant operator and advocate<ref>{{Cite web |last=Adams |first=Thomas |date=2005-08-26 |title=This high-energy exec leads a nuclear plant |url=https://rbj.net/2005/08/26/this-high-energy-exec-leads-a-nuclear-plant/ |access-date=2024-10-21 |website=Rochester Business Journal |language=en-US}}</ref>
+* [[Louisa Krause]], actress<ref>{{cite web|url=http://www.broadway.com/buzz/6598/louisa-krause/|work=Broadway.com|title=Louisa Krause credits|access-date=June 9, 2016}}</ref>
+* [[Nancy Kyes]], film and television actress<ref>{{cite web |title=50 famous actresses who made their way from Virginia to Hollywood |url=https://www.dcnewsnow.com/news/local-news/virginia/virginia-famous-actresses/ |website=DC News Now |publisher=Nexstar Media Inc |access-date=August 3, 2024 |date=December 16, 2021}}</ref>
+* [[Taryn Manning]], actress
+* [[Matthew F. McHugh]], former US congressman<ref>{{cite encyclopedia|title=McHUGH, Matthew Francis, (1938 – )|url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000473|dictionary=[[Biographical Directory of the United States Congress]]|access-date=August 29, 2017}}</ref>
+* [[Kyle E. McSlarrow]], former Deputy Secretary of the United States Department of Energy<ref>{{cite web |title=TESTIMONY: Kyle E. McSlarrow, Deputy Secretary of Energy |url=https://ehss.energy.gov/deprep/archive/documents/PM031021_Attach2.pdf |publisher=Defense Nuclear Facilities Safety Board Public hearing |access-date=August 3, 2024 |date=October 21, 2003}}</ref>
+* [[Patricia Mernone]], racing driver and [[Organic chemistry|organic chemist]]
+* [[Alixa Naff]], historian<ref name=stimes>{{cite news|first=Matthew |last=Barakat |title=Arab-American scholar Alixa Naff dies at 93 |url=http://seattletimes.com/html/nationworld/2021124546_apusobitarabamericanscholar.html?syndication=rss%20%20target= |agency=[[Associated Press]] |work=[[Seattle Times]] |date=June 5, 2013 |access-date=June 30, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20140718214528/http://seattletimes.com/html/nationworld/2021124546_apusobitarabamericanscholar.html?syndication=rss%20%20target%3D |archive-date=July 18, 2014}}</ref>
+* [[Joseph Harvey Riley]], ornithologist<ref name="Alexander Wetmore 1943 1–15">{{cite journal|title=In Memoriam: Joseph Harvey Riley|journal=Auk|volume=60|issue=1|year=1943|pages=1–15|url=http://sora.unm.edu/node/18449|author=Alexander Wetmore|doi=10.2307/4079305|jstor=4079305}}</ref>
+* [[Joe Saunders]], former pitcher for the [[Arizona Diamondbacks]].
+* [[Eric Schmidt]] (1955), Executive Chairman & former CEO of Google, former CEO of Novell, 96th-richest person in the world as of April 2021<ref>{{cite web |first=Greg |last=Esposito |url=http://www.roanoke.com/news/roanoke/wb/90859 |title=Google CEO gives Va. Tech $2 million |publisher=Roanoke.com |date=November 10, 2006 |access-date=January 13, 2013 |url-status=dead |archive-url=https://archive.today/20120526041952/http://www.roanoke.com/news/roanoke/wb/90859 |archive-date=May 26, 2012}}</ref><ref>{{Cite web|last=Forbes|title=THE RICHEST PEOPLE IN THE WORLD|url=https://www.forbes.com/billionaires/|access-date=April 29, 2021|website=www.forbes.com}}</ref>
+* [[Mohamed Soltan]], political activist<ref>{{cite web |url=http://www.talkmedianews.com/featured/2017/04/03/activist-mohamed-soltan-slams-egyptian-president-abdel-fattah-el-sisis-regime/ |title=Activist Mohamed Soltan slams Egyptian President Abdel Fattah el-Sisi's regime |access-date=July 15, 2020 |url-status=dead |archive-date=January 17, 2019 |archive-url=https://web.archive.org/web/20190117013644/http://www.talkmedianews.com/featured/2017/04/03/activist-mohamed-soltan-slams-egyptian-president-abdel-fattah-el-sisis-regime/ }}</ref>
+* [[Fred Talbot (baseball)|Fred Talbot]] (1941–2013), professional baseball player<ref>"[http://www.legacy.com/obituaries/washingtonpost/obituary.aspx?n=FREDERICK-TALBOT&pid=162397156#fbLoggedOut Death Notice: FREDERICK L. TALBOT]", The Washington Post, January 16, 2013</ref>
+*[[Tatianna]], drag performer and competitor on [[RuPaul's Drag Race]]<ref>{{cite web |first=Nicholas |last=Benton |url=https://fcnp.com/2010/03/10/falls-churchs-tatianna-rocks-rupauls-world/ |title=Falls Church's Tatianna Rocks RuPaul's World |publisher=fcnp.com |date=March 10, 2010 |access-date=May 27, 2020 }}</ref>
+*[[James Thurber]] (1902) author and humorist, namesake of James Thurber Ct in Falls Church<ref>{{Cite news|last=Kelly|first=John|title=Perspective {{!}} Why is there a street in Falls Church, Va., named after James Thurber?|language=en-US|newspaper=[[The Washington Post]]|url=https://www.washingtonpost.com/local/why-is-there-a-street-in-falls-church-va-named-after-james-thurber/2018/04/07/98d14084-3903-11e8-9c0a-85d477d9a226_story.html|access-date=April 29, 2021|issn=0190-8286}}</ref>
+*[[Marie Hirst Yochim]], 35th President General of the [[Daughters of the American Revolution]]
+
+==In popular culture==
+*The principal characters in the television series ''[[The Americans]]'', Philip and Elizabeth Jennings, and their children Paige and Henry, as well as [[FBI]] agent Stan Beeman, live in Falls Church.<ref>{{Cite web|date=April 20, 2017|title=Kelly AuCoin of "The Americans" Reflects on Local History|url=https://www.fcnp.com/2017/04/20/kelly-aucoin-americans-reflects-local-history/|access-date=April 29, 2021|website=Falls Church News-Press Online|language=en-US}}</ref>
+*In the TV Series ''[[JAG (TV series)|JAG]]'', their headquarters are in Falls Church, Virginia.
+
+== Sister city ==
+In 2006, Falls Church entered into a [[sister city]] relationship with [[Kokolopori]], [[Democratic Republic of the Congo]].<ref>[https://web.archive.org/web/20110716004756/http://www.fallschurchva.gov/Content/CultureRecreation/SisterCity.aspx?&cnlid=1329 "Kokolopori-Falls Church Sister City Partnership," Falls Church City official site (archived page; accessed 8 May 2012)]</ref>
+
+{{Portal|Virginia}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Commons category|Falls Church, Virginia}}
+* {{Wikivoyage inline|Falls Church}}
+
+{{Clear}}
+{{Geographic location
+|Centre    = Falls Church, Virginia
+|North     = [[Fairfax County, Virginia|Fairfax County]]
+|Northeast =
+|East      = [[Arlington County, Virginia|Arlington County]]
+|Southeast =
+|South     = [[Fairfax County, Virginia|Fairfax County]]
+|Southwest =
+|West      = [[Fairfax County, Virginia|Fairfax County]]
+|Northwest =
+}}
+
+{{Virginia}}
+{{DCMetroArea}}
+{{Virginia county seats and independent cities}}
+
+{{authority control}}
+
+[[Category:Falls Church, Virginia| ]]
+[[Category:Cities in Virginia]]
+[[Category:Washington metropolitan area]]
+[[Category:Little Saigons]]
+[[Category:Virginia in the American Civil War]]
+[[Category:Populated places established in 1733]]
+[[Category:1733 establishments in the Colony of Virginia]]<!--settlement-->
+[[Category:1948 establishments in Virginia]]<!--incorporated city-->
