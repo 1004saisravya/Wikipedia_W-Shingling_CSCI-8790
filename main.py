@@ -2,6 +2,9 @@ import hashlib
 import re
 import time
 import matplotlib.pyplot as plt
+import numpy as np
+from statistics import mean
+from collections import defaultdict
 from pathlib import Path
 
 def read_input_file(file_name):
@@ -115,6 +118,10 @@ def intersection(list1, list2):
     """
     return list(set(list1) & set(list2))
 
+# -----------------------------
+# Everything below is the added/modified logic
+# -----------------------------
+
 # Patterns to support both naming styles in the data folders
 _PAT_C_CURR = re.compile(r"^(.+)_C\.txt$")
 _PAT_C_OLD  = re.compile(r"^(.+)_C-(\d+)\.txt$")
@@ -124,21 +131,8 @@ _PAT_VC_OLD  = re.compile(r"^VC_T-(\d+)\.txt$")
 def _lambda_min(hashes, lam):
     """
     λ-min selection on hashed shingles.
-
     Keep the lexicographically smallest λ hash strings to form a compact
     sketch of the document. If λ is ∞, keep all hashes.
-
-    Parameters
-    ----------
-    hashes : list[str]
-        MD5 hex strings for a document's shingles.
-    lam : int or float('inf')
-        Number of smallest hashes to keep (∞ → all).
-
-    Returns
-    -------
-    list[str]
-        Selected hash strings.
     """
     if lam == float("inf"):
         return list(hashes)
@@ -148,16 +142,6 @@ def _lambda_min(hashes, lam):
 def _jaccard(hashes_a, hashes_b):
     """
     Jaccard similarity between two hash sets.
-
-    Parameters
-    ----------
-    hashes_a : list[str]
-    hashes_b : list[str]
-
-    Returns
-    -------
-    float
-        |A ∩ B| / |A ∪ B| where A,B are sets of hash strings.
     """
     A, B = set(hashes_a), set(hashes_b)
     if not A and not B:
@@ -167,21 +151,10 @@ def _jaccard(hashes_a, hashes_b):
 def _find_city_versions(city_dir: Path):
     """
     Locate the current file and all older versions for a city.
-
-    Supports both naming schemes used in the project:
+    Supports both naming schemes:
       1) <City_State>_C.txt , <City_State>_C-3.txt , ...
       2) VC_T.txt , VC_T-3.txt , ...
-
-    Parameters
-    ----------
-    city_dir : Path
-        Directory containing the city's text files.
-
-    Returns
-    -------
-    tuple[Path, list[tuple[str, Path, int]]]
-        current_path,
-        list of (version_name, version_path, numeric_lag) sorted by lag.
+    Returns (current_path, [(version_label, path, lag_int), ...]) sorted by lag.
     """
     files = [p for p in city_dir.iterdir() if p.is_file() and p.suffix == ".txt"]
     current = None
@@ -205,75 +178,124 @@ def _find_city_versions(city_dir: Path):
     older.sort(key=lambda x: x[2])
     return current, older
 
-def _process_city(city, w_values, lam_values, root: Path, out_dir: Path):
+def _compute_city_jaccards(city_dir: Path, w_values, lam_values):
     """
-    Compute Jaccard(current, older) for all (w, λ) and save CSV.
-
-    Parameters
-    ----------
-    city : str
-        City folder name under the data root.
-    w_values : list[int]
-        Window sizes to evaluate (e.g., [25, 50]).
-    lam_values : list[Union[int, float]]
-        λ-min sizes (e.g., [8,16,32,64,float('inf')]).
-    root : Path
-        Data root (./data or ./Data).
-    out_dir : Path
-        Output directory for CSV files.
-
-    Returns
-    -------
-    Path | None
-        Path to the city's CSV if processed, else None.
+    Computes per-city similarities without writing CSV.
+    Returns: dict like results[w][lam] -> list[(version_label, jaccard_float)]
     """
-    city_dir = root / city
-    if not city_dir.exists():
-        print(f"[skip] {city} not found in {root}")
-        return None
-
-    out_dir.mkdir(parents=True, exist_ok=True)
-    csv_file = out_dir / f"{city}.csv"
-
     current, older = _find_city_versions(city_dir)
     text_cur = read_input_file(str(current)).lower()
 
-    with open(csv_file, "w", encoding="utf-8") as f:
-        f.write("city,version,w,lambda,jaccard\n")
+    # Precompute current shingles & hashes per w to reuse across λ
+    cur_hashes_by_w = {}
+    for w in w_values:
+        cur_sh = w_shingles(text_cur, w, 1)  # stride=1 per spec
+        cur_h  = hash_shingles(cur_sh)
+        cur_hashes_by_w[w] = cur_h
+
+    # For each older version, compute hashes per w, then jaccard for each λ
+    results = {w: {lam: [] for lam in lam_values} for w in w_values}
+
+    for ver_label, ver_path, _lag in older:
+        text_old = read_input_file(str(ver_path)).lower()
         for w in w_values:
-            cur_sh = w_shingles(text_cur, w, 1)   # stride=1 per spec
-            cur_h  = hash_shingles(cur_sh)
+            old_sh = w_shingles(text_old, w, 1)
+            old_h  = hash_shingles(old_sh)
+
+            # reuse current hashes for this w
+            cur_h = cur_hashes_by_w[w]
             for lam in lam_values:
                 cur_sel = _lambda_min(cur_h, lam)
-                for ver_name, ver_path, _ in older:
-                    text_old = read_input_file(str(ver_path)).lower()
-                    old_sh = w_shingles(text_old, w, 1)
-                    old_h  = hash_shingles(old_sh)
-                    old_sel = _lambda_min(old_h, lam)
-                    sim = _jaccard(cur_sel, old_sel)
-                    lam_str = "inf" if lam == float("inf") else str(lam)
-                    f.write(f"{city},{ver_name},{w},{lam_str},{sim:.6f}\n")
-    print(f"[{city}] results → {csv_file}")
-    return csv_file
+                old_sel = _lambda_min(old_h, lam)
+                sim = _jaccard(cur_sel, old_sel)
+                results[w][lam].append((ver_label, sim))
 
+    # Ensure version order by numeric lag in the label, e.g., C-3, VC_T-6
+    lag_num = lambda v: int(re.search(r"(\d+)$", v).group(1)) if re.search(r"(\d+)$", v) else 0
+    for w in w_values:
+        for lam in lam_values:
+            results[w][lam].sort(key=lambda kv: lag_num(kv[0]))
+
+    return results
+
+def _plot_city_w_facets(city: str, results, out_dir: Path, lam_values, w):
+    """
+    For (city, w), produce one PNG with 5 subplots (one per λ).
+    Saves to: output/plots/{city}_w{w}_lambdas_facet.png
+    """
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    # Build x-axis (shared across λ) using any λ group
+    any_lam = next(iter(results[w].keys()))
+    xs = [v for v, _ in results[w][any_lam]]
+
+    # 5 subplots stacked (5 rows x 1 column)
+    fig, axes = plt.subplots(nrows=5, ncols=1, figsize=(10, 14), sharex=True, constrained_layout=True)
+
+    for idx, lam in enumerate(lam_values):
+        ax = axes[idx]
+        ys = [s for _, s in results[w][lam]]
+        lam_str = "inf" if lam == float("inf") else str(lam)
+        ax.plot(xs, ys, marker="o")
+        ax.set_title(f"w={w}, λ={lam_str}")
+        ax.set_ylabel("Jaccard")
+        ax.set_ylim(0, 1)
+        ax.set_yticks(np.arange(0, 1.1, 0.2))
+        ax.grid(True, linestyle="--", alpha=0.5)
+
+    axes[-1].set_xlabel("Older version (C-3, C-6, …)")
+    for ax in axes:
+        ax.tick_params(axis="x", rotation=45)
+
+    outfile = out_dir / f"{city}_w{w}_lambdas_facet.png"
+    fig.suptitle(f"{city} — Jaccard vs Version (5 λ subplots)", fontsize=14)
+    fig.savefig(outfile, dpi=150)
+    plt.close(fig)
+    print(f"[plot] {outfile}")
+
+# ---------- ADDED: closest-λ CSV (computed from in-memory results) ----------
+def _write_closest_lambda_from_results(city: str, results, lam_values, out_dir: Path):
+    """
+    For a city's in-memory results:
+      For each w, find finite λ whose mean Jaccard is closest to λ=∞ mean.
+    Writes: output/results/closest_lambda/closest_lambda_<city>.csv
+    Columns: w,best_lambda,abs_gap_vs_inf,inf_mean,lambda_mean
+    """
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_csv = out_dir / f"closest_lambda_{city}.csv"
+
+    rows = []
+    for w, lam_dict in results.items():
+        # Must have ∞ to compare against
+        if float("inf") not in lam_dict:
+            continue
+        inf_mean = mean([s for _, s in lam_dict[float("inf")]])
+        best = None
+        for lam in lam_values:
+            if lam == float("inf"):
+                continue
+            lam_mean = mean([s for _, s in lam_dict[lam]])
+            gap = abs(lam_mean - inf_mean)
+            if best is None or gap < best[2]:
+                best = (lam, lam_mean, gap)
+        if best:
+            rows.append((w, best[0], best[2], inf_mean, best[1]))
+
+    if rows:
+        with open(out_csv, "w", encoding="utf-8") as f:
+            f.write("w,best_lambda,abs_gap_vs_inf,inf_mean,lambda_mean\n")
+            for w, lam, gap, inf_mean, lam_mean in rows:
+                lam_str = "inf" if lam == float("inf") else str(lam)
+                f.write(f"{w},{lam_str},{gap:.6f},{inf_mean:.6f},{lam_mean:.6f}\n")
+        for w, lam, gap, inf_mean, lam_mean in rows:
+            lam_str = "inf" if lam == float("inf") else str(lam)
+            print(f"[closest-λ] {city}: w={w} → λ={lam_str} (|{lam_mean:.4f}−{inf_mean:.4f}|={gap:.4f})")
+
+# ---------- ADDED: timing over entire corpus + timing plot ----------
 def _collect_all_texts(root: Path, cities):
     """
     Gather every text from all cities (current + each older version).
-
-    Used for the timing experiment to measure total shingling + λ-min
-    cost over the whole corpus.
-
-    Parameters
-    ----------
-    root : Path
-        Data root (./data or ./Data).
-    cities : list[str]
-        City folder names.
-
-    Returns
-    -------
-    list[str]
-        Lowercased document texts.
+    Returns: list[str] lowercased texts.
     """
     texts = []
     for city in cities:
@@ -285,33 +307,12 @@ def _collect_all_texts(root: Path, cities):
             texts.append(read_input_file(str(p)).lower())
     return texts
 
-def _timing(cities, w_values, lam_values, root: Path, out_dir: Path, runs=3):
+def _timing_over_corpus(cities, w_values, lam_values, root: Path, out_dir: Path, runs=3):
     """
-    Simple timing experiment over the corpus.
-
     For each (w, λ), measure average time (seconds) of:
       shingling (stride=1) → hashing → λ-min selection,
     aggregated across all documents (all cities, all versions).
-
-    Parameters
-    ----------
-    cities : list[str]
-        City folder names to include.
-    w_values : list[int]
-        Window sizes to evaluate.
-    lam_values : list[Union[int, float]]
-        λ values to evaluate (including ∞).
-    root : Path
-        Data root.
-    out_dir : Path
-        Output directory for timing.csv.
-    runs : int
-        Repeat count to average timings.
-
-    Returns
-    -------
-    Path
-        Path to timing.csv.
+    Writes: output/results/timing.csv with columns w,lambda,avg_seconds
     """
     texts = _collect_all_texts(root, cities)
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -334,74 +335,16 @@ def _timing(cities, w_values, lam_values, root: Path, out_dir: Path, runs=3):
     print(f"[timing] results → {csv_file}")
     return csv_file
 
-# ---- simple plotting (uses only matplotlib) ----
-def _try_import_matplotlib():
-    try:
-        import matplotlib.pyplot as plt
-        return plt
-    except Exception:
-        return None
-
-def _plot_city_from_csv(city, csv_path: Path, out_dir: Path):
-    """
-    Read similarities_<city>.csv and plot Jaccard vs version
-    for each (w, λ). One PNG per (w, λ).
-    """
-    plt = _try_import_matplotlib()
-    if plt is None:
-        print("[plot] matplotlib not available; skipping city plots")
-        return
-    out_dir.mkdir(parents=True, exist_ok=True)
-
-    lines = csv_path.read_text(encoding="utf-8").strip().splitlines()
-    if len(lines) <= 1:
-        return
-    header = lines[0].split(",")
-    rows = [ln.split(",") for ln in lines[1:] if ln.strip()]
-
-    # group by (w, lambda)
-    from collections import defaultdict
-    groups = defaultdict(list)   # (w, lam) -> [(version, jaccard_float)]
-    for city_, version, w, lam, jac in rows:
-        if city_ != city:
-            continue
-        groups[(int(w), lam)].append((version, float(jac)))
-
-    # sort by numeric lag in the version name (e.g., C-3, VC_T-6, ...)
-    import re
-    for (w, lam), pairs in groups.items():
-        pairs.sort(key=lambda x: int(re.search(r"(\d+)$", x[0]).group(1)) if re.search(r"(\d+)$", x[0]) else 0)
-        xs = [v for v, _ in pairs]
-        ys = [s for _, s in pairs]
-        plt.figure()
-        plt.plot(xs, ys, marker="o")
-        plt.title(f"{city} — Jaccard vs Version (w={w}, λ={lam})")
-        plt.xlabel("Older version (C-3, C-6, ...)")
-        plt.ylabel("Jaccard similarity")
-        plt.xticks(rotation=45, ha="right")
-        plt.grid(True, linestyle="--", alpha=0.5)
-        plt.tight_layout()
-        out_png = out_dir / f"{city}_w{w}_lam{lam}.png"
-        plt.savefig(out_png, dpi=150)
-        plt.close()
-        print(f"[plot] {out_png}")
-
 def _plot_timing_from_csv(csv_path: Path, out_png: Path):
     """
     Read timing.csv and plot avg_seconds vs λ, one line per w.
     """
-    plt = _try_import_matplotlib()
-    if plt is None:
-        print("[plot] matplotlib not available; skipping timing plot")
-        return
-
     lines = csv_path.read_text(encoding="utf-8").strip().splitlines()
     if len(lines) <= 1:
         return
     rows = [ln.split(",") for ln in lines[1:] if ln.strip()]
 
     # organize into series per w with λ on x-axis in file order
-    from collections import defaultdict
     by_w = defaultdict(list)
     lam_axis = []
     for w, lam, secs in rows:
@@ -423,92 +366,48 @@ def _plot_timing_from_csv(csv_path: Path, out_png: Path):
     plt.close()
     print(f"[plot] {out_png}")
 
-from statistics import mean
-from collections import defaultdict
-
-def _closest_lambda_to_inf(csv_path: Path, summary_out_dir: Path):
-    """
-    For a city's results CSV: for each w, find the finite λ whose
-    mean Jaccard across versions is closest to the λ=∞ mean.
-
-    Writes: output/results/closest_lambda/closest_lambda_<city>.csv
-    Columns: w,best_lambda,abs_gap_vs_inf,inf_mean,lambda_mean
-    """
-    lines = csv_path.read_text(encoding="utf-8").strip().splitlines()
-    if len(lines) <= 1:
-        return None
-
-    # rows: city,version,w,lambda,jaccard
-    rows = [ln.split(",") for ln in lines[1:] if ln.strip()]
-    by_w_lam = defaultdict(list)  # (int(w), lam_str) -> [jaccard floats]
-    for _city, _ver, w, lam, jac in rows:
-        by_w_lam[(int(w), lam)].append(float(jac))
-
-    results = []
-    ws = sorted({w for (w, _lam) in by_w_lam.keys()})
-    for w in ws:
-        key_inf = (w, "inf")
-        if key_inf not in by_w_lam:
-            # No ∞ line in this file → skip this w
-            continue
-        inf_mean = mean(by_w_lam[key_inf])
-
-        best = None
-        for (ww, lam) in by_w_lam:
-            if ww != w or lam == "inf":
-                continue
-            lam_mean = mean(by_w_lam[(w, lam)])
-            gap = abs(lam_mean - inf_mean)
-            if best is None or gap < best[2]:
-                best = (lam, lam_mean, gap)
-
-        if best:
-            results.append((w, best[0], best[2], inf_mean, best[1]))
-
-    if not results:
-        return None
-
-    summary_out_dir.mkdir(parents=True, exist_ok=True)
-    out_csv = summary_out_dir / f"closest_lambda_{csv_path.stem}.csv"
-    with open(out_csv, "w", encoding="utf-8") as f:
-        f.write("w,best_lambda,abs_gap_vs_inf,inf_mean,lambda_mean\n")
-        for w, lam, gap, inf_mean, lam_mean in results:
-            f.write(f"{w},{lam},{gap:.6f},{inf_mean:.6f},{lam_mean:.6f}\n")
-
-    # Also print a one-liner for quick inspection
-    for w, lam, gap, inf_mean, lam_mean in results:
-        print(f"[closest-λ] {csv_path.stem}: w={w} → λ={lam} (|{lam_mean:.4f}−{inf_mean:.4f}|={gap:.4f})")
-
-    return out_csv
-
-
 def main():
+    # Data root detection compatible with your structure
     root = Path("data")
     if not root.exists():
         alt = Path("Data")
         root = alt if alt.exists() else root
 
+    if not root.exists():
+        raise FileNotFoundError("Could not find 'data/' or 'Data/' directory.")
+
+    out_plots = Path("output/plots")
     out_results = Path("output/results")
-    out_plots   = Path("output/plots")
+    out_closest = out_results / "closest_lambda"
+
     cities = [d.name for d in root.iterdir() if d.is_dir()]
+    if not cities:
+        print("[warn] No city folders found under", root)
+        return
 
-
+    # Required parameter grid
     w_values   = [25, 50]
     lam_values = [8, 16, 32, 64, float("inf")]
 
-    city_csv_paths = []
-    summary_dir = out_results / "closest_lambda"
+    # Per-city processing: plots + closest-λ CSV
     for city in cities:
-        csv_path = _process_city(city, w_values, lam_values, root=root, out_dir=out_results)
-        if csv_path:
-            city_csv_paths.append((city, csv_path))
-            _closest_lambda_to_inf(csv_path, summary_out_dir=summary_dir) #compute “closest λ to ∞” per w for this city
-    
-    t_csv = _timing(cities, w_values, lam_values, root=root, out_dir=out_results, runs=3)
+        city_dir = root / city
+        try:
+            results = _compute_city_jaccards(city_dir, w_values, lam_values)
+        except FileNotFoundError as e:
+            print(f"[skip] {city}: {e}")
+            continue
 
-    for city, csv_path in city_csv_paths:
-        _plot_city_from_csv(city, csv_path, out_dir=out_plots)
-    _plot_timing_from_csv(t_csv, out_png=out_plots / "timing.png")
+        # Create one PNG per w, each with 5 subplots
+        for w in w_values:
+            _plot_city_w_facets(city, results, out_plots, lam_values, w)
+
+        # NEW: write closest-λ CSV for this city (from in-memory results)
+        _write_closest_lambda_from_results(city, results, lam_values, out_closest)
+
+    # NEW: timing over corpus + timing plot
+    timing_csv = _timing_over_corpus(cities, w_values, lam_values, root=root, out_dir=out_results, runs=3)
+    _plot_timing_from_csv(Path(timing_csv), out_png=out_plots / "timing.png")
 
 if __name__ == "__main__":
     main()
