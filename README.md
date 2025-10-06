@@ -2,7 +2,7 @@ The objective of this project is to investigate the evolution of Wikipedia city 
 
 The pipeline reads a corpus of plain-text Wikipedia pages for various cities, converts each page to lowercase, separates it into words, and generates w-shingles at stride 1. A new ID is created for each shingle by hashing its content with MD5 to get a fixed-length ID. A λ-min sketch is then formed by keeping the lexicographically smallest λ hashes (λ = ∞ will simply keep all the hashes). Jaccard similarity is computed between the newest page and every previous page version. Finally, it will output CSVs (incoming similarities plus “closest-λ”/midpoint summaries), generate city-specific PNG plots with five stacked subplots (one for each λ), and output a timing plot reporting average seconds versus λ (two curves per page version for w=25 and w=50).
 
-<img width="1646" height="634" alt="image" src="https://github.com/user-attachments/assets/7c2d0f4f-5d50-4754-b62d-69da732d4b76" />
+<img width="1646" height="634" alt="image" src="https://github.com/user-attachments/assets/7c2d0f4f-5d50-4754-b62d-69da732d4b76" figcaption=closest lambda values/>
 
 
 
