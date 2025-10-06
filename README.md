@@ -2,11 +2,16 @@ The objective of this project is to investigate the evolution of Wikipedia city 
 
 The pipeline reads a corpus of plain-text Wikipedia pages for various cities, converts each page to lowercase, separates it into words, and generates w-shingles at stride 1. A new ID is created for each shingle by hashing its content with MD5 to get a fixed-length ID. A λ-min sketch is then formed by keeping the lexicographically smallest λ hashes (λ = ∞ will simply keep all the hashes). Jaccard similarity is computed between the newest page and every previous page version. Finally, it will output CSVs (incoming similarities plus “closest-λ”/midpoint summaries), generate city-specific PNG plots with five stacked subplots (one for each λ), and output a timing plot reporting average seconds versus λ (two curves per page version for w=25 and w=50).
 
-<img width="1646" height="634" alt="image" src="https://github.com/user-attachments/assets/7c2d0f4f-5d50-4754-b62d-69da732d4b76" figcaption=closest lambda values/>
+<img width="1646" height="634" alt="image" src="https://github.com/user-attachments/assets/7c2d0f4f-5d50-4754-b62d-69da732d4b76"/>
+
+<img width="1686" height="1248" alt="image" src="https://github.com/user-attachments/assets/c057d1fa-7877-4b0b-abc4-eb14e59c08ed" />
 
 
 
 We consider two sizes of the shingle window, w = 25 and w = 50, and five sizes for the sketches, λ = 8, 16, 32, 64, ∞ (where λ = ∞ implies we keep all the hashes with no sketching). For each (w,λ) combination, we compute the Jaccard similarity between the current page and all historical versions of the page, and report the historical versions in chronological order according to numeric lag so that the x-axis reflect the timeline of edits.
+
+<img width="410" height="624" alt="image" src="https://github.com/user-attachments/assets/ad725421-1035-4cc8-9c8e-d934ecb6cdcd" />
+
 
 MD5 (Message Digest 5) is a fast, deterministic hash function that maps any input (like a text shingle) to a fixed-length 128-bit “fingerprint.” In this project, we use MD5 to turn each shingle into a compact, fixed-size ID so we can compare sets efficiently and build λ-min sketches.
 
